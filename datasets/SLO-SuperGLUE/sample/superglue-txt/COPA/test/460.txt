@@ -1,0 +1,5 @@
+choice1:Ni šel na izpit.
+choice2:Naredil je izpit.
+idx:460
+premise:Deček se je učil celo noč.
+question:effect

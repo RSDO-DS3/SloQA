@@ -1,0 +1,4 @@
+hypothesis:ona je veèina v Texasu
+idx:39
+label:contradiction
+premise:A: No, pravzaprav, uh, A: Mislim, da nisem uh, veèina v Teksasu

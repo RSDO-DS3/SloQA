@@ -1,0 +1,5 @@
+choice1:Nastavil je budilko.
+choice2:Prešteval je ovce.
+idx:499
+premise:Fant ni mogel zaspati.
+question:effect

@@ -1,0 +1,5 @@
+choice1:Oče mu je dal piti gazirano pijačo.
+choice2:Oče je ustavil na bencinski črpalki.
+idx:54
+premise:Otrok je potožil, da mora na stranišče.
+question:effect

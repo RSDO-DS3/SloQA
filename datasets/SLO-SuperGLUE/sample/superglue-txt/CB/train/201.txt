@@ -1,0 +1,4 @@
+hypothesis:želeli bi iti tja, kjer so nekoè delali
+idx:201
+label:contradiction
+premise:A: Res ne. Ampak ne, ko bo napoèil èas, upam, se bomo resnièno dobro pogledali, preden se odloèim za enega za mojih staršev B: A-ha. A: Res, saj sem bil vzgojen v enem, saj veste, zato je tukaj veliko stvari, ki jih moram paziti. B: Ja. A: In mislim, da ne bi želeli iti tja, kjer so nekoè delali, veste.

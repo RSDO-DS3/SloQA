@@ -1,0 +1,4 @@
+hypothesis:krojač tega tipa je bil iz Dublina
+idx:55
+label:entailment
+premise:Vrvež ob kosilu je večinoma izginil, zato ga ni bilo težko najti. Bil je za mizo ob oknu, a se ni zmenil za reko, ker je bil globoko v pogovoru z moškim srednjih let, ki je nosil obleko in kratek avtomobilski plašč iz ovčje kože z ujemajočimi rjavimi semiš čevlji. Celo s te razdalje si lahko uganil, da je bil krojač tega tipa iz Dublina.

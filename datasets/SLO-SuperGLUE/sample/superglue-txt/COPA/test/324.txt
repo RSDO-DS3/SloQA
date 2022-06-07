@@ -1,0 +1,5 @@
+choice1:Stavil je ves svoj denar.
+choice2:Domov je odšel bankrotiran.
+idx:324
+premise:Kockar je bil samozavesten.
+question:effect

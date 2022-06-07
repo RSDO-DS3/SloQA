@@ -1,0 +1,3 @@
+hypothesis:verjame, da more biti vsak tajnik v vsakem podjetju testiran na droge
+idx:185
+premise:B: Mislim, da bi jih bilo treba nakljuèno izbrati za testiranje na droge. A: Ja. B: Verjamem, popolnoma v to. A: Ja. B: Ne vem, ne verjamem, da mora biti ravno vsak tajnik v vsakem podjetju.

@@ -1,0 +1,5 @@
+choice1:Voznik se je zabil v telefonski drog.
+choice2:Voznik je prevozil rdečo.
+idx:459
+premise:Na avtu je nastala udrtina.
+question:cause

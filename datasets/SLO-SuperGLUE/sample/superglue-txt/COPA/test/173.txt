@@ -1,0 +1,5 @@
+choice1:Voznik je prižgal prednje luči.
+choice2:Voznik je prestavil avto v vzvratno.
+idx:173
+premise:Pričelo je deževati.
+question:effect

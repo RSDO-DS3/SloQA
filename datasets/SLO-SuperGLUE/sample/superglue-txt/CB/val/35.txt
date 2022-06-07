@@ -1,0 +1,4 @@
+hypothesis:obstaja težava
+idx:35
+label:entailment
+premise:B: Èe imaš otroka, ki je iz razbite družine, se prièakuje, da šole zapolnijo to praznino. Prišlo je že dlje od uh, saj veste, pouèevanja in izvajanja obšolskih športnih dejavnosti ali kaj podobnega, oh, tradicionalne vloge šole. A: Ja. Ja, zanimivo je, ker, uh, ravno vèeraj sem se pogovarjala o tem, uh, z nekaj ljudmi. In izražala sem svojo frustracijo, ker, uh, toliko težav, delam v srednji šoli, je, da otroci nimajo doloèene stopnje samodiscipline, ki bi se lahko odrazila. Uh, in ne moreš prièakovati, da bo v razredu doloèen predmet, ki traja uro na dan zamenjal sedemnajst let slabe vzgoje. B: Prav. A: Hm, in to se vidi bolj, ker ko reèete staršem, mnogi starši sploh ne bodo videli, da obstaja težava

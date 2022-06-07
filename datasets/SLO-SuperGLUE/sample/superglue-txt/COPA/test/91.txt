@@ -1,0 +1,5 @@
+choice1:Njegov sodelavec je napredoval.
+choice2:Njegov sodelavec je pozno delal.
+idx:91
+premise:Bil je ljubosumen na svojega sodelavca.
+question:cause

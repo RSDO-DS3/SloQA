@@ -1,0 +1,5 @@
+choice1:Kamion je pospešil.
+choice2:Avto je razbilo.
+idx:203
+premise:Kamion se je zaletel v avto.
+question:effect

@@ -1,0 +1,5 @@
+choice1:Iz čaja se je kadila para.
+choice2:Sladkor se je stopil.
+idx:411
+premise:V vroč čaj sem zamešal sladkor.
+question:effect

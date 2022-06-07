@@ -1,0 +1,5 @@
+choice1:Police so bile prekrite s prahom.
+choice2:Potres je zatresel knjižno polico.
+idx:96
+premise:Knjige so padle s knjižne police.
+question:cause

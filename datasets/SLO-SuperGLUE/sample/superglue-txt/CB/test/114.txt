@@ -1,0 +1,3 @@
+hypothesis:želel bi si mačko
+idx:114
+premise:B: Res je dobra mačka, ampak. A: No, moja osebna preferenca je pes. Em, ne spomnim se, da bi si, em, kadarkoli želel mačko.

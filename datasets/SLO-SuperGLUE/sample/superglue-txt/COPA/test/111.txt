@@ -1,0 +1,5 @@
+choice1:Njihov pes je pobegnil od doma.
+choice2:Iz njihovega doma je izginil dragocen nakit.
+idx:111
+premise:Družina je preiskala sosesko.
+question:cause

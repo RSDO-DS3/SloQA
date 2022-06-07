@@ -1,0 +1,5 @@
+choice1:Stal je pod košatim drevesom.
+choice2:Stal je poleg mirnega jezera.
+idx:109
+premise:Mož je zagledal svoj odsev.
+question:cause

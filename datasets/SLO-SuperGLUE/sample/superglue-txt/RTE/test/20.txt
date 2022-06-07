@@ -1,0 +1,3 @@
+hypothesis:V pokrajini Morazan so ubili Mauricia Pineda.
+idx:20
+premise:Salvadorskega novinarja Mauricia Pineda, ki je kot tonski mojster delal za lokalno televizijsko postajo Doce, so danes do smrti ustrelili na vzhodu države, v pokrajini Morazan.

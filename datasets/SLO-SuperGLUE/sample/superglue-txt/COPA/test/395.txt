@@ -1,0 +1,5 @@
+choice1:Par je naznanil, da gresta narazen.
+choice2:Par je naznanil, da pričakujeta otroka.
+idx:395
+premise:Družina je čestitala paru.
+question:cause

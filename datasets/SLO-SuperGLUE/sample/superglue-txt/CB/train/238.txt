@@ -1,0 +1,4 @@
+hypothesis:brez razprave so odloèili o sodbi
+idx:238
+label:contradiction
+premise:B: No, nikoli nisem bil na obsodbi. Uh, konèno sem bil dan za primer, uh, za naslednjega na zadnji dan, in, uh, prišli smo v, uh, sobo sodnika, da bi, uh, odloèili o primeru, v poroti pa je bil en tip, ki je vsem sporoèil, da mu ni treba premišljevati, ker se je že odloèil, da tip, uh, ni kriv in da ga nikoli ne bo glasoval za krivega. A: Huh. B: Torej, uh, imenovali so me za poroto in jaz, uh, nisem mislil, da lahko brez razprave odloèimo o sodbi,

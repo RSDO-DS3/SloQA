@@ -1,0 +1,5 @@
+choice1:Gledal je v tla.
+choice2:Pogovarjal se je sam s seboj.
+idx:143
+premise:Moški je bil deležen začudenih pogledov potnikov na vlaku.
+question:cause

@@ -1,0 +1,5 @@
+choice1:Našli so zaposlitev.
+choice2:Deportirali so jih.
+idx:363
+premise:Imigrante so ujeli med nezakonitim bivanjem v državi.
+question:effect

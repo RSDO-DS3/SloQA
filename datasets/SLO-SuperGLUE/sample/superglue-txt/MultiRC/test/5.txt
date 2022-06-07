@@ -1,0 +1,81 @@
+version:1.1
+passage.text:Film preučuje sedanje in pretekle povezave med mediji, ameriško vlado in korporacijami ter analizira morebitne posledice koncentracije lastništva medijev. Film se sklicuje na Orwellov roman 1984 ter trdi, da je resničnost presegla Orwellove napovedi o družbi, v kateri s pomočjo medijev vlada miselna kontrola. Film zagovarja tezo, da množični mediji nič več ne poročajo o novicah, temveč jih oblikujejo, saj odločajo, kaj bo prišlo na naslovnice in kaj bodo priročno prezrli, ter tako zamejijo, katera vprašanja se obravnavajo v družbi. Kot primer navede pozna osemdeseta leta, ko so vodilne medijske korporacije želele, da se deregulira medijski trg, ker tako lahko unovčijo poročila, ne da bi se soočile z njihovimi katastrofalnimi posledicami. Dokumentarec postavi pod kritičen drobnogled četrto vejo oblasti, ki je bila nekoč branik ameriške demokracije. Režiser Kane Pappas se vpraša, ali je Amerika že dežela sprevržene govorice, kjer so očitne laži sprejete kot resnica, ter raziskuje tisto, o čemer mediji ne marajo govoriti: medije same. Pappas skrbno oriše proces, skozi katerega mediji pogosto izkrivljajo ali zanikajo dejanske novice ter predstavi zanimivo in zgovorno skupino publicistov in vodilnih intelektualcev, ki se ukvarjajo z mediji. Poleg vprašanj o velikosti medijskih monopolov, kako so nastali in kako se odločajo o tem, kaj konča (ali ne) v novicah, film »Orwell se obrača v grobu« odpre zaskrbljujoč seznam tem in novic, o katerih večinski mediji ne poročajo ali pa jih ne naslavljajo. 
+passage.questions.6.question:Na katero znamenito knjigo se v svojem filmu navezuje režiser Robert Kane Pappas?
+passage.questions.6.idx:44.0
+passage.questions.6.answers.4.text:Miselno lastništvo
+passage.questions.6.answers.4.idx:297.0
+passage.questions.6.answers.3.text:Adam Smithovo Bogastvo narodov 
+passage.questions.6.answers.3.idx:296.0
+passage.questions.6.answers.2.text:1984, roman Georgea Orwella
+passage.questions.6.answers.2.idx:295.0
+passage.questions.6.answers.1.text:Komunistični manifest
+passage.questions.6.answers.1.idx:294.0
+passage.questions.6.answers.0.text:1984
+passage.questions.6.answers.0.idx:293.0
+passage.questions.5.question:Kateri dokumentarec skrbno oriše proces, skozi katerega mediji pogosto izkrivljajo ali zanikajo dejanske novice, in razkrije, kako je resničnost dosegla in presegla Orwellove napovedi o družbi, v kateri vlada miselna kontrola?
+passage.questions.5.idx:43.0
+passage.questions.5.answers.3.text:1984
+passage.questions.5.answers.3.idx:292.0
+passage.questions.5.answers.2.text:Svoboda govora je modna muha
+passage.questions.5.answers.2.idx:291.0
+passage.questions.5.answers.1.text:Orwell se obrača v grobu
+passage.questions.5.answers.1.idx:290.0
+passage.questions.5.answers.0.text:Smrt ameriških sanj
+passage.questions.5.answers.0.idx:289.0
+passage.questions.4.question:Kaj je bil vzrok, sodeč po dokumentarcu, da so množični mediji začeli oblikovati novice, namesto da bi o njih poročali?
+passage.questions.4.idx:42.0
+passage.questions.4.answers.4.text:Vlada
+passage.questions.4.answers.4.idx:288.0
+passage.questions.4.answers.3.text:Koncentracija medijskega lastništva
+passage.questions.4.answers.3.idx:287.0
+passage.questions.4.answers.2.text:Medijsko lastništvo
+passage.questions.4.answers.2.idx:286.0
+passage.questions.4.answers.1.text:Vladna politika
+passage.questions.4.answers.1.idx:285.0
+passage.questions.4.answers.0.text:Ekonomska kriza
+passage.questions.4.answers.0.idx:284.0
+passage.questions.3.question:Kakšne so možne posledice koncentracije medijskega lastništva?
+passage.questions.3.idx:41.0
+passage.questions.3.answers.3.text:Splošno dramatiziranje dogodkov
+passage.questions.3.answers.3.idx:283.0
+passage.questions.3.answers.2.text:Lažne novice
+passage.questions.3.answers.2.idx:282.0
+passage.questions.3.answers.1.text:Množični mediji nič več ne poročajo o novicah, temveč jih oblikujejo, saj odločajo, kaj bo prišlo na naslovnice in kaj bodo priročno prezrli, ter tako zamejijo, katera vprašanja se obravnavajo v družbi.
+passage.questions.3.answers.1.idx:281.0
+passage.questions.3.answers.0.text:Družba, v kateri vlada miselna kontrola
+passage.questions.3.answers.0.idx:280.0
+passage.questions.2.question:Kateri dokumentarec, ki ga je režiral Robert Kane Pappas, preučuje morebitne posledice koncentracije medijskega lastništva ter se nanaša na roman Georga Orwella, 1984?
+passage.questions.2.idx:40.0
+passage.questions.2.answers.3.text:Četrta veja oblasti
+passage.questions.2.answers.3.idx:279.0
+passage.questions.2.answers.2.text:1984
+passage.questions.2.answers.2.idx:278.0
+passage.questions.2.answers.1.text:Orwellova zapuščina
+passage.questions.2.answers.1.idx:277.0
+passage.questions.2.answers.0.text:Orwell se obrača v grobu
+passage.questions.2.answers.0.idx:276.0
+passage.questions.1.question:Kdo je režiral dokumentarec, ki se nanaša na roman Georgea Orwella, 1984?
+passage.questions.1.idx:39
+passage.questions.1.answers.3.text:Robert de Lint
+passage.questions.1.answers.3.idx:275.0
+passage.questions.1.answers.2.text:Vlada
+passage.questions.1.answers.2.idx:274.0
+passage.questions.1.answers.1.text:Robert Kane Pappas
+passage.questions.1.answers.1.idx:273
+passage.questions.1.answers.0.text:Mike Nichols
+passage.questions.1.answers.0.idx:272
+passage.questions.0.question:Kaj , sodeč po dokumentarcu Roberta Kanea Pappasa, Orwell se obrača v grobu, počnejo mediji, namesto da bi preprosto poročali o novicah?
+passage.questions.0.idx:38
+passage.questions.0.answers.5.text:Kontrolirajo, o čem se poroča
+passage.questions.0.answers.5.idx:271.0
+passage.questions.0.answers.4.text:Oblikujejo novice ter odločajo o tem, kaj bo prišlo na naslovnice in kaj bodo priročno prezrli
+passage.questions.0.answers.4.idx:270.0
+passage.questions.0.answers.3.text:Izkrivljajo dejstva
+passage.questions.0.answers.3.idx:269.0
+passage.questions.0.answers.2.text:Sodelujejo v prevarah
+passage.questions.0.answers.2.idx:268.0
+passage.questions.0.answers.1.text:Vplivajo na miselno kontrolo
+passage.questions.0.answers.1.idx:267
+passage.questions.0.answers.0.text:Oblikujejo novice
+passage.questions.0.answers.0.idx:266
+idx:5

@@ -1,0 +1,5 @@
+choice1:Dehidrirala je.
+choice2:Zagrabila jo je panika.
+idx:435
+premise:Pohodnica je srečala strupeno kačo.
+question:effect

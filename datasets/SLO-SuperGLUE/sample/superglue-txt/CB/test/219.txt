@@ -1,0 +1,3 @@
+hypothesis:res je zelo užival v telovadbi in drigovanju uteži
+idx:219
+premise:A: Je depresivno. B: Uh-huh, je, in veš kaj, ne govo-, no. Èe govorim zase, ne spim tako dobro, ko ne telovadim, in uh, težje je vstati iz postelje zjutraj in te zadeve, tvoje telo se navadi. Ja, ne uživam ravno. Torej, vèasih sem dvigoval uteži res redno, in to. Uživam v vožnji s kolesom, ampak kot telovadba in dvigovanje uteži in to. Ne morem reèi, da sem užival v tem sploh tako zelo,

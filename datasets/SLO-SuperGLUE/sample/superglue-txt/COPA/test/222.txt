@@ -1,0 +1,5 @@
+choice1:Rokoval sem se z njim.
+choice2:Klofutnil sem ga.
+idx:222
+premise:Mož je iztegnil roko.
+question:effect

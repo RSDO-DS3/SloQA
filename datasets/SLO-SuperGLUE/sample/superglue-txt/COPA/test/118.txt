@@ -1,0 +1,5 @@
+choice1:Izgubil je podporo volivcev.
+choice2:Obtožen je bil korupcije.
+idx:118
+premise:Politikov zagovor so ocenili za absurden.
+question:effect

@@ -1,0 +1,5 @@
+choice1:Haluciniral je.
+choice2:Meditiral je.
+idx:92
+premise:Moški je videl Nezemljane.
+question:cause

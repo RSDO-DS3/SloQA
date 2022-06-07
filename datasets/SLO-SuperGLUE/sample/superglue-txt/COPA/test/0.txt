@@ -1,0 +1,5 @@
+choice1:Bil je lomljiv.
+choice2:Bil je majhen.
+idx:0
+premise:Predmet je bil ovit v folijo z mehurčki.
+question:cause

@@ -1,0 +1,5 @@
+choice1:Pokleknil sem na tla.
+choice2:Ovil sem se v odejo.
+idx:235
+premise:Počutil sem se udobno.
+question:cause

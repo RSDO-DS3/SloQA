@@ -1,0 +1,5 @@
+﻿choice1:Dobil sem dobre novice.
+choice2:Izgubil sem potrpljenje.
+idx:242
+premise:Moj obraz se je razjasnil.
+question:cause

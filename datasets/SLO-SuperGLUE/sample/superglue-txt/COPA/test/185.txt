@@ -1,0 +1,5 @@
+choice1:Bil sem poln energije.
+choice2:Bil sem prestrašen.
+idx:185
+premise:Telovadil sem.
+question:cause

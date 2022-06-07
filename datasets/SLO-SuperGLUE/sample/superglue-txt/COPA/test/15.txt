@@ -1,0 +1,5 @@
+choice1:Ponovila si jo je.
+choice2:Pozabila jo je zapisati.
+idx:15
+premise:Dekle si je zapomnilo šifro.
+question:cause

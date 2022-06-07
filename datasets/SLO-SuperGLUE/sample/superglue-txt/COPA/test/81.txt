@@ -1,0 +1,5 @@
+choice1:Bili so premočeni.
+choice2:Videli so morskega psa.
+idx:81
+premise:Deskarji so se vrnili na obalo.
+question:cause

@@ -1,0 +1,3 @@
+hypothesis:rdeči avto se bo obrnil nazaj
+idx:123
+premise:Avtomobilski motor je znova brnel in rdeči avto se je premaknil naprej, a ni prišel daleč. Stuartova mama je vzvratno zapeljala s svojega prostora in njen avto je oviral pot. Stuart je videl, da se bo rdeči avto obrnil nazaj.

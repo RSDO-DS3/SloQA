@@ -1,0 +1,5 @@
+choice1:Izlegla je jajca.
+choice2:Dvignila se je v višavo.
+idx:375
+premise:Ptica je zaprhutala s krili.
+question:effect

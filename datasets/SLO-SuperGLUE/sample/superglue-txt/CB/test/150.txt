@@ -1,0 +1,3 @@
+hypothesis:stanovanje je dovolj veliko za psa
+idx:150
+premise:B: Rada imam pse in moj mož ima rad mačke. Tako da glede tega še nisva dosegla pravega dogovora. Če dobiva stanovanje, kjer bi lahko imela oboje, bo super, do takrat pa A: Ja, rad imam oboje, ampak ker sem v stanovanju, se mi zdi, da stanovanje ni dovolj veliko za psa.

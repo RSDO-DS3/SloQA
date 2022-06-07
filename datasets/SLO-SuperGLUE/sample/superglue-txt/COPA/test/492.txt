@@ -1,0 +1,5 @@
+choice1:Sedel sem.
+choice2:Preletel sem revijo.
+idx:492
+premise:Moral sem čakati v vrsti.
+question:effect

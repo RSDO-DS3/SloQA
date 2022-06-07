@@ -1,0 +1,3 @@
+idx:30
+passage:Izločilni del Svetovnega pokala FIFA 2018 -- Izločilni del Svetovnega pokala FIFA 2018 je drugi in finalni del tekmovanja, ki sledi skupinskemu delu. Začel se je 30. junija z osmino finala, končal pa se je 15. julija s finalom, ki se je odvil na Stadionu Lužniki v Moskvi. Po dve najboljši ekipi iz vsake skupine (skupno 16) so se prebile do izločilnega dela, da se pomerijo v turnirju na izpadanje. Poraženi ekipi iz polfinala sta tekmovali v bitki za tretje mesto.
+question:Ali je na svetovnem pokalu bitka za tretje mesto?

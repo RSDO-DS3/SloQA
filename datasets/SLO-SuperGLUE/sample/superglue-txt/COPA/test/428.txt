@@ -1,0 +1,5 @@
+choice1:Njegov nahrbtnik je bil odprt.
+choice2:Njegov nahrbtnik je bil težek.
+idx:428
+premise:Dečka je bolel hrbet.
+question:cause

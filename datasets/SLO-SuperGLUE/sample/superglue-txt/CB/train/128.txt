@@ -1,0 +1,4 @@
+hypothesis:to je bila dobro premišljena spodbuda
+idx:128
+label:contradiction
+premise:B: A-ha. To, mislim, ne vem, ne zdi se mi, da bo George Bush osrečil Američane s sedemindevetdesetimi centi na teden. A: Ne, ne, sploh ne. B: Mislim, da to ni bila dobro premišljena spodbuda.

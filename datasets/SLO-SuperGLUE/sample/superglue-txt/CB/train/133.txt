@@ -1,0 +1,4 @@
+hypothesis:šlo bo zelo daleč
+idx:133
+label:contradiction
+premise:B: Ampak, em, če pride veter v bistvu z juga, je lahko res slabo. A: A-ha. B: Ah, zvezna država Wisconsin je, pravzaprav, em, začela neke sodne postopke proti Illinoisu zaradi onesnaženosti zraka, ki smo ga dobivali. A: A-ha. B: Em, mislim, da ne bo prišlo prav daleč,

@@ -1,0 +1,4 @@
+hypothesis:deluje dobro kot sredstvo odvračanja za te ljudi
+idx:123
+label:contradiction
+premise:B: In ne zdi se mi, da je rehabilitacija učinkovita. A: Res. Moram se strinjati s tabo in nekako sem tudi privržen smrtni kazni. Zdi se mi samo, da ne deluje prav dobro kot sredstvo odvračanja za te ljudi, ker, em, še vedno vidiš da zagrešijo iste zločine.

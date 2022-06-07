@@ -1,0 +1,5 @@
+choice1:Bila je lačna.
+choice2:Bila je mrtva.
+idx:103
+premise:Na gladini akvarija je plavala riba.
+question:cause

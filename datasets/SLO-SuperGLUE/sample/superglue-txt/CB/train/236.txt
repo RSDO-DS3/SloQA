@@ -1,0 +1,4 @@
+hypothesis:smrtna kazen bi odvraèala od prihodnjih zloèinov
+idx:236
+label:contradiction
+premise:A: Ja, mislim, da tisto, kar jezi veliko ljudi, je to, da nekdo namesto smrtne kazni dobi dosmrtno zaporno kazen in se po petih letih ali šestih letih spet znajde na ulici ali kot otrok na nocojšnjih novicah v Mesquiteu, ki je bil zunaj èez šest mesecev .. B: A-ha. Ja, samo naš kriminalni sistem je, tako mislim, preobremenjen, vendar težava ni toliko v zaporniškem sistemu, veš, mislim, ker policaji tam zunaj opravljajo svoje delo in izvajajo zakone, pa tudi zapori se samo, veš, poskušajo se spoprijeti z njimi, toda veste, kaj je s smrtno kaznijo, vem, veliko ljudi ne misli, da bi to odvraèalo, uh, od prihodnjih zloèinov

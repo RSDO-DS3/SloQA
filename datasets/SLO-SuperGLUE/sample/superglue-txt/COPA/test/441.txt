@@ -1,0 +1,5 @@
+choice1:Njegov sin je priznal resnico.
+choice2:Oče je zaupal sinu.
+idx:441
+premise:Oče je ujel sina pri laži.
+question:effect

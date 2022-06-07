@@ -1,0 +1,5 @@
+choice1:Lagal je svojim staršem.
+choice2:Starša mu nista dovolila ven.
+idx:106
+premise:Najstnik se je izmuznil iz hiše.
+question:cause

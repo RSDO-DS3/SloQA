@@ -1,0 +1,3 @@
+hypothesis:Državne in zvezne agencije so sodelovale v kemičnem napadu.
+idx:19
+premise:Zgodaj letos je 78 lokalnih, državnih in zveznih agencij sodelovalo v vaji za napad s kemičnim orožjem, ki se je imenovala "Rotunda Thunda" in je potekala v lasvegaškem kongresnem centru in v mestnem predelu Las Vegas Strip.

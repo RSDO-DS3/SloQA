@@ -1,0 +1,4 @@
+hypothesis:bili so zavzeti za to, da bi zmagali v vietnamski vojni in se rešili
+idx:198
+label:contradiction
+premise:B: Uh, mislim, da veliko razmišljam o vietnamski vojni, hm, mislim, bil sem precej mlad, ko se je to dogajalo, zato se verjetno veliko stvari spomnim in veliko je stvari, za katere res nisem imel pojma, kaj se dogaja. B: Ja. A: Hm, èe pogledam nazaj, recimo nekatere stvari, ki jih zdaj vem, nisem preprièan, da verjamem, da je bilo vredno cene v dolarjih in življenjih. To je bilo eno od vprašanj, za katera nas je prosila, da premislimo, ker nikoli nismo šli v vojno. Mislim, da se nismo dovolj zavzeli za to, da bi zmagali in se rešili

@@ -1,0 +1,4 @@
+hypothesis:njihova soseska v Houstonu je imela veè narastka, kot pa katera druga, zaradi družine, ki jih je imela in jih redila
+idx:190
+label:entailment
+premise:B: Te, ki jih imaš, zvenijo zanimivo. A: Torej, res so zelo lepi psi. Mislili smo, da ima naša soseska v Houstonu veè narastka kot pa katera druga, zaradi družine, ki jih je imela in jih je redila  

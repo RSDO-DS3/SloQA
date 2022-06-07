@@ -1,0 +1,5 @@
+choice1:Moj sostanovalec je polil punč.
+choice2:Moj pes pušča dlako.
+idx:483
+premise:Posesal sem preprogo.
+question:cause

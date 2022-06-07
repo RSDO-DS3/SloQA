@@ -1,0 +1,5 @@
+﻿choice1:Njegova jakna je bila odpeta.
+choice2:Njegove vezalke so bile odvezane.
+idx:467
+premise:Fant se je spotaknil.
+question:cause

@@ -1,0 +1,5 @@
+passage.text:Na milijone ljudi, kot je <e.0>Celeste</e.0> , živi svoja vsakdanja življenja pod hudimi čustvenimi pritiski, ki jih povzročajo strah, negotovost in ločenost. Bila je stara komaj 10 let, ko se je soočila s svojo obupno družinsko situacijo. 18-letni <e.1>Rolando Zenteno</e.1> že več kot pol življenja živi v <q.0.a.0>Združenih državah</q.0.a.0> , vendar se še vedno počuti kot obstranec. Še ena priseljenka brez dokumentov -- <e.3>Prerna Lal</e.3> -- se bori, da bi ostala v svoji drugi domovini in sanja o tem, da bi postala odvetnica za področje imigracij. Medtem ko si politiki v <e.4>Washingtonu</e.4> prizadevajo skleniti dogovor o reformi na področju priseljevanja, je na milijone ljudi ujetih med dva svetova, ne da bi zares pripadali kateremukoli. @highlight Medtem ko se govori o reformi, priseljenci razkrivajo svoje strahove in upanje @highlight Priseljenec: »Identificiram se z <q.0.a.1>ameriško</q.0.a.1> kulturo,« vendar mu govorijo, "nisi del nas."
+qas.0.answers.0.text:Združenih državah
+qas.0.answers.1.text:ameriško
+qas.0.query:V @placeholder je bil vedno znova deležen prijaznosti in novih možnosti, je rekel.
+idx:54

@@ -1,0 +1,5 @@
+choice1:Imel je želodčne krče.
+choice2:Želel je prost dan.
+idx:29
+premise:Uslužbenec se je pretvarjal, da je bolan.
+question:cause

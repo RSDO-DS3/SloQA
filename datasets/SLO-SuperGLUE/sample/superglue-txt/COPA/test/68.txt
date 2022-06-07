@@ -1,0 +1,5 @@
+choice1:Zbrisala je dokument.
+choice2:Pritisnila je tipko za brisanje.
+idx:68
+premise:Ženska se je zatipkala v urejevalniku besedil.
+question:effect

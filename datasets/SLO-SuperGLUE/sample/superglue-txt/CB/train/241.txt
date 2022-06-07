@@ -1,0 +1,4 @@
+hypothesis:aretacija Fergusona je posledica dvomljivih pravnih praks
+idx:241
+label:entailment
+premise:Njegovi odvetniki trdijo, da so mu FBI in newyorška policija nastavili kot del kampanje za unièenje èrnoosvobodilnega gibanja iz šestdesetih let. Ker zvezni zakon o svobodi informacij v tistem èasu ni bil zakon, FBI ni moral predati podatkov o svojih preiskavah, ko se je gospod Ferguson v šestdesetih letih pritožil na svojo obsodbo. Toda na zveznem sodišèu na Manhattnu je sodnik Patterson dejal, da lahko evidence FBI dokazujejo, da je bila aretacija Fergusona posledica dvomljivih pravnih praks.

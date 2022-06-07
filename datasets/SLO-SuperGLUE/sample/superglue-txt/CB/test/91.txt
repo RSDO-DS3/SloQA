@@ -1,0 +1,3 @@
+hypothesis:pogovarjata se o skrbi za starostnike
+idx:91
+premise:A: Prav, si pripravljen, da začneva? B: Pa dajva. A: Prav, v redu. V redu. B: Če sem prav razumel se pogovarjava o skrbi za starostnike, ne?

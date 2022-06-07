@@ -1,0 +1,5 @@
+choice1:Bila je kritična do svojega preteklega dela.
+choice2:Čutila je navdih.
+idx:94
+premise:Umetnica je ustvarila novo delo.
+question:cause

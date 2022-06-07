@@ -1,0 +1,5 @@
+choice1:Odrezali so ji nogo.
+choice2:Spremljali so njene življenjske znake.
+idx:387
+premise:Zdravniki so pacientki naredili umetno okončino.
+question:cause

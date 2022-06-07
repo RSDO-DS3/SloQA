@@ -1,0 +1,5 @@
+choice1:Obrnil sem steklenico.
+choice2:Odvil sem zamašek.
+idx:205
+premise:Steklenica z gazirano pijačo je zasikala.
+question:cause

@@ -1,0 +1,2 @@
+text:Kolo se je zameglilo in <w1> vreteno </w1> je postalo žarek svetlobe. Okrogle roke gospe Black so se premikale po blagu in <w2> ga </w2> porivale pod iglo.
+idx:25

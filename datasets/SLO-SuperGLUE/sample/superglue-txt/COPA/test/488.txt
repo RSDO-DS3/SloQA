@@ -1,0 +1,5 @@
+choice1:Čevlji so postali ohlapni.
+choice2:Čevlji so bili obrabljeni.
+idx:488
+premise:Moški je odvezal čevlje.
+question:effect

@@ -1,0 +1,5 @@
+choice1:Zaklical sem njegovo ime.
+choice2:Pomahal sem z rokami.
+idx:87
+premise:Prijatelj je obrnil glavo v mojo smer.
+question:cause

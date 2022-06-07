@@ -1,0 +1,5 @@
+choice1:Želela je nov videz.
+choice2:Želela se je vključiti.
+idx:362
+premise:Ženska si je pobarvala lase.
+question:cause

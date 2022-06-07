@@ -1,0 +1,5 @@
+choice1:Pozvonilo je.
+choice2:Učitelj je dal domačo nalogo.
+idx:449
+premise:Učenci so zapustili učilnico.
+question:cause

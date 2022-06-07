@@ -1,0 +1,3 @@
+hypothesis:govedo je plaèilo za to, da je vzel življenje nekomu
+idx:232
+premise:``Belec ima kri. To je res.'' Ampak belec ne verjame, da je govedo plaèilo za to, da je vzel življenje nekomu

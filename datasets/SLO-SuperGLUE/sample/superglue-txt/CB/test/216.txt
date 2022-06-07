@@ -1,0 +1,3 @@
+hypothesis:slišal je nekaj glede Rangerjev
+idx:216
+premise:B: uh, te Cowboys so spet zvišali cene letos. A: Ja, res. B: Ampak nisem si mislil, mislim, da nisem niè slišal glede Rangerjev, 

@@ -1,0 +1,3 @@
+hypothesis:nekaj se je zgodilo
+idx:4
+premise:Odprl je vrata in se nasmehnil, ker je nasproti prihajala privlačna ženska, ki se je držala domenka. Sophie se je usedla k Pascoevi mizi in rekla, ``Se mi je zdelo, da te bom našla tukaj.'’ Videl je, da se je nekaj zgodilo.

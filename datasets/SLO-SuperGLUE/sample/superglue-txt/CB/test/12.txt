@@ -1,0 +1,3 @@
+hypothesis:David in njegova mama sta se približevala krizni točki
+idx:12
+premise:David je očitno že od nekdaj vedel in Julia je ugotovila, da je bilo, ne glede na to, kakšni občutki so se pletli v mislih njegove mame, zanjo ključno to, da ostanejo zasebni. David je držal niti v vzorcu, ki ga ni Julia še nikoli prej videla. Na njegovem obrazu ni bilo zaznati nič drugega kot dobrohotno zanimanje, a Julia je po nagibu njegove glave in po določeni napetosti v njegovem telesu vedela, da sta se približevala krizni točki.

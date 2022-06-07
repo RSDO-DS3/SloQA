@@ -1,0 +1,3 @@
+hypothesis:pozna svojo številko
+idx:64
+premise:A: Torej, ali kdajkoli uporabljate bankomat? B: Ne, nikoli. Moj mož ga uporablja v službi, da dvigne gotovino, ampak jaz uporabljam čeke, če rabim gotovino, mu samo povem in jo dvigne in mislim, da niti ne poznam svoje številke.

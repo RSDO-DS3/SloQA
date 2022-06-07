@@ -1,0 +1,5 @@
+choice1:Naredili so varčevalni račun za šolnino.
+choice2:Otroke so spodbujali, naj se igrajo zunaj.
+idx:487
+premise:Starši so želeli, da bi otroci šli študirat.
+question:effect

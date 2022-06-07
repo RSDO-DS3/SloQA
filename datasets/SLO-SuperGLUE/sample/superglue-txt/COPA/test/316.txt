@@ -1,0 +1,5 @@
+choice1:Oblekel sem spodnji del trenirke.
+choice2:Spil sem kozarec vode.
+idx:316
+premise:Ponoči sem se zbudil zaradi mraza.
+question:effect

@@ -1,0 +1,5 @@
+choice1:Vlak je prispel na postajo.
+choice2:Vlak je zažvižgal.
+idx:58
+premise:Potniki so sestopili z vlaka.
+question:cause

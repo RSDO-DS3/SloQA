@@ -1,0 +1,3 @@
+hypothesis:ljudem, ki delajo upravièena kriminalna dejanja, je mar
+idx:245
+premise:B: Prav, mislim, da sem videl nekaj statistik, ki pravijo, da je, uh, dražje nekoga ubiti, kot pa ga vse življenje držati v zaporu. A: Tako, ker imate vse stroške zapora in vse pravne stroške. B: Tako. A: Uh, in veste, vsekakor se zdi, da ni odvraèilno. Uh, prviè, ker je to redko, drugiè, iskreno mislim, da ljudjem, ki so storili kazniva dejanja, ki bi bili upravièeni, veste, res ni mar.

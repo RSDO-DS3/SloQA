@@ -1,0 +1,23 @@
+version:1.1
+passage.text:Nekega dne je deček v hladilniku iskal šolsko kosilo. Iskal je nekaj zdravega in okusnega. Hodil je v šolo in potreboval je nekaj, kar bi mu omogočilo, da zdrži in uspeva pri pouku. Zadnje čase je za kosilo jedel piškote, zato je bil ob koncu dneva že utrujen. Piškote je dobil v šolski jedilnici in njegova mama ni vedela za njih. Sčasoma se je naveličal piškotov in želel je nekaj zdravega. Zato je za pomoč prosil mamo. Najprej je izbral krof. »To sploh ni dobro zate!« je rekla mama. Zato mu je dala veliko vrečo brokolija. »Bljak, sovražim okus brokolija,« je rekel deček. Iskala sta in iskala, a nista našla ničesar, kar bi bilo dečku okusno in obenem tudi zdravo. Na koncu sta našla popolno jed: ostanke pečenega piščanca z zabave, ki so jo imeli konec tedna. Že prvič je bil slasten, pa tudi mrzel je bil okusen za kosilo. Piščanec je imel vse vrste hranil , ki jih je potreboval čez dan. 
+passage.questions.1.question:Čigava mama je prinesla veliko vrečo brokolija?
+passage.questions.1.idx:31
+passage.questions.1.answers.4.text:Prijateljeva
+passage.questions.1.answers.4.idx:239.0
+passage.questions.1.answers.3.text:Dečkova mama
+passage.questions.1.answers.3.idx:238.0
+passage.questions.1.answers.2.text:Šolska kuharica
+passage.questions.1.answers.2.idx:237.0
+passage.questions.1.answers.1.text:Dečkova mama
+passage.questions.1.answers.1.idx:236
+passage.questions.1.answers.0.text:Mama dečkovega prijatelja
+passage.questions.1.answers.0.idx:235
+passage.questions.0.question:Kaj je bilo okusno za kosilo tudi mrzlo?
+passage.questions.0.idx:30
+passage.questions.0.answers.2.text:Pečen piščanec
+passage.questions.0.answers.2.idx:234.0
+passage.questions.0.answers.1.text:Piškoti
+passage.questions.0.answers.1.idx:233
+passage.questions.0.answers.0.text:Brokoli
+passage.questions.0.answers.0.idx:232
+idx:3

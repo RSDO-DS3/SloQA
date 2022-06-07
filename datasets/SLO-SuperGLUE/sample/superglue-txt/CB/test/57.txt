@@ -1,0 +1,3 @@
+﻿hypothesis:strlo bi jeklene konzerve
+idx:57
+premise:B: Ampak, saj veste, za druge vrste konzerv, verjetno bi sprejeli samo to vrsto aluminijastih konzerv, mar ne. A: Ja, ne verjamem, da bi strlo jeklene konzerve.

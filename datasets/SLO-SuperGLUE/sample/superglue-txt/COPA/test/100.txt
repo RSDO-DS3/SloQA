@@ -1,0 +1,5 @@
+choice1:V soseski je zmanjkalo elektrike.
+choice2:Napovedan je bil močan veter.
+idx:100
+premise:Na daljnovod je padlo drevo.
+question:effect

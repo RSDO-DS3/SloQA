@@ -1,0 +1,5 @@
+choice1:Bil je v dolgovih.
+choice2:Ustanovil je podjetje.
+idx:480
+premise:Moškemu so zavrnili posojilo.
+question:cause

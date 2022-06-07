@@ -1,0 +1,4 @@
+hypothesis:polovica študentov, ki obiskujejo Berkeley, bo sprejeta na ta naèin
+idx:244
+label:contradiction
+premise:Ko najdete "dobre novice" v Berkeleyjevem novem naèrtu za sprejemanje brucov (uvodnik "Privilegirani razred", 20. september), berete naslov, ne pa tudi zgodbe. Naèrt dejansko poveèa število prijav za bruce s 40% na 50%, ki jih sprejmejo izkljuèno po akademskih merilih. Toda to ne pomeni, da bo na ta naèin sprejeta "polovica študentov, ki obiskujejo Berkeley".

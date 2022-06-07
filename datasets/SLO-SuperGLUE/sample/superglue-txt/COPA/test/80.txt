@@ -1,0 +1,5 @@
+choice1:Kožo mi je poškropila voda.
+choice2:Začutil sem hladen zrak.
+idx:80
+premise:Prižgal sem ventilator.
+question:effect

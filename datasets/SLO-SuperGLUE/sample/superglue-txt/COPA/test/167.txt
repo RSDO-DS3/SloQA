@@ -1,0 +1,5 @@
+choice1:Sončna svetloba je bila močna.
+choice2:Poklicala je taksi.
+idx:167
+premise:Ženska si je nadela sončna očala.
+question:cause

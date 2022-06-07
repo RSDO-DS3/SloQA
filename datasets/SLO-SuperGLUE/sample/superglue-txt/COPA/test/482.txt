@@ -1,0 +1,5 @@
+choice1:Odnesel sem jo do smetnjaka.
+choice2:Stresel sem jo v odtok.
+idx:482
+premise:Vreča za smeti je bila polna.
+question:effect

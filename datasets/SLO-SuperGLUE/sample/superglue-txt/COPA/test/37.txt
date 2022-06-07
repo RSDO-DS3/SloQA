@@ -1,0 +1,5 @@
+choice1:Postal je omotičen.
+choice2:Imel je vročino.
+idx:37
+premise:Mož je vzel uspavalne tablete.
+question:effect

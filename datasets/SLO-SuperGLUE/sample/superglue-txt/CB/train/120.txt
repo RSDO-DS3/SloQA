@@ -1,0 +1,4 @@
+hypothesis:res bi lahko bil ubit tako zlahka
+idx:120
+label:contradiction
+premise:B: fant, res je velik. A: Je precej velik. Zato me res preseneča, saj veš, da se še ni vrnil, ker, kot sem rekel, še nikoli prej ni takole odšel in mislil bi si, saj veš, mislim, lahko bi se poškodoval v avtu ali kaj takega. Mislim, da ne bi zares mogel biti tako zlahka ubit, ker je tako velik.

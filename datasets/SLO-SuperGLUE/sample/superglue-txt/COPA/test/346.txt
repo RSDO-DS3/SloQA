@@ -1,0 +1,5 @@
+choice1:Deček je vrgel blazine s kavča.
+choice2:Deček je čez tla povlekel stol.
+idx:346
+premise:Lesena tla so bila popraskana.
+question:cause

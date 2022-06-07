@@ -1,0 +1,5 @@
+choice1:Šla sem v nakupovalni center.
+choice2:Poklicala sem mehanika.
+idx:373
+premise:Moj avto se je pokvaril.
+question:effect

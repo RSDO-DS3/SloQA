@@ -1,0 +1,5 @@
+choice1:Dvignil je roko.
+choice2:Šalil se je.
+idx:23
+premise:Učenec je vedel odgovor na vprašanje.
+question:effect

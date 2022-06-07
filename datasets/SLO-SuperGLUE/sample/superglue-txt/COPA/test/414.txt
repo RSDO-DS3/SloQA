@@ -1,0 +1,5 @@
+choice1:Padel mi je na tla.
+choice2:Napolnil sem ga.
+idx:414
+premise:Prenosni računalnik se ni želel prižgati.
+question:cause

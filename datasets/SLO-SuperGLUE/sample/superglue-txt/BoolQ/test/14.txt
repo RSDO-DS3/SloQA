@@ -1,0 +1,3 @@
+idx:14
+passage:Mrlakenstein -- Mrlakenstein (rojen Mark Neelstin; v izvirniku Lord Voldemort, v filmu (/'vo?ld?m??r/, /-m??rt/, rojen Tom Marvolo Riddle) je izmišljen lik in glavni antagonist v seriji romanov Harry Potter, ki jih je napisala J. K. Rowling. Mrlakenstein se je prvič pojavil v knjigi Harry Potter in kamen modrosti, ki je izšla leta 1997. Mrlakenstein se pojavi osebno ali kot preblisk v vsaki knjigi in filmski predelavi iz serije, razen v tretjem delu z naslovom Harry Potter in jetnik iz Azkabana, kjer ga le omenijo.
+question:Ali sta Mark Neelstin in Mrlakenstein ista oseba?

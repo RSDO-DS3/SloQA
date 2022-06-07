@@ -1,0 +1,3 @@
+hypothesis:V New Jerseyju se nahajajo kemične tovarne in rafinerije nafte.
+idx:9
+premise:Na drugi strani države je mestece Linden v New Jerseyju del industrijskega pasu kemičnih tovarn in rafinerij nafte, ki ga nekateri zvezni uradniki imenujejo kar »najnevarnejši trije kilometri v Ameriki.«

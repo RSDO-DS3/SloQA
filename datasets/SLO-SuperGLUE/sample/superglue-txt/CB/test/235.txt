@@ -1,0 +1,3 @@
+hypothesis:Amanda res ni bila zbrana v Reverend Abraham
+idx:235
+premise:Podpolkovnik je videl, da hrup odvraèa Amando od njene brošure, èeprav ni dala nobenega zunanjega znaka. Preprosto je lahko presojal take stvari, po tem ko je že toliko let tako blizu živel z njo. Lahko bi rekel, da ni bila zbrana v Reverend Abraham.

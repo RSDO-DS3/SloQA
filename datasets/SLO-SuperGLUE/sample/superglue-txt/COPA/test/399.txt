@@ -1,0 +1,5 @@
+choice1:Mož je pospravil špecerijo v hladilnik.
+choice2:Mož je vzel pico iz pečice.
+idx:399
+premise:V kuhinji je zazvonil časovnik.
+question:effect

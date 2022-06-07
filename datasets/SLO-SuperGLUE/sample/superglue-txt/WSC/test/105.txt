@@ -1,0 +1,2 @@
+text:Medtem vsi ljudje v mestu vsevprek iščejo <w1> Arthurja in Celeste </w1> in <w2> njuni </w2> mami sta zelo zaskrbljeni.
+idx:105

@@ -1,0 +1,4 @@
+hypothesis:to bi bilo slabo
+idx:173
+label:contradiction
+premise:A: Em, dobro, odvisno je od tega kdaj greš, ob vikendih ni prevelike gneče. B: Vidiš, rad bi bil tam zjutraj, recimo med pol deseto in pol enajsto uro. A: Oh, mislim, da to sploh ne bi bilo slabo.

@@ -1,0 +1,5 @@
+choice1:Stopila je na špičke.
+choice2:Zvila si je gleženj.
+idx:350
+premise:Balerina si je natrgala vez.
+question:cause

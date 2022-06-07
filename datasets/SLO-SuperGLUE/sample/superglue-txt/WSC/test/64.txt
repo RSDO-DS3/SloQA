@@ -1,0 +1,2 @@
+text:Ljudje iz zaliva so govorili, da je babica imela tako čist dom, da si lahko pod pobrisal z robcem, pa ni na <w2> njem </w2> ostal niti drobec <w1> prahu </w1> .
+idx:64

@@ -1,0 +1,5 @@
+choice1:Zamenjala je stranko.
+choice2:Udeležila se je demonstracij.
+idx:56
+premise:Spremenila je svoje politično prepričanje.
+question:effect

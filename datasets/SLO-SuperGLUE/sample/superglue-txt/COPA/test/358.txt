@@ -1,0 +1,5 @@
+choice1:Lastnik je grajal kužka.
+choice2:Lastnik je dal kužku priboljšek.
+idx:358
+premise:Kužek se je podelal na preprogo.
+question:effect

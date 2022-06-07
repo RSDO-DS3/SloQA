@@ -1,0 +1,4 @@
+hypothesis:George Bush bo osreèil Amerièane z sedemindevetdeset centi na teden.
+idx:237
+label:contradiction
+premise:A: Ali veš, zdi se, da naredilo velike spremembe. B: Aha. Mislim, ne vem, mislim, da George Bush ne bo osreèil Amerièanov s sedemindevetdesetimi centi na teden.

@@ -1,0 +1,3 @@
+idx:10
+passage: Hlapnost (kemija) – V kemiji in fiziki se hlapnost meri s težnjo hlapljivosti snovi. Hlapnost je neposredno povezana s parnim tlakom snovi. Pri določeni temperaturi snov z višjim parnim tlakom izpari lažje kot snov z nižjim parnim tlakom.
+question:Ali je hlapnost snovi odvisna od difuzije iste snovi?

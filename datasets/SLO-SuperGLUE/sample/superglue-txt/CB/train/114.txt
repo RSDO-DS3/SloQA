@@ -1,0 +1,4 @@
+hypothesis:namestnik sekretarja je bil zadovoljen in olajšan, da je bil na sivo ponedeljkovo jutro spet za svojo pisalno mizo v Londonu.
+idx:114
+label:entailment
+premise:Namestnik sekretarja je lahko govoril o gostiteljevih obetih in razočaranjih, lahko se je poučil o težavah pri izkopavanju deviz in trdne valute v Tretjem svetu, stiskah glede podaljšanja dovoljenja za bivanje, težavah kako obdržati zanesljive služabnike, o svojem svetu pa je moral ostati tiho. Namestnik sekretarja je bil vodja tajne obveščevalne službe Združenega kraljestva, kar ni ravno tema za govorice in pogovore na verandi, obrobljeni z bugenvilijami, ko so luči ribiških drevakov lebdele znotraj koralnega grebena... Ni preklete možnosti. Bil je mož, ki je lahko bil iskren sam s sabo in iskreno je lahko rekel, da je bil zadovoljen in olajšan, da je bil na sivo ponedeljkovo jutro spet za svojo pisalno mizo v Londonu.

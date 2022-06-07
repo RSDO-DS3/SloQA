@@ -1,0 +1,5 @@
+choice1:Svetovalec v taboru jim je povedal zgodbo o duhovih.
+choice2:Na tabornem ognju so popekli sladkorne penice.
+idx:10
+premise:Mladi taborniki so bili prestrašeni.
+question:cause

@@ -1,0 +1,5 @@
+choice1:Ponoči je lilo.
+choice2:Bila je polna plevela.
+idx:70
+premise:Trata je bila blatna.
+question:cause

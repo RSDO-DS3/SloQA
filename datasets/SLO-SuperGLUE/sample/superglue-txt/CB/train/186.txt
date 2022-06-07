@@ -1,0 +1,4 @@
+hypothesis:morale bi biti tako velike omejitve na to
+idx:186
+label:contradiction
+premise:B: Torej, imaš, torej, v vsakem velikem mestu imaš razliène grupe, ki si so rivali in imajo svoje male bedne vojne zaradi njihovih malih drogovnih združenj in to, A: Ja. B: In povleèejo ven svoje male Macove desetke, dajo ven svoje male uzije in se potem tepejo z njimi. In res ni važno, kakšne prepovedi daš na tak tip orožja ali na razred tri pri strelivu. Èe ga oni želijo, ga bodo oni dobili. Briga me, èe morajo iti dol v Novo Mehiko, da dobijo, oni bodo dobili to in bodo prišli èez mejo. Zdaj, moja pozicija, torej, jaz nimam absolutno nobene želje po popolnoma avtomatskem orožju. A: Ja. B: Ker sem mešèan, ki spoštuje zakone in nisem nikoli imel prekrška, èe bi želel kupiti, mislim, da ne bi smelo biti tako velikih omejitev na to

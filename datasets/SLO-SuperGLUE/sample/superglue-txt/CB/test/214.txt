@@ -1,0 +1,3 @@
+hypothesis:vedela bi, kje zaèeti z dieselom.
+idx:214
+premise:B: In, pumpa brizgalnika se je pokvarila, tako da sem našel dele tukaj, da ga ponovno sestavim. In, nastavim, B: in to je morda ena od najbolj žalostnih stvari, ki sem jih videl v dolgem èasu. A: Mislim, da sploh ne bi vedela, kje zaèeti z dieselom. 

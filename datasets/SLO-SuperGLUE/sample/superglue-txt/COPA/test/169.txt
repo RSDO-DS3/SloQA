@@ -1,0 +1,5 @@
+choice1:Zgodaj sem šel spat.
+choice2:Celo noč sem bil pokonci.
+idx:169
+premise:Počutil sem se izčrpano.
+question:effect

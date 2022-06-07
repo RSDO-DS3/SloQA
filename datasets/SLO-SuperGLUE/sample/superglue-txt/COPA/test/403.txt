@@ -1,0 +1,5 @@
+choice1:Preklicali so ji vozniško dovoljenje.
+choice2:Bila je udeležena v avtomobilski nesreči.
+idx:403
+premise:Njen avto je bil pri mehaniku.
+question:cause

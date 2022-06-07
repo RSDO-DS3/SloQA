@@ -1,0 +1,5 @@
+choice1:Sladoled je izgubil okus.
+choice2:S korneta je kapljal sladoled.
+idx:355
+premise:Moški je na soncu jedel sladoled.
+question:effect

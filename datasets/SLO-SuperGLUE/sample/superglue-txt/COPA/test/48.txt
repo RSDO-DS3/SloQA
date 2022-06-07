@@ -1,0 +1,5 @@
+﻿choice1:Stranka je pobrskala po denarnici.
+choice2:Stranka mu je podala denar.
+idx:48
+premise:Blagajnik je odprl blagajno.
+question:cause

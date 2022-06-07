@@ -1,0 +1,5 @@
+choice1:Podpisal je svojo oporoko.
+choice2:Presadili so mu organ.
+idx:327
+premise:Mož je preživel smrtonosno bolezen.
+question:cause

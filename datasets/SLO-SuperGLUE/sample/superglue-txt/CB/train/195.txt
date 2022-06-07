@@ -1,0 +1,4 @@
+hypothesis:imeli so tako recikliranje, kot bi ga mogli imeti zdaj
+idx:195
+label:entailment
+premise:B: Pogledam naše velike zelene zabojnike in reèem, no, dobro se obnesejo, pustim svojega zunaj garaže, tako da ni vonjev, ampak oèitno je to kraj, kjer, uh, uh, A: Oh, prav. B: Zanimivo bo videti, kako dobro to deluje in vesel sem, da to poène skupnost. Uh, to je ena tistih stvari, ki jih je treba ljudem vsiliti. Uh, ne vem, kaj je bilo nazaj, uh, pred leti, toda kar me najbolj moti je, odrašèanje v podeželski Južni Dakoti, kjer so kmetje prinesli jajca v mesto in lokalna trgovina jih je zapakirala, je, da, v petdesetih letih, lahko bi rekli, da je bilo takrat tako recikliranje, ki bi ga morali imeti zdaj. Kar vse posode za mleko so bile steklene

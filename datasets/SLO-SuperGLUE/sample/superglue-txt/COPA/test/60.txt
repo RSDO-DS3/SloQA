@@ -1,0 +1,5 @@
+choice1:Uživala sta v družbi drug drugega.
+choice2:Preselila sta se v različni mesti.
+idx:60
+premise:Prijatelja nista bila več v stiku.
+question:cause

@@ -1,0 +1,5 @@
+choice1:Dotaknil se je vročega štedilnika.
+choice2:Pobožal je kužkovo glavico.
+idx:344
+premise:Otrokova roka se je hitro odmaknila.
+question:cause

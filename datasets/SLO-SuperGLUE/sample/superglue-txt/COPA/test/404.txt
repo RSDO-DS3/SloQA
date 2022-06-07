@@ -1,0 +1,5 @@
+﻿choice1:Naredil sem zajtrk.
+choice2:Zamudil sem zajtrk.
+idx:404
+premise:Prespal sem alarm.
+question:effect

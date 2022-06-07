@@ -1,0 +1,3 @@
+hypothesis:John Sununu je na pol Arabec
+idx:144
+premise:B: Arabci kar naenkrat, em, navijajo za Bakerja pri njegovem prizadevanju, da zgladi odnose z Izraelci, torej je tako, A: No, Baker v resnici ni tako zelo pro-Izraelski. B: Ja, jaz A: In si vedel, da je John Sununu, em, na pol Arabec?

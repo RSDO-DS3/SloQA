@@ -1,0 +1,3 @@
+hypothesis:stvari bodo začeli uporabljati zdaj
+idx:125
+premise:B: Res je, vse to je njihova krivda. A: Torej, pravzaprav je na tej točki to bolj naša kot njihova krivda, ker so videli luč, em, ne vem zakaj so, em, bili bolj zmožni kot mi, razen, mislim, da so verjetno rekli, dobro, bomo pa začeli stvari uporabljati zdaj

@@ -1,0 +1,5 @@
+choice1:Otroci so občudovali živali.
+choice2:Otroci so preganjali živali.
+idx:424
+premise:Družina je odšla v živalski vrt.
+question:effect

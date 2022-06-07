@@ -1,0 +1,5 @@
+choice1:Dobil se je s prijatelji, da si ogledajo tekmo.
+choice2:Stavil je s svojimi prijatelji.
+idx:498
+premise:Moški je pričakoval zmago moštva.
+question:effect

@@ -1,0 +1,3 @@
+hypothesis:bila je vojna, ki jo je bilo potrebno bojevati
+idx:3
+premise:Predstavljam si, da je do konca že skoraj vsakdo napadel vsakega. Vendar lahko bi rekli, da je bila vojna, ki jo je bilo potrebno bojevati.

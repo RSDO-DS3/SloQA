@@ -1,0 +1,4 @@
+hypothesis:lahko bi bil doma ves čas in ne počel ničesar
+idx:139
+label:contradiction
+premise:A: In, em, ostal sem doma s svojimi otroki, kar sem si res želel narediti, ampak sedaj ne morem iti nazaj in to storiti. B: Ja. A: Res nisem mogel, zdi se mi, da ne bi mogel biti doma ves čas in ne početi ničesar.

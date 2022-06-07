@@ -1,0 +1,5 @@
+choice1:Oče ji je prebral zgodbo.
+choice2:Oče ji je potipal čelo.
+idx:478
+premise:Punčka je bila videti bleda.
+question:effect

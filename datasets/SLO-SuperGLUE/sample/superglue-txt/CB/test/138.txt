@@ -1,0 +1,3 @@
+hypothesis:so hribi, ki ustavljajo veter.
+idx:138
+premise:B: Izgleda kot, da ko piha veter, gre direktno skozi tebe. Res je povsem drugače kot vreme v Uath. Mislil sem, da je v Utah hladno, a mislim, da je Iowa veliko hladnejša. A: Ja, vidiš, tako je tudi v Texasu, ker ko je hladno, je res hladno. Torej, B: Ja, zdi se mi, da ni nobenih hribov, ki bi ustavili veter.

@@ -1,0 +1,4 @@
+hypothesis:veèina smoga in onesnaženja zraka izvira iz vozil
+idx:25
+label:neutral
+premise:B: kako bi si ti želel imeti v lasti del posesti, kjer je jezero kislo zaradi kislega dežja. A: Prav. Prav. B: To je resnièno vprašanje za tiste, ki smo v tem sektorju. O: Hm, ali mislite, da veèina, uh, smoga ali onesnaženja zraka izvira iz vozil

@@ -1,0 +1,4 @@
+hypothesis:lahko ga bo najti
+idx:125
+label:contradiction
+premise:B: In petnajst let sem delal v bolnišnici in skrbel za nekaj pacientov, ki so imeli AIDS. A: A-ha. B: Em, ko so nas vprašali, če želimo, em, da ostane kot je ali, em, trošiti več, trošiti manj, em, mislim da je ustrezno kolikor trošijo sedaj. Em, po mojem osebnem mnenju. Em, ker mislim, da je to takšna stvar, kjer jim bo vzelo veliko časa, da najdejo, em, cepivo zanjo. A: Ja. A-ha. A-ha. B: Mislim, da ga ne bo tako lahko najti.

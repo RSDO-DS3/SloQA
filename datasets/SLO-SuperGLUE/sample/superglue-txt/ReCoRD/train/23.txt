@@ -1,0 +1,5 @@
+passage.text:Avtor: Novinar časopisa<e.0>Mail On Sunday</e.0> OBJAVLJENO: 16:04 EST, 11. maj 2013 | POSODOBLJENO: 01:58 EST, 13. maj 2013 Ko se helikopter s posebnimi oznakami spusti na dvorišče palače, visoko trenirani profesionalci hitro in diskretno izkrcajo dragocen <e.1>kraljevski</e.1> tovor. . . Najljubša izvezena svilena blazina princa <q.0.a.0>Charlesa</q.0.a.0> . Kar dva neuradna <e.3>Zaščitnika kraljevske zadnjice</e.3> sta bila potrebna, da se posvetita VIP blazini (VeleImpresivnemu Pouštru), ko je prejšnji teden <q.0.a.1>Princ</q.0.a.1> v svojem rjavem <e.5>Sikorskem</e.5> z dvema motorjema pristal na dvorišču <e.6>Kensingtonske palače</e.6> . Ko se je 64-letnik odpravil do čakajočega avta, mu je eden izmed njegovih telesnih čuvajev iz <e.7>Scotland Yarda</e.7> na zadnji sedež podstavil rdečo in zlato blazino. @highlight <e.8>Razvajenega</e.8> princa so prejšnji teden s helikopterjem prepeljali v <e.9>Kensingtonsko palačo</e.9> 
+qas.0.answers.0.text:Charlesa
+qas.0.answers.1.text:Princ
+qas.0.query:opazovalci kraljevske družine in osebje princa @placeholder , ki bi lahko
+idx:23

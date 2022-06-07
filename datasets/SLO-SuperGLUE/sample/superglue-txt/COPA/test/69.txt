@@ -1,0 +1,5 @@
+﻿choice1:Dobila je slabo oceno.
+choice2:Zmagala je na tekmovanju.
+idx:69
+premise:Dekle se je bahalo pred prijateljicami.
+question:cause

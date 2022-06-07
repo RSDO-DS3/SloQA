@@ -1,0 +1,4 @@
+hypothesis:kupila bi Dodgea
+idx:158
+label:contradiction
+premise:A: Ampak, em B: V redu.  Em, em, mislim, da sem imela en ali dva ameriška avtomobila in bila sta v redu. Enkrat sem imela Pontiaca in nikoli nisem imela težav z njim, ampak, em, moja mama je na neki točki imela Dodgea in sem ga nekajkrat vozila in res se mi zdi, da bi kupila Dodgea samo od,

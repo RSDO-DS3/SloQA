@@ -1,0 +1,5 @@
+choice1:Želel je biti v oporo svojemu prijatelju.
+choice2:Premišljeval je o besedah svojega prijatelja.
+idx:17
+premise:Ko je njegov prijatelj nehal govoriti, je mož ostal tiho.
+question:cause

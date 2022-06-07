@@ -1,0 +1,3 @@
+hypothesis:še nekaj ima za povedati o kreditnih karticah
+idx:61
+premise:A: Ja. No, imate še kaj za povedati? B: No, ne, ničesar več o kreditnih karticah. A: Prav. Tudi jaz ne.

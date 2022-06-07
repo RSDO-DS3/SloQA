@@ -1,0 +1,4 @@
+hypothesis:glede tega se bo nekaj naredilo
+idx:164
+label:contradiction
+premise:B: V redu, dobro. A: Em, kratkoročno se mi ne zdi, da se bo glede tega kaj naredilo ali da bi se glede tega verjetno moralo kaj narediti.

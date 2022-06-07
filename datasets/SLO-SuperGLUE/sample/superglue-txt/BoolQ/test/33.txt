@@ -1,0 +1,3 @@
+idx:33
+passage:Brexit -- Brexit (/'br?ks?t, 'br?gz?t/) je bližajoči se izstop Združenega kraljestva iz Evropske unije (EU). Na referendumu 23. junija 2016 je večina britanskih volivcev podprla izstop iz Evropske unije. 29. marca 2017 se je vlada Združenega kraljestva sklicala na člen 50 Pogodbe o Evropski uniji. Zakon o Evropski uniji (o izstopu iz Evropske unije) iz leta 2018 je za »dan izstopa« določil 29. marec 2019 ob 23.00 po UTC (ob polnoči po srednjeevropskem času).
+question:Ali je Združeno kraljestvo še vedno del Evropske unije?

@@ -1,0 +1,3 @@
+hypothesis:bil je že v kakšnem
+idx:121
+premise:A: Am, ne vem ali sem edini osemindvajset letnik, ki ni imel veliko izkušenj z domovi za starejše. Nikoli nisem nobenega obiskal in, em, zdi se mi, da nikol nisem bil v nobenem.

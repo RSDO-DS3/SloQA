@@ -1,0 +1,4 @@
+hypothesis:obstaja starost za lutke in čarovnije
+idx:112
+label:entailment
+premise:Za nekaj časa ga je ideja prevzela in prežal je v mnogo nadstropjih trgovine Hamleys, kjer je iskal igrače. Za Sebastiana je kupil čarovniški komplet (čeprav bi bilo njegovo idealno darilo za otroka čisto novo ime) in marioneto za Louise. Zapomnil si je, da obstaja starost za lutke in za čerovnije, kot se je lahko spomnil časa, ki ga je porabil, ko je skušal kupček kart razporediti v pahljačo ali ko je sedel pred ogledalom in poskušal dobiti težke soglasnike kot pravi ventrilokvist.

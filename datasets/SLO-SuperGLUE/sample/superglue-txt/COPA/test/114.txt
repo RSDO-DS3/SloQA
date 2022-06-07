@@ -1,0 +1,5 @@
+choice1:Kuhinjo je napolnil vonj po gnilobi.
+choice2:Kuhinjo je napolnil topel vonj.
+idx:114
+premise:Spekel sem jabolčno pito.
+question:effect

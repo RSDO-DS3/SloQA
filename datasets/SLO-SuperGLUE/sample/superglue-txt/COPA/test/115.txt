@@ -1,0 +1,5 @@
+choice1:Nosila je visoke pete.
+choice2:Sezula je čevlje.
+idx:115
+premise:Ženska je le s težavo hodila.
+question:cause

@@ -1,0 +1,3 @@
+hypothesis:Roman je bil pod precejšnjim pritiskom
+idx:6
+premise:Roman ju je posadil ob majhno mizo na robu dvorišča v gostišču Crowned Head. Poklical je natakarico, ki je bila videti očarana z njegovim možatim videzom, in obema naročil pivo. ``Rabim nekaj močnejšega kot kavo,'' je rekel in Claudia je videla, da je pod precejšnjim pritiskom.

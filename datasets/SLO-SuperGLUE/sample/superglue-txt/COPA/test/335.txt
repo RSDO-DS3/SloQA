@@ -1,0 +1,5 @@
+choice1:Bil je presenečen.
+choice2:Bil je malodušen.
+idx:335
+premise:Mož je dvignil obrvi.
+question:cause

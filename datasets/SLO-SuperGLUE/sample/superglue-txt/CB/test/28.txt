@@ -1,0 +1,3 @@
+hypothesis: ubogi, lačni otroci so se morali zjutraj umivati z ledom
+idx:28
+premise: Charlotte mi je povedala te reči veliko pozneje. Vsekakor mi Maria ni povedala, da je bila hrana pogosto zažgana in neužitna in da niso mogli spati, ker so bile postelje prehladne. Ni mi povedala, da so se morali ubogi, lačni otroci zjutraj umivati z ledom in ob nedeljah hoditi skozi moker sneg, da bi v cerkvi dve uri presedeli z ledeno mrzlimi nogami.

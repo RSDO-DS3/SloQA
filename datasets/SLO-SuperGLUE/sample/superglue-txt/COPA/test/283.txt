@@ -1,0 +1,5 @@
+choice1:Ko sem šel od hiše, sem preveril poštni nabiralnik.
+choice2:Ko sem šel od hiše, sem zaloputnil vrata.
+idx:283
+premise:Bil sem besen.
+question:effect

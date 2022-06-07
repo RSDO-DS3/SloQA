@@ -1,0 +1,5 @@
+choice1:Državljani so se uprli.
+choice2:Državljani so se vpisali v register volivcev.
+idx:88
+premise:Oblast je tlačila državljane.
+question:effect

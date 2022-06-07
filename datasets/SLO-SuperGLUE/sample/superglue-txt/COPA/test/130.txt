@@ -1,0 +1,5 @@
+choice1:Blagajničarka je dekletu vrnila drobiž.
+choice2:Blagajničarka je dekletu pozabila dati račun.
+idx:130
+premise:Dekle je blagajničarki dalo denar.
+question:effect

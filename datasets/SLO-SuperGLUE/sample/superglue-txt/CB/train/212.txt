@@ -1,0 +1,4 @@
+hypothesis:neka praksa je napaèna
+idx:212
+label:entailment
+premise:B: Torej še enkrat, nikoli zares ne kaznuje podjetje, ki naredi kaj narobe. A: Prav. Tako bo, B: Lahko nadaljujejo z delanjem iste stvari, kot so jo prej. A: Huh. B: In èe vedo, da je neka praksa napaèna, veste,

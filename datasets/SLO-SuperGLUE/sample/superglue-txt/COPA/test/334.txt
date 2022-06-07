@@ -1,0 +1,5 @@
+choice1:Napenjal je mišice rok.
+choice2:Podrgnil si je roke.
+idx:334
+premise:Mišice njegovih rok so se napele.
+question:cause

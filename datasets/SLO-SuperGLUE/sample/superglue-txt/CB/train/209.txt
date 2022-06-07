@@ -1,0 +1,4 @@
+hypothesis:ženske z mišicami izgledajo dobro
+idx:209
+label:contradiction
+premise:A: To je bila le stranska korist. B: Ja, ja, ker nisem debela ali kaj podobnega, vendar nisem v odlièni formi, toda ko sem trenirala, sem bila v precej dobri formi. Nisem pa dobila mišic, ampak sem bila dobra in tonirana. A: Ja. B: Mislim, da ženske z mišicami ne izgledajo dobro.

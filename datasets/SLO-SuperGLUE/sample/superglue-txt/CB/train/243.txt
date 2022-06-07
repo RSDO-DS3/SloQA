@@ -1,0 +1,4 @@
+hypothesis:Seoul lahko posodi denar Varšavi
+idx:243
+label:contradiction 
+premise:Južnokorejska vlada danes podpisuje protokol o vzpostavitvi formalnih diplomatskih odnosov s Poljsko. Podpisujeta tudi trgovinski sporazum. Južnokorejski vladni uradniki so dejali, da ne prièakujejo, da bi Seul Varšavi lahko posodil denar, lahko pa "ponudi izkušnje".

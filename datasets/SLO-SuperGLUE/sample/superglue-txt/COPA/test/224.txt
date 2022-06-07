@@ -1,0 +1,5 @@
+choice1:Bila je zaskrbljena.
+choice2:Bila je presenečena.
+idx:224
+premise:Deklica si je grizla nohte.
+question:cause

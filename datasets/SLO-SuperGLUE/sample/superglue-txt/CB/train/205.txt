@@ -1,0 +1,4 @@
+hypothesis:èisto so izven meje
+idx:205
+label:contradiction
+premise:B: Torej, pogovorimo se o èudovitih zlorabah davkov na osebno premoženje v zvezni državi Pennsylvania, pri katerih lahko kupite nekaj po pošti, država Pennsylvania pa lahko to izve in vam pošlje raèun za prometni davek, ki ustreza izdelku, ki ste ga kupili, ter obresti in kazni od trenutka, ko ste ga kupili. Kaj misliš? Je Pennsylvania pri tem izven meje? A: Pravzaprav ne mislim, da èisto izven meje.

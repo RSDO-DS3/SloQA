@@ -1,0 +1,5 @@
+choice1:V betonu je bila razpoka.
+choice2:Slišala je, da jo kličejo po imenu.
+idx:454
+premise:Ženska se je spotaknila na pločniku.
+question:cause

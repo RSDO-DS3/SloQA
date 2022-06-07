@@ -1,0 +1,3 @@
+hypothesis:med tema dvema stvarema je veliko odvisnosti
+idx:118
+premise:A: in zdi se mi, da bi hotel, ne vem, Evropske države zagotovo, em, nobena od njih nima smrtne kazni, pa prav tako nimajo težav s kriminalom. B: O, res. A: Ne, ne moreš, v Veliki Britaniji in v Franciji nikogar ne usmrtijo in ne verjamem, da to počnejo v Nemčiji ali Italiji, pa nimajo problemov s kriminalom, kot jih imamo mi. Mislim da med tema dvema stvarema ni veliko odvisnosti.

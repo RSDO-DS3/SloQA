@@ -1,0 +1,4 @@
+hypothesis: morali bi govoriti o družinskih sreèanjih
+idx:223
+label:entailment
+premise:A: No, ne vem, uh, težko dobim ljudi, po telefonu. B: Oh res. A: Uh, da, priti do kogar koli. Vèasih klièem cel dan, B: Huh. A: Ampak vseeno, uh, mislim, da bi morali govoriti o družinskih sreèanjih, kajne.

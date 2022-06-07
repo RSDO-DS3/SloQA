@@ -1,0 +1,3 @@
+hypothesis:del kromosoma 13 je manjkal
+idx:217
+premise: Vèasih je vidna poškodba kromosoma. Dr. Knudson je odkril, da nekateri otroci, ki imajo raka oèi, so podedovali poškodovano kopijo kromosoma številka 13, od starša, ki je imel to bolezen. Pod tem mikroskopom je lahko oèitno opazil, da je del kromosoma, s številko 13 manjkal. 

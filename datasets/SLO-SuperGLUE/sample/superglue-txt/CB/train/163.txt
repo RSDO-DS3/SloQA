@@ -1,0 +1,4 @@
+hypothesis:nekaj bo prevzelo NFL
+idx:163
+label:contradiction
+premise:A: Si temu veliko sledil, ali B: Em, ne zares. Mislim, da nikoli ne bo nič prevzelo NFL.

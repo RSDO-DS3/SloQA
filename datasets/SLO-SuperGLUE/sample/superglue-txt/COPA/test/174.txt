@@ -1,0 +1,5 @@
+choice1:Parkiral sem na drugi strani ceste.
+choice2:Parkiral sem blizu vhoda.
+idx:174
+premise:Parkirišče ob stavbi je bilo prazno.
+question:effect

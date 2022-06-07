@@ -1,0 +1,5 @@
+choice1:Zaključil je s svojim pričevanjem.
+choice2:Obtožili so ga krive prisege.
+idx:361
+premise:Priča je lagala pod prisego.
+question:effect

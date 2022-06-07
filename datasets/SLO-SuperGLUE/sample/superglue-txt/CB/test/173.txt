@@ -1,0 +1,3 @@
+hypothesis:varovanje je zelo dobro v mestni hiši
+idx:173
+premise:A: Fant, za to pa res potrebuješ nekoga zelo drznega, da to naredi. B: No, ja, precej slabo je. A: No, zdaj misliš, da je varovanje zelo dobro v mestni hiši?

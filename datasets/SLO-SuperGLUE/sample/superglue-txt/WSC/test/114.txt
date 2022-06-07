@@ -1,0 +1,2 @@
+text:Mary je svoje karte za gledališče ponudila <w1> Sally </w1> , ker je tistega večera <w2> delala </w2> pozno v noč.
+idx:114

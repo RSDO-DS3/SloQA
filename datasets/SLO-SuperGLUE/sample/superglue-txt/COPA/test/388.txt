@@ -1,0 +1,5 @@
+choice1:Skomignila je z rameni.
+choice2:Roko je potegnila stran od njega.
+idx:388
+premise:Fant je uščipnil punčkin komolec.
+question:effect

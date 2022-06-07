@@ -1,0 +1,5 @@
+choice1:Približeval se je postaji.
+choice2:Zamujal je.
+idx:443
+premise:Vlak je upočasnil.
+question:cause

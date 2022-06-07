@@ -1,0 +1,3 @@
+hypothesis:ljudje začenjajo pritiskati na ljudi, naj odidejo stran od družbe metanja stran, ki se je razvila v šestdesetih in sedemdesetih
+idx:140
+premise:A: in tako si samo dal prazne nazaj tja in on jih je vzel in, saj veš, dal novo galonsko steklenico tja. B: Ja. A: Torej, em, ja, B: Torej, em, saj veš, spominjal sem se svojega otroštva in rekel bi, sej veš, da so takrat delali stvari, ki bi jih mi morali početi zdaj in me sploh ne moti, da, em, nekako začenjamo pritiskati na ljudi naj odidejo stran od vse te, em, družbe metanja stran, ki se je razvila v šestdesetih in sedemdesetih letih.

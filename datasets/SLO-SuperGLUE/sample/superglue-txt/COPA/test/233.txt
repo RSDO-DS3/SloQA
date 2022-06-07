@@ -1,0 +1,5 @@
+choice1:Odpihnilo je streho sodišča.
+choice2:Avtocesta je nevarno poledenela.
+idx:233
+premise:Mesto je zajel tornado.
+question:effect

@@ -1,0 +1,3 @@
+hypothesis:Nguyen je odvetnik.
+idx:14
+premise:Nguyenov odvetnik, Lex Lasry, je za avstralsko televizijo iz Singapurja izjavil, da je Nguyen, ki je katolik z vietnamskimi koreninami, »pripravljen umreti«.

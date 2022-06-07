@@ -1,0 +1,4 @@
+hypothesis:nekdo navija za drugo moštvo
+idx:161
+label:contradiction
+premise:A: Deljeno je, ja. B: Uau! A: Res je, torej tu imamo naše Kavboje in, em, mislim, da nihče ne navija za drugo moštvo.

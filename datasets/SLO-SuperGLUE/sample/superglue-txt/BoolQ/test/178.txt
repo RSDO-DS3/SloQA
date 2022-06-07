@@ -1,0 +1,3 @@
+idx:178
+passage:Aorta -- Aorta je glavna arterija v človeškem telesu. Izvira iz levega srčnega prekata in gre do trebušne votline, kjer se razveji v dve manjši arteriji (skupni iliakalni arteriji). Aorta s sistemskim obtokom dovaja oksigenirano kri po celem telesu. 
+question:Ali je aorta del dihal?

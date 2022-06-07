@@ -1,0 +1,5 @@
+choice1:Vrnil sem knjigo.
+choice2:Izgubil sem občutek za čas.
+idx:352
+premise:Zatopil sem se v knjigo.
+question:effect

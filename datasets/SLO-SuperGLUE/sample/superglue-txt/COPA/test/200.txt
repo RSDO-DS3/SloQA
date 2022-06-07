@@ -1,0 +1,5 @@
+choice1:Dolgo se je tuširal.
+choice2:Namilil je roke.
+idx:200
+premise:Dečkovi prsti so se nagubali.
+question:cause

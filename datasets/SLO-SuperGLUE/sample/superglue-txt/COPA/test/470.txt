@@ -1,0 +1,5 @@
+choice1:Vsebovala je prostaški jezik.
+choice2:Imela je zapleteno zgodbo.
+idx:470
+premise:Cenzurirali so televizijsko oddajo.
+question:cause

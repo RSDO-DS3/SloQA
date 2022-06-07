@@ -1,0 +1,5 @@
+choice1:Kosil je s svojim bivšim dekletom.
+choice2:Svojemu dekletu je kupil bonboniero.
+idx:231
+premise:Poskusil se je vesti romantično.
+question:effect

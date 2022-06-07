@@ -1,0 +1,5 @@
+choice1:Mož ni dobro nameril.
+choice2:Mož je izgubljal igro.
+idx:339
+premise:Puščica je zgrešila središče tarče.
+question:cause

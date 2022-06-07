@@ -1,0 +1,4 @@
+hypothesis:zlišal je že za ta film
+idx:141
+label:contradiction
+premise:B: To je bil nekako smešen film z, em, Richardom Dreyfussem and Billom Murrayjem. A: A-ha. B: Bilo je zabavno. A: Golly, zdi se mi, da še nisem slišal za ta film.

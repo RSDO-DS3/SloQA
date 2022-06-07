@@ -1,0 +1,4 @@
+hypothesis:želi si iti pogledat
+idx:145
+label:contradiction
+premise:B: Sedaj pa poglej. A: Pritegne me, ampak nisem prepričana, da si že želim iti pogledat. B: Ja, mislim, da si tudi jaz ne želim iti pogledat.

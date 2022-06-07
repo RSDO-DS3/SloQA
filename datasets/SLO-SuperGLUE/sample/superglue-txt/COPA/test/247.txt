@@ -1,0 +1,5 @@
+choice1:Spraševal jo je o njej.
+choice2:Nenehno je govoril o sebi.
+idx:247
+premise:Žensko je dolgočasil njen spremljevalec.
+question:cause

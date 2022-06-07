@@ -1,0 +1,5 @@
+choice1:Sadje odvrže semena.
+choice2:Na sadju so se zbirale mušice.
+idx:349
+premise:Sadje sem pustil na mizi.
+question:effect

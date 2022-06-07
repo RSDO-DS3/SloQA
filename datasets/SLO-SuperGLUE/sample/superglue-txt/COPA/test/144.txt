@@ -1,0 +1,5 @@
+﻿choice1:Mravlje so lezle k drobtinam.
+choice2:Otrok je pospravil kruh.
+idx:144
+premise:Otrok je na tleh pustil drobtine.
+question:effect

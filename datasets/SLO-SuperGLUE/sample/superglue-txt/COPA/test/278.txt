@@ -1,0 +1,5 @@
+choice1:Pločevinka je bila reciklirana.
+choice2:Pločevinka je bila potlačena.
+idx:278
+premise:Poteptal sem aluminijasto pločevinko.
+question:effect

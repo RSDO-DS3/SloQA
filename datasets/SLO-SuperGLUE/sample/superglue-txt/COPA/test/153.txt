@@ -1,0 +1,5 @@
+choice1:Prižgal sem motor.
+choice2:Motor se je pregrel.
+idx:153
+premise:Avto se je pokvaril.
+question:cause

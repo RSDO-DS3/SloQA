@@ -1,0 +1,5 @@
+﻿choice1:Dokazi so kazali na njegovo vpletenost.
+choice2: Proti njemu ni bilo dokazov.
+idx:190
+premise:Kriminalec se je predal.
+question:cause

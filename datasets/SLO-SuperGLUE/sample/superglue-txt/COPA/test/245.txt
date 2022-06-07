@@ -1,0 +1,5 @@
+choice1:Izgubili so tekmo.
+choice2:Njihov trener je odpovedal trening.
+idx:245
+premise:Člani moštva so krivili drug drugega.
+question:cause

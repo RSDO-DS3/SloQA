@@ -1,0 +1,3 @@
+idx:39
+passage:Most Golden Gate -- Most Golden Gate je viseči most, ki premostuje Golden Gate, eno miljo (1,6 km) široko ožino, ki povezuje zaliv San Francisca in Tihi ocean. Konstrukcija povezuje ameriško mesto San Francisco v Kaliforniji -- najsevernejšo točko polotoka San Francisco -- z okrožjem Marin, in čez ožino vodi tako ameriško cesto 101 kot kalifornijsko državno cesto 1. Most je eden izmed najbolj mednarodno prepoznavnih simbolov San Francisca, Kalifornije in Združenih držav. Ameriško združenje gradbenih inženirjev je razglasilo most kot eno izmed čudes sodobnega sveta.
+question:Ali je most Golden Gate palični most?

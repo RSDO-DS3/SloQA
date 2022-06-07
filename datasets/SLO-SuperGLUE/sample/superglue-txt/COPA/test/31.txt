@@ -1,0 +1,5 @@
+choice1:Bil je otvoritveni dan filma.
+choice2:Film je bil deležen slabih kritik.
+idx:31
+premise:Karte za film so bile razprodane.
+question:cause

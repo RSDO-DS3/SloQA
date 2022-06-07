@@ -1,0 +1,4 @@
+hypothesis:želel bi si, da KGB nadzira njegov telefon
+idx:151
+label:contradiction
+premise:A: Dobro, domnevno tisti, ki odkrijejo takšne informacije, če to delajo, bi jaz raje videl, da tega nebi vedel in, mislim, saj veš, klasika, oh, ne poznam teorij zarote ali karkoli, bi takšne stranke to skušale narediti brez tvoje vednosti. Torej to je, stvari ki posegajo v zasebnost drugega tipa, kjer veš za to, in mogoče stvari, ki posegajo v to zasebnost drugega tipa brez da bi ti to vedel, in ne morem govoriti o tej drugi, brez da bi ustvaril paranojo. To je samo domneva in želel bi si misliti, da je precej nizka, vsaj v tej državi. B: domnevati. Je prisotna. A: Mislim, da si ne bi želel, da KGB nadzira moj telefon ali kaj takega.

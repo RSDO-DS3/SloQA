@@ -1,0 +1,5 @@
+choice1:Izklopil sem svetilko.
+choice2:Pregorela je varovalka.
+idx:178
+premise:Elektrika v hiši se je izklopila.
+question:cause

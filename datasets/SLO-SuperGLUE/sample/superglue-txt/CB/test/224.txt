@@ -1,0 +1,3 @@
+hypothesis:on ima res èas, da preštudira vsak èlanek.
+idx:224
+premise:A: Ampak, uh, moja edina pritožba je to, da res nimam dovolj èasa, da vsak dan pregledam èlanke in grem èez papir, veš, izèrpno v detajle. Zato se osredotoèam na tedenske èasopise. B: Ali misliš, da ti tedenski èlanki podajo dovolj podrobnosti, kot jih želiš? A: No, ja. Res mislim, da nimam èasa, da preštudiram vsak èlanek.

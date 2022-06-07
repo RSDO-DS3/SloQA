@@ -1,0 +1,5 @@
+choice1:Iskal je službo.
+choice2:Lotil se je novega hobija.
+idx:301
+premise:Študent je diplomiral.
+question:effect

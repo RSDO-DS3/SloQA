@@ -1,0 +1,3 @@
+hypothesis:Isabel je želela preživeti
+idx:34
+premise:``V vasi se je nalezla vročine. Tudi Benedict jo je imel.'’ Vendar mislim, da si Isabel ni želela preživeti.

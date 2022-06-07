@@ -1,0 +1,3 @@
+hypothesis:porote morajo vedno odločati o kazni
+idx:58
+premise:B: No, to je res. A: Mislim, da je to res edina stvar. Mislim, rad bi videl, da se sistem spremeni, hm, moral bi obstajati, ne, v to ne verjamem, hm, porote bi morale vedno odločati o kazni.

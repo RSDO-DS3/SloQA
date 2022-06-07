@@ -1,0 +1,2 @@
+text:<w1> Claire </w1> ni popoldne dobila niti ene točke v igri skvoša proti Lisi. <w2> Bila </w2> je resnično izčrpana.
+idx:115

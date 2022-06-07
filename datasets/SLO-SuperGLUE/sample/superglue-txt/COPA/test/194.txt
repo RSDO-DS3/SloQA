@@ -1,0 +1,5 @@
+choice1:Vulkan je izbruhnil.
+choice2:Bil je speči vulkan.
+idx:194
+premise:Iz vulkana je privrela lava.
+question:cause

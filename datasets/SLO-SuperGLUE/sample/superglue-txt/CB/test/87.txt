@@ -1,0 +1,3 @@
+hypothesis:ne spremlja igralcev
+idx:87
+premise:A: Nič bolj ni drago, kot če si ga sposodiš. Zadnji film, šel sem mogoče dva ali tri tedne nazaj in si ogledal FX TWO in to je res dober film, če so ti všeč posebni učinki, precej krvav in z veliko akcije. B: Ja.  Nisem še naredil tega, mislim, da za tega nisem niti slišal. A: Saj veš, da ne spremljam igralcev.

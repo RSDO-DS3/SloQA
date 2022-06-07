@@ -1,0 +1,5 @@
+choice1:Stekla je na teraso ob bazenu.
+choice2:Skočila je z odskočne deske.
+idx:30
+premise:Punca je pristala v bazenu.
+question:cause

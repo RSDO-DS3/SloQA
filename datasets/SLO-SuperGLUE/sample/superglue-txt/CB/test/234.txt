@@ -1,0 +1,3 @@
+hypothesis:kdorkoli bi verjel temu
+idx:234
+premise:B: zavrnil jo je, preprosto ni bila dovolj uèinkovita, da... A: No, ni je zavrnil do zadnjih dveh tednov kampanije. Ni verjel, da bi lahko kdo verjel temu. In njegova priljubljenost je zaèela narašèati. B: Torej vidiš, tudi jaz nisem verjel, da bi lahko kdorkoli verjel temu. 

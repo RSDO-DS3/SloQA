@@ -1,0 +1,3 @@
+hypothesis:Nekdo tukaj bi razumel vse te eksotične tehnike.
+idx:110
+premise:B: Em, pravzaprav, Los Alamos, em, je, em, naredil veliko raziskav, em, glede recikliranja stvari v splošnem. Em, vključuje naprimer, em, ustvarjanje bioloških organizmov, ki lahko odstanijo težke elemente kot so selen, barij in, em, druge stvari iz, em, odpadnih materialov v splošnem. Em, in očistijo odpadke določenih, em, em, nevarnih elementov. A: No, to je pa precej, em, napredna, em, situacija, em, em, z odpadki. Mislim, da nihče tukaj ne bi razumel vseh teh eksotičnih tehnik, saj veš, odstranjevanja težkih kovin.

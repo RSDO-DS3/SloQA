@@ -1,0 +1,5 @@
+choice1:Njegov dežnik je bil polomljen.
+choice2:Ukradli so mu kolo.
+idx:163
+premise:Študent je prišel na predavanje premočen do kože.
+question:cause

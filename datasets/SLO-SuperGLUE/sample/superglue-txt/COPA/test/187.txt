@@ -1,0 +1,5 @@
+choice1:Letovišče je bilo zasedeno.
+choice2:Letovišče je bilo na otoku.
+idx:187
+premise:Počitnikovalci so do letovišča prišli s trajektom.
+question:cause

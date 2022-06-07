@@ -1,0 +1,5 @@
+choice1:Odpustili so jo s položaja.
+choice2:Šla je na porodniški dopust.
+idx:61
+premise:Računovodkinja je slabo upravljala s sredstvi družbe.
+question:effect

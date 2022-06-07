@@ -1,0 +1,3 @@
+hypothesis:zdaj je bilo več odlivov kot prilivov
+idx:142
+premise:In tako, takšno je pač zaupanje, so ga še naprej videvali po tem ko je odšel, saj so bili do zdaj navajeni konstante in zmedenih odlivov in prilivov Stevensonovega denarja. Vsak bančnik je to jemal kot del neke strategije trgovske znamke, kjer je imel privilegij da je videl in mu je bil zaupan, a le mejhen del. Niso opazili, da je bilo zdaj več odlivov kot prilivov.

@@ -1,0 +1,5 @@
+choice1:Bila je obsojena na družbeno koristno delo.
+choice2:Obsodili so jo na smrt.
+idx:410
+premise:Žensko so spoznali krivo za prekršek.
+question:effect

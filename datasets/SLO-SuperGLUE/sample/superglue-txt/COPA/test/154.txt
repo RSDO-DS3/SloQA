@@ -1,0 +1,5 @@
+choice1:Šel je k psihiatru.
+choice2:Dneve dolgo je ostal v postelji.
+idx:154
+premise:Mož si je poškodoval hrbet.
+question:effect

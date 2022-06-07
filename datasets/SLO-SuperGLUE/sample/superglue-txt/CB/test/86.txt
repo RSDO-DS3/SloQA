@@ -1,0 +1,3 @@
+hypothesis:te stvari se dogajajo preveč pogosto
+idx:86
+premise:A: Ja, ampak mislim, da je večina stvari, ki se dogaja tu, precej nedolžnih. Ampak sem pa videl na novicah in enkrat sem videl del televizijske nadaljevanke POLICAJI, ko so bili v Pittsburghu, B: Ja. A: in precej me je presenetilo, ker so aretirali ljudi zaradi mamil in podobno, ampak res mislim, da se te stvari ne dogajajo pogosto, ker, kot sem rekel, po tem, kar poročajo v novicah, to ni tako običajno.

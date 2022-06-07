@@ -1,0 +1,5 @@
+choice1:Slinil se je.
+choice2:Legel je na tla.
+idx:447
+premise:Pes si je ogledoval sočni zrezek na mizi.
+question:effect

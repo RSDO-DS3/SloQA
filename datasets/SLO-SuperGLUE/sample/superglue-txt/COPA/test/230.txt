@@ -1,0 +1,5 @@
+choice1:Bili so zreli.
+choice2:Zalil sem jih.
+idx:230
+premise:S stebla sem pobral paradižnike.
+question:cause

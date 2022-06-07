@@ -1,0 +1,4 @@
+hypothesis:obleganje je imelo slab vpliv na Collectorja
+idx:30
+label:entailment
+premise:Nato bi se prestrašeni in prepoteni prebudili, najdoè se v belem platnu, v udobni postelji, v mirni Angliji. In vse bi bilo dobro. Lahko reèemo, èeprav je preživel, je obleganje slabo vplivalo na Collectorja.

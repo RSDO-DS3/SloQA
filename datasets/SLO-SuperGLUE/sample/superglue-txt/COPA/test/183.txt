@@ -1,0 +1,5 @@
+choice1:Fotografije so bile nejasne.
+choice2:Nihče na fotografijah se ni želel nasmehniti.
+idx:183
+premise:Fotograf je pozabil uporabiti bliskavico na fotoaparatu.
+question:effect

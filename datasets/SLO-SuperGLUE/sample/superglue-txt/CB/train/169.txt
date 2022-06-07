@@ -1,0 +1,4 @@
+hypothesis:davki bi se res znižali
+idx:169
+label:contradiction
+premise:A: In sedaj je spet čas volitev in jih zopet skušajo znižati. B: Oh. A: Samo govorijo o tem, da bi jih znižali, ampak jih nikoli ne, samo zvišujejo jih. B: Nikoli še nisem videl, da bi se davki res znižali.

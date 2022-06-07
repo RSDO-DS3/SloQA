@@ -1,0 +1,3 @@
+hypothesis:nimajo avtoritete, da bi pritegnili pozornost otrok
+idx:82
+premise:B: Sinov učitelj ima sedemindvajset učencev. A: Ja. B: In to je zagotovo veliko število učencev na eno samo osebo, še posebno če se z njimi ukvarjaš vsak dan. Em A: Ja.  Morda. B: Ampak še bolj gre zato, da mislim, da nimajo avtoritete da bi pritegnili pozornost otrok.

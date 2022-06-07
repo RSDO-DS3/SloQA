@@ -1,0 +1,5 @@
+choice1:Arhitekt je zasnoval zgradbo.
+choice2:Arhitekt je popravil načrte.
+idx:272
+premise:Klient je odobril arhitektove načrte za zgradbo.
+question:effect

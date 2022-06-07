@@ -1,0 +1,4 @@
+hypothesis:ne bodo bili priroèni
+idx:203
+label:contradiction
+premise:A: ja, imaš prav, dve leti je lahko malo predolgo. B: Ja, in tukaj bo potem veliko upornosti in potem, ko dobiš ljudi, ki nimajo nobene volje biti tukaj, jaz mislim, da ne bodo bili priroèni 

@@ -1,0 +1,3 @@
+hypothesis:večina krajev je še takšnih
+idx:164
+premise:B: Kot to, da ima stranka vedno prav in saj veš, ni pomembno kako siten si po telefonu, so zelo razumevajoči in, em, zago- zagotovijo, da so stvari primerno postavljene, če si kakorkoli nezadovoljen z njihovim tgovskim blagom. A: To je res dobro. Včasih je bilo tako. B: A-ha. A: Ampak, zdi se mi, da večino krajev ni več takšnih.

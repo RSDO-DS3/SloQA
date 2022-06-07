@@ -1,0 +1,5 @@
+choice1:Reševalec je skočil za njim.
+choice2:Moški je premočil reševalca.
+idx:455
+premise:Moški je skočil v bazen na bombico.
+question:effect

@@ -1,0 +1,4 @@
+hypothesis:res jih potrebuje
+idx:155
+label:contradiction
+premise:B: Česa se bojim? A: Ja. B: Em, ne vem če se res bojim, da bi preveč zapravila. Samo, em, ne zdi se mi, da bi jih res potrebovala, veš.

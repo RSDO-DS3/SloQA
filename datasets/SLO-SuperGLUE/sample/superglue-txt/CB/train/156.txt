@@ -1,0 +1,4 @@
+hypothesis:bere karkoli, kar je strogo označeno kot samoizboljšava
+idx:156
+label:contradiction
+premise:A: To je dokaj zanimivo. B: Stavim, da bi bilo, precej zanimivo. Hm, to je, hm, samoizboljšava, no, to je neke vrste hobi ampak je samoizboljšava z vidika, da se verjetno sprostiš, em. A: Ja, zdi se mi, da ne berem nič, kar je strogo označeno kot samoizboljšava.

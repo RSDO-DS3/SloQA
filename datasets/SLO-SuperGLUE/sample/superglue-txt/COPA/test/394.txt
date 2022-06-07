@@ -1,0 +1,5 @@
+choice1:V kamin sem naložil polena.
+choice2:Sekiro sem zavihtel proti polenu.
+idx:394
+premise:Poleno se je razcepilo na pol.
+question:cause

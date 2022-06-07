@@ -1,0 +1,5 @@
+﻿choice1:Raziskovalci so umaknili teorijo.
+choice2:Posamezniki so sprejeli teorijo.
+idx:73
+premise:Raziskovalci so potrdili teorijo.
+question:effect

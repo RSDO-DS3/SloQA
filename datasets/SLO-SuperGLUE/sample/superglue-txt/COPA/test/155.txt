@@ -1,0 +1,5 @@
+choice1:Zmanjkalo mi je lesa za kurivo.
+choice2:V hiši je bilo mrzlo.
+idx:155
+premise:Zakuril sem v kaminu.
+question:cause

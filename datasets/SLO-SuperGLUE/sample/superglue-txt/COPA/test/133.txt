@@ -1,0 +1,5 @@
+choice1:Razočarali so svoje navijače.
+choice2:Navdihnili so svoje navijače.
+idx:133
+premise:Moštvo je izgubilo turnir.
+question:effect

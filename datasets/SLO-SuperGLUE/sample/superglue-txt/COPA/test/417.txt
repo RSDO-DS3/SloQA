@@ -1,0 +1,5 @@
+choice1:Izučil se je za poklic, ki si ga je želel.
+choice2:Preklicali so mu ponudbo za službo.
+idx:417
+premise:Moški je diplomiral.
+question:effect

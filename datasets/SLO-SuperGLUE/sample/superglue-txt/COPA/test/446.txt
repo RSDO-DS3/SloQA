@@ -1,0 +1,5 @@
+choice1:Njen glas je bil hripav.
+choice2:Govorila je z naglasom.
+idx:446
+premise:Ženska je imela vneto grlo.
+question:effect

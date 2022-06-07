@@ -1,0 +1,2 @@
+﻿text:Lauferjeva drama se zgleduje po sodnem primeru, v katerem je pleme Havasupai trdilo, da so <w1> raziskovalci </w1> z univerze Arizona State University zlorabili <w2> njihove </w2> DNK vzorce.
+idx:99

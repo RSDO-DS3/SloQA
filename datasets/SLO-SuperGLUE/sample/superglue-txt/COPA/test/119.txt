@@ -1,0 +1,5 @@
+choice1:Zanosila sta.
+choice2:Na skrivaj sta se poročila.
+idx:119
+premise:Nihče ni odobraval njune zaroke.
+question:effect

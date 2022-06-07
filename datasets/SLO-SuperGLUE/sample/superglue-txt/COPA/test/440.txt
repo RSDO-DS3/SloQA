@@ -1,0 +1,5 @@
+﻿choice1:Tla niso bila ravna.
+choice2:Tla so bila spolzka.
+idx:440
+premise:Miza se je majala.
+question:cause

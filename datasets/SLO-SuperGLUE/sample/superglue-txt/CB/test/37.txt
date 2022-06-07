@@ -1,0 +1,3 @@
+﻿hypothesis:planet Saturn povezujejo s svincem
+idx:37
+premise:Si vedel? Pluton ... bog Hada. Si vedel, da planet Saturn povezujejo s svincem?

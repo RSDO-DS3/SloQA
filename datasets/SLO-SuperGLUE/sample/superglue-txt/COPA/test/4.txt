@@ -1,0 +1,5 @@
+﻿choice1:Bil je praznik.
+choice2:Bilo je poletje.
+idx:4
+premise:Pisarna je bila zaprta.
+question:cause

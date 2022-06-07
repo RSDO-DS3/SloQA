@@ -1,0 +1,4 @@
+hypothesis:Gospod Rogers dela nove Gospode Rogerse
+idx:135
+label:contradiction
+premise:B: Ja. Kaj pa Gospod Rogers, je on še tam? A: Ja. Ja. Še vedno kažejo Gospoda Rogersa. Mislim, da ne dela novih,

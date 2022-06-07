@@ -1,0 +1,5 @@
+choice1:Ni znal plavati.
+choice2:Voda je bila plitka.
+idx:67
+premise:Moški je imel v vodi na sebi rešilni jopič.
+question:cause

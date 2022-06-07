@@ -1,0 +1,5 @@
+choice1:Spis sem napisal na roko.
+choice2:Z ženo sva se držala za roke.
+idx:63
+premise:V roki me je zgrabil krč.
+question:cause

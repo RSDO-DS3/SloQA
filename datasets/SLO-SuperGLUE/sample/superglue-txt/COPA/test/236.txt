@@ -1,0 +1,5 @@
+choice1:Postal je spolzek.
+choice2:Postal je sijoč.
+idx:236
+premise:Zgladil sem kamen.
+question:effect

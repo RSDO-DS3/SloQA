@@ -1,0 +1,5 @@
+choice1:Motil jo je hrup.
+choice2:Dala si je preluknjati ušesa.
+idx:468
+premise:Ženska si je vstavila ušesne čepe.
+question:cause

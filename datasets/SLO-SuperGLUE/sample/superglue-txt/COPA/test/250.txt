@@ -1,0 +1,5 @@
+choice1:Stopil je v lužo.
+choice2:Stopil je na polomljeno steklo.
+idx:250
+premise:Mož si je prebodel nogo.
+question:cause

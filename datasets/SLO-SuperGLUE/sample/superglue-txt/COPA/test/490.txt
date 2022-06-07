@@ -1,0 +1,5 @@
+choice1:Nanj sem dal led.
+choice2:Vanj sem vtrl kremo.
+idx:490
+premise:Moj gleženj je bil otečen.
+question:effect

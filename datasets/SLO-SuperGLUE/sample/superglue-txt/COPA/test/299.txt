@@ -1,0 +1,5 @@
+choice1:Prosil sem ga, da jo stiša.
+choice2:Prosil sem ga, če mi posodi CD.
+idx:299
+premise:Sosedova glasba je bila hrupna.
+question:effect

@@ -1,0 +1,4 @@
+hypothesis:Cowboys imajo možnost
+idx:37
+label:contradiction
+premise:A: Torej, ne vem, èe želim dobro leto. Mislim, da vedno želimo dobro leto. B: Torej, ali mislite, da bodo v konènici kaj storili, da bi letos prišli do Super Bowla, ali kaj želite narediti letos? A: Ne, mislim, da Cowboys nimajo možnosti.

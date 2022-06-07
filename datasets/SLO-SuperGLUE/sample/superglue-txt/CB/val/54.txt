@@ -1,0 +1,4 @@
+hypothesis:Sidacai je bila v položaju, ko lahko postavlja pogoje
+idx:54
+label:contradiction
+premise:'No, prav, pa grem. Ampak izbirala bom svoje moške in če se bova kdaj morala skregati, boš ubogal kar bom rekla.'' Jehanu se ni zdelo, da je Sidacai v položaju, ko lahko postavlja pogoje, ampak usedel se je nazaj v avto in pretehtaval.

@@ -1,0 +1,2 @@
+text:Tvoje <w1> življenje </w1> pripada tebi in zgolj tebi in če trpljenje prevlada nad dobrim, bi moral imeti možnost, da <w2> ga </w2> zaključiš.
+idx:16

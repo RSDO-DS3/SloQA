@@ -1,0 +1,4 @@
+hypothesis:svojega psa bi zamenjal za vse na svetu
+idx:165
+label:contradiction
+premise:A: Oh, ja. Živali imajo svoj način pogovarjanja. B: Alfie ga je imel. Povem ti, če bi takrat lahko dobil tisto mačko. A: Ne vem, em, če bi svojega psa zamenjal za karkoli na svetu.

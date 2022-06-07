@@ -1,0 +1,5 @@
+choice1:Postavil je šotor.
+choice2:Zavpil je na pomoč.
+idx:89
+premise:Deček se je izgubil v gozdu.
+question:effect

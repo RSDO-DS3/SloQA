@@ -1,0 +1,5 @@
+choice1:Hoteli so boljše delovne pogoje.
+choice2:Delodajalec jim je zvišal plače.
+idx:113
+premise:Zaposleni so ustanovili sindikat.
+question:cause

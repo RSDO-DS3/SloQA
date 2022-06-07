@@ -1,0 +1,3 @@
+idx:160
+passage:Javorjev sirup -- Tudi nekaj drugih (a ne vseh) vrst javorja (Acer) se včasih uporablja kot vir drevesnega soka za izdelavo javorjevega sirupa, vključno z amerikanskim javorjem (Acer negundo), srebrnim javorjem (A. saccharinum) in oregnoskim javorjem (A. macrophyllum). Podobne sirupe je mogoče narediti tudi iz brez in palm ter drugih virov.
+question:Ali lahko iz vseh javorjev dobimo sirup?

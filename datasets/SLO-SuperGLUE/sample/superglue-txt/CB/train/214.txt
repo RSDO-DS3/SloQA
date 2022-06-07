@@ -1,0 +1,4 @@
+hypothesis:poèasi se vraèamo k temu 
+idx:214
+label:entailment
+premise:B: Tudi jaz. A: Ali si, B: Veš, mislim, da se poèasi vraèamo k temu, ne?

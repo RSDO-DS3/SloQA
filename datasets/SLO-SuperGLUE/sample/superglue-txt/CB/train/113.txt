@@ -1,0 +1,4 @@
+hypothesis:Patterson je imel sestanek za zaprtimi vrati in nihče ni bil odpuščen
+idx:113
+label:entailment
+premise:Dobro uro sem preživel s Pattersonom, kar se je izkazalo, to sem ugotovil pozneje, da je še ena od stvari, ki so se zgodile prvič. Čas je denar v Mestu in redki ljudje so vredni ene ure, razen če je sestanek med kosilom in samo če si vpleten v prevzemno ponudbo. Izvedel sem tudi, da je bila to ena redkih priložnosti, ki se je lahko spomni kdorkoli iz PKB, ko je Patterson imel sestanek za zaprtimi vrati in nihče ni bil odpuščen. 

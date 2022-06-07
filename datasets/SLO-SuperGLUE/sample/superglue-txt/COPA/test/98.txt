@@ -1,0 +1,5 @@
+choice1:Videti je bilo strašljivo.
+choice2:Videti je bilo zabavno.
+idx:98
+premise:Peljali smo se z vlakcem smrti.
+question:cause

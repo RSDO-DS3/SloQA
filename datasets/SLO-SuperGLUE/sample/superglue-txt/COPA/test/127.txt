@@ -1,0 +1,5 @@
+choice1:Oče je sinu kupil pivo.
+choice2:Oče je vrgel sina ven iz hiše.
+idx:127
+premise:Oče je sinu zameril, da je alkoholik.
+question:effect

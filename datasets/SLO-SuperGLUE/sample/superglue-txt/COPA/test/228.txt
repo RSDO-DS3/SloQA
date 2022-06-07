@@ -1,0 +1,5 @@
+﻿choice1:Uganila je odgovor.
+choice2:Zbrisala je odgovor.
+idx:228
+premise:Dekle se je zmotilo pri izpitu.
+question:effect

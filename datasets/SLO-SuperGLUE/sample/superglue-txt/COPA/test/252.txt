@@ -1,0 +1,5 @@
+﻿choice1:Naredil sem ovinek.
+choice2:Prosil sem za prevoz.
+idx:252
+premise:Na avtocesti je bilo veliko prometa.
+question:effect

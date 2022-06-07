@@ -1,0 +1,5 @@
+choice1:Puhnil sem.
+choice2:Zazehal sem.
+idx:366
+premise:Bil sem zdolgočasen.
+question:effect

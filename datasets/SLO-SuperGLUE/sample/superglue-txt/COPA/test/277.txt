@@ -1,0 +1,5 @@
+choice1:Prodali so svojo hišo.
+choice2:Njihovo hišo je zajel ogenj.
+idx:277
+premise:Družina je izgubila vse svoje premoženje.
+question:cause

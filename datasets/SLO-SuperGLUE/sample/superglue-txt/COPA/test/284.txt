@@ -1,0 +1,5 @@
+choice1:Potoval je na sever.
+choice2:Zgodaj je vstal.
+idx:284
+premise:Moški je želel opazovati sončni vzhod.
+question:effect

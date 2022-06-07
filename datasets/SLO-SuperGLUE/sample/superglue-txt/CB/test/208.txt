@@ -1,0 +1,3 @@
+hypothesis:freska je bila pogrešana
+idx:208
+premise: Po tem, ko je bila zavrgla freska najdena zunaj pred šolo od zaskrbljenega Stamfordovega maturanta, je bila naposled predana Hiram Hoelzerju, profesionalnemu popravljalcu umetnin. V 1970ih se Stamford in mestni predstavniki niso potrudili, da bi jo našli. Niso vedeli, da je bila freska izgubljena do leta 1980, ko jo je nek raziskovalec najdel v studiu Hiram Hoelzerja in zaslišal predstavnike glede tega. 

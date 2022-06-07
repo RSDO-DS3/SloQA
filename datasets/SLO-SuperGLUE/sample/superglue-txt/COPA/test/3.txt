@@ -1,0 +1,5 @@
+choice1:Patruljni agent je preveril njihove potne liste.
+choice2:Patruljni agent jih je obdolžil tihotapljenja.
+idx:3
+premise:Popotniki so prispeli do meje.
+question:effect

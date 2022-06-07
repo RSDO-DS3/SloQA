@@ -1,0 +1,3 @@
+hypothesis:bil je požig
+idx:41
+premise:Colin je sovražil način, na katerega si je ogledal cunjo, preden je vanjo zavil stvari in jo stlačil v hlačni žep. Smith se je z vsem strinjal, potem pa odločno rekel, ``Bil je požig.'’ Če je Smith rekel, da je bil požig, potem je bil požig.

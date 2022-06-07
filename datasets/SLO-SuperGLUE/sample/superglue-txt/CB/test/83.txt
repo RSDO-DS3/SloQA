@@ -1,0 +1,3 @@
+hypothesis:to so naredili
+idx:83
+premise:A: Ampak nisem čisto prepričan, da smo jim karkoli obljubili. B: Ja. A: Mislim, to bi bilo neumno, B: Ja. A: In mislim, da tega nismo naredili.

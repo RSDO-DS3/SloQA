@@ -1,0 +1,5 @@
+choice1:Lastnik je imenoval novega direktorja.
+choice2:Zaposleni so napovedali stavko.
+idx:313
+premise:Lastnik tovarne zaposlenim ni želel zvišati plače.
+question:effect

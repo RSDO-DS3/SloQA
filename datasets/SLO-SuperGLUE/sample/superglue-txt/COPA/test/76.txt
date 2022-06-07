@@ -1,0 +1,5 @@
+choice1:Oče je sinu dal nekaj denarja.
+choice2:Oče je zagrabil sinovo roko.
+idx:76
+premise:Množica je postajala vedno bolj nemirna.
+question:effect

@@ -1,0 +1,5 @@
+choice1:Mama mu je izmerila temperaturo.
+choice2:Mama ga je peljala v park.
+idx:260
+premise:Dečkovo čelo je bilo vroče na otip.
+question:effect

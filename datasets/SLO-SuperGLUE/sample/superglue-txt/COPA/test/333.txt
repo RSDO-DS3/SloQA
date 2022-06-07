@@ -1,0 +1,5 @@
+choice1:Razjezil se je.
+choice2:Imel je srčni napad.
+idx:333
+premise:Imel je nujno operacijo.
+question:cause

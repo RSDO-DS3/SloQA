@@ -1,0 +1,5 @@
+choice1:Odpustili so ga iz vojske.
+choice2:Šel je študirat na kolidž.
+idx:95
+premise:Sin se je odselil od doma.
+question:cause

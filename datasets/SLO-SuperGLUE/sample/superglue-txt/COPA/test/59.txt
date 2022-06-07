@@ -1,0 +1,5 @@
+choice1:Na ovojnico je prilepil znamko.
+choice2:Zapečatil je ovojnico.
+idx:59
+premise:Moški je pritisnil na vlažen del ovojnice.
+question:effect

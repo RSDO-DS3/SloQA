@@ -1,0 +1,5 @@
+choice1:Listje je zamenjalo barvo.
+choice2:Listje se je nakopičilo na tleh.
+idx:52
+premise:Listje je padlo z drevesa.
+question:effect

@@ -1,0 +1,5 @@
+choice1:Rotil jo je, naj ga vzame nazaj.
+choice2:Predstavila ga je svojim staršem.
+idx:137
+premise:Njegovo dekle je prekinilo z njim.
+question:effect

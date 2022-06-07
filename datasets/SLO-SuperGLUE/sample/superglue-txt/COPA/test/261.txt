@@ -1,0 +1,5 @@
+choice1:Želel je narediti vtis na svojo spremljevalko.
+choice2:V lase si je dal gel.
+idx:261
+premise:Odišavil se je s kolonjsko vodo.
+question:cause

@@ -1,0 +1,4 @@
+hypothesis:en od problemov javnega šolskega sistema je neskladje med različnimi šolami
+idx:167
+label:entailment
+premise:A: Mimogrede, imam prijatelja, ki hodi tja. Pozneje se hočem o tem pogovoriti s tabo, v redu. B: V redu. Oh, sem, srednja šola, na katero sem hodil, em, je bila tudi dobra. In dobro, mislim, da bi lahko rekli, da je en od problemov javnega šolskega sistema neskladje med različnimi šolami.

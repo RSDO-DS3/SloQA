@@ -1,0 +1,2 @@
+text:<w1> Muriel </w1> ima v dnevni sobi znamenito sliko balerine, ki jo je naslikala Cecile d'Arblay. Vidi se <w2> jo </w2> iz profila, z rokama iztegnjenima proti nevidnemu ljubimcu.
+idx:127

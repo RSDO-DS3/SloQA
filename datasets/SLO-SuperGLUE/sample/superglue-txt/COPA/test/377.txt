@@ -1,0 +1,5 @@
+choice1:Zločinec je odložil pištolo.
+choice2:Žrtev je dvignila roke.
+idx:377
+premise:Zločinec je pištolo pomeril v žrtev.
+question:effect

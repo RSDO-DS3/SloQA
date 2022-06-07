@@ -1,0 +1,4 @@
+hypothesis:oni vedo, da jo je naredila v isti barvi, kot je okrašeno v vrtcu 
+idx:232
+label:entailment
+premise:B: Ja. Lepe so. A: Številka ena se je izkazala za èudovito in gospa je rekla, da ne more verjeti, da vedo, da sem jo naredila v isti barvi, kot je okrašeno v vrtcu

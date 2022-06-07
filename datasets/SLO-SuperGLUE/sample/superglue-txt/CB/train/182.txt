@@ -1,0 +1,4 @@
+hypothesis:policija zmore 
+idx:182
+label:contradiction
+premise:A: Mislim, da, mislim, B: Resnièno. Oh, ja, trajalo bo, uh, saj veste, policija, mislim, da ne zmore sama, veste.

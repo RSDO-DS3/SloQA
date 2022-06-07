@@ -1,0 +1,3 @@
+hypothesis:Miriam je prišla na obisk k zobarju
+idx:205
+premise: Njegovo stanovanje je bilo v zgornjem nadstropju. Spodaj je bil zobar in v pritlièju nepremièninar. Med sabo sta se dogovorila, da se, èe kdo podnevi vidi Miriam vstopiti v hišo, lahko vedno pretvarja, da gre na obisk k zobarju. 

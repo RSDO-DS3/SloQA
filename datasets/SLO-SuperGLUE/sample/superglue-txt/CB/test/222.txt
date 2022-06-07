@@ -1,0 +1,3 @@
+hypothesis:mož je potreboval zdravniško domaèo oskrbo
+idx:222
+premise:A: In, le z zaveso, seveda, med nami, in, uh, B: Toèno. A: pregledali so moža in oèitili njegovo dihalno pot, in definitivo, že samo z pogledom nanj in na njegovo obnašanje, si lahko videl, da je potreboval zdravniško domaèo oskrbo. 

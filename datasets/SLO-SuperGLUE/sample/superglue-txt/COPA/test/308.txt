@@ -1,0 +1,5 @@
+choice1:Otrok je zakričal in se prebudil iz nočne more.
+choice2:Otroka je bilo strah pogledati pod posteljo.
+idx:308
+premise:Starši so prihiteli v otrokovo sobo.
+question:cause

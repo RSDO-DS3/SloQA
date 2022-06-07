@@ -1,0 +1,3 @@
+hypothesis:lahko planiraš dolgoročno
+idx:78
+premise:B: In dolgoročne napovedi so, na nek način, postale stvar preteklosti. A: Ja, človek, B: In, A: Mislim, da enostavno ne moreš več planirati dolgoročno.

@@ -1,0 +1,3 @@
+hypothesis:Booker T. in Sharmell sta organizatorja afro-ameriške rokoborske lige WWE.
+idx:22
+premise:V tem delu sta sodelovala Booker T. in Sharmell, superzvezdi afro-ameriške lige WWE.

@@ -1,0 +1,2 @@
+text:Do takrat je že vsakdo čutil določeno zaupanje do britanskega pristopa k stvarem. General je imel pravico kaznovati <w1> vojaka </w1> , ki so ga ujeli pri prodaji <w2> njegovega </w2> orožja, pa tudi kogarkoli, ki bi ga spravil v skušnjavo.
+idx:54

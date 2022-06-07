@@ -1,0 +1,4 @@
+hypothesis:zelo pogosto jih uporablja
+idx:53
+label:contradiction
+premise:A: uh, vzel sem kup rokodelskega orodja iz štiridesetih, ki ga je imel oče moje žene, ko je bil še živ. B: A-ha. A: in tako imam tračno žago in usmerjevalnik in, em, takšne stvari v garaži. Ampak ne morem reči, da jih zelo pogosto uporabljam.

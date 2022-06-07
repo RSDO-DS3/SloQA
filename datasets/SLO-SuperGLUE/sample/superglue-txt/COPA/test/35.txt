@@ -1,0 +1,5 @@
+choice1:Moj prijatelj me je pustil čakati.
+choice2:Moj prijatelj je prišel pravočasno.
+idx:35
+premise:Izgubil sem potrpljenje.
+question:cause

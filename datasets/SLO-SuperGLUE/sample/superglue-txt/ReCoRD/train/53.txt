@@ -1,0 +1,12 @@
+passage.text:(<e.0>CNN</e.0>) -- V zadnjih štirih letih so volivci večji del časa trdili, da je najbolj pereče vprašanje gospodarstvo. V zadnjem letu je bilo gospodarstvo glavna točka <e.1>republikanskih</e.1> napadov na predsednika Obamo. <q.1.a.0>Mitt Romney</q.1.a.0> se že mesece dolgo sklicuje na gospodarstvo in ustvarjanje novih delovnih mest. Zdaj, ko je predsednik javno oznanil svojo podporo enakopravnosti istospolnih zvez, bo postalo jasno, ali bosta ekonomija in delovna mesta še vedno glavno vprašanje oz. ali je <e.4>Obamova</e.4> zgodovinska izjava spremenila tok volitev. Spomnimo se, <e.5>republikanci</e.5> so označili vprašanje vojne proti ženskam za <e.6>demokratsko</e.6> strategijo, da odvrnejo pozornost od »pravega vprašanja«, torej ekonomije. V naslednjih dneh bo postalo jasno, ali bodo <e.7>Republikanci</e.7> podobno odslovilni, ko bo šlo za istospolne pravice. Ali pa bo dejstvo, da je leta 2004 <e.8>George W. Bush</e.8> diskriminacijo proti <e.9>GLBT</e.9> (gejevski-lezbični-biseksualni-transspolni) skupnosti uspešno izkoristil za motiviranje svoje volilne baze, enostavno preveč mamljivo, da bi se mu  <q.1.a.1>Romney</q.1.a.1> in njegova druščina lahko uprli? @highlight <e.11>LZ Granderson</e.11>: Ekonomija že leta dolgo velja za poglavitno vprašanje @highlight Sprašuje se, če bo <e.12>Obamova</e.12> podpora istospolnim porokam spremenila taktiko <q.1.a.2>Romneyja</q.1.a.2> in njegove druščine @highlight <e.14>LZ</e.14>: <e.15>Obama</e.15> je s tem dokazal, da ni strahopetec; vprašanja mu namreč ne bi bilo potrebno nasloviti pred volitvami @highlight Trdi, da ta poteza <e.16>Obamo</e.16> loči od <q.1.a.3>Romneyja</q.1.a.3> , ki je znan po nedoslednih mnenjih
+qas.0.answers.0.text:Mitt Romney
+qas.0.answers.1.text:Romney
+qas.0.answers.2.text:Romneyja
+qas.0.answers.3.text:Romneyja
+qas.0.query:Zaradi tega trenutno nihče ne ve, ali se bo @placeholder dejansko še naprej osredotočal na ekonomijo.
+qas.1.answers.0.text:Mitt Romney
+qas.1.answers.1.text:Romney
+qas.1.answers.2.text:Romneyja
+qas.1.answers.3.text:Romneyja
+qas.1.query:Tudi glede edinega področja, kjer je @placeholder , vsaj teoretično, izjemno kredibilen, t.j. ekonomije, 44% volivcev meni, da bi trenutni predsednik bolje opravil delo, medtem ko bi 42% raje videlo Romneyja, sodeč po rezultatih ankete postaje CNN.
+idx:53

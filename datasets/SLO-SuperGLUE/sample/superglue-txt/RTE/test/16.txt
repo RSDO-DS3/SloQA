@@ -1,0 +1,3 @@
+hypothesis:Moštvo Uniteda je zmagalo na Ligi prvakov.
+idx:16
+premise:Moštvo Uniteda ni napredovalo dlje od skupinskega dela Lige prvakov in zaostaja v tekmi za naslov prvaka, kar je sprožilo govorice o njeni prihodnosti.

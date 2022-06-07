@@ -1,0 +1,3 @@
+idx:34
+passage: Bitka pri Termopilah -- Bitka pri Termopilah velja za kulturno ikono zahodne civilizacije, vse odkar se je zgodila. Bitka se pojavlja v nešteto pregovorih in delih iz popularne kulture, denimo v filmih (npr. 300 Špartancev (1962) in 300 (2007), ki temeljita na dogodkih v času bitke), v literaturi, skladbah, televizijskih programih in računalniških igrah. Bitka je tudi predmet obravnave mnogih člankov in knjig o teoriji in praksi vojskovanja.
+question:Ali film 300 temelji na resničnih dogodkih?

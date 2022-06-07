@@ -1,0 +1,4 @@
+hypothesis:govorec A lahko zahteva od vseh, da bi to počeli celo leto
+idx:166
+label:contradiction
+premise:A: ampak istočasno mislim, da bi jim to naredilo veliko dobrega. B: Ja. A: Ampak tam je, B: Mislim, da ne moreš zahtevati od vseh, ja, da bi to počeli celo leto ali dve leti ali kaj takega.

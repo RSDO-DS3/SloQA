@@ -1,0 +1,5 @@
+choice1:Umiral je.
+choice2:Bil je vdovec.
+idx:494
+premise:Moški je napisal oporoko.
+question:cause

@@ -1,0 +1,3 @@
+hypothesis:TV je veliko pripomogel k takšnim spremembam
+idx:146
+premise:A: Ja, pred tridesetimi leti sem imel študentsko službo, em, ko sem delal kot programer in morali smo programirati v binarni kodi in, em, jo naluknjati na tiste majhne kartonaste kartice, ki mislim da ne obstajajo več. B: Ja, vem.  Ne. A: Nikjer več ne vidiš take luknjaste kartice. B: Hm, mislim, da je tudi TV veliko pripomogel k takšnim spremembam. Kaj pa ti?

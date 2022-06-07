@@ -1,0 +1,3 @@
+hypothesis: Urad za obiskovalce in konferenčni turizem v okrožju Johnstown-Cambria County je finančno podprl dve prostovoljni gasilski društvi.
+idx:10
+premise:Zvezna policija je izjavila, da je Urad za obiskovalce in konferenčni turizem v okrožju Johnstown-Cambria County zadržal 52.574,11 dolarjev, pridobljenih s prodajo piva v dolini Thunder Valley, ki naj bi bili namenjeni dvema prostovoljnima gasilskima društvoma.

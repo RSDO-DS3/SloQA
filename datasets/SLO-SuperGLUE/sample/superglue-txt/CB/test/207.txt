@@ -1,0 +1,3 @@
+hypothesis:to bo vzelo sedem mesecev
+idx:207
+premise:B: To prekoraèi preraèun zelo hitro. A: No, to smo dejansko naèrtovali celo eno leto. B: Oh, dobro. A: Uh, Bog, zato, nikoli nismo pomislili, da nam bo to vzelo sedem mesecev. 

@@ -1,0 +1,3 @@
+hypothesis:Peggy Pine je bila stara prijateljica Mame Francis
+idx:184
+premise: Eve ni vedela, da je bil Mr. Burns nagnjen k temu, da je spil kakšnega ali da je Dr. Johnson imel zelo slabe živce in so ga slišali krièati o Bogu, da ni nikoli ne da na svet ust, ki jih ne more nahraniti. Dr. Johnson je bil mnenja, da je tukaj veliko ust, posebno v družinah z trinajst otroci, ki jih je Bog pozabil nahraniti. Benny ni vedel, za je Peggy Pine stara prijateljica Mame Francis, da sta bili nekaj let nazaj prijateljici in da, potem ko je ona prišla nazaj na konvencijo, je Mami Francis rekla Bunty. 

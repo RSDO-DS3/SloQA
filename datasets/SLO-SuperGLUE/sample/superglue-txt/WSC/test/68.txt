@@ -1,0 +1,2 @@
+text:<w1> Babica </w1> je postavila krožnik za Mary; ta je nerada <w2> pristala </w2> na to, da ostane na večerji.
+idx:68

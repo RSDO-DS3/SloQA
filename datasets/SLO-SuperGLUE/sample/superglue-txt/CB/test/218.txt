@@ -1,0 +1,3 @@
+hypothesis:nedavno nazaj so se odloèili, da sta dva posameznika družina
+idx:218
+premise:B: ja, oèitno jih nimam in mislim, da je to del zamenjave vlog, v redu se je poroèiti in ne imeti otrok. A: Ja. B: In mislim, da so vsi za zelo dolgo èasa rekli, da, no, si poroèen, zdaj moraš imeti otroke in šele nedavno je bilo odloèeno, da sta dva posameznika družina.

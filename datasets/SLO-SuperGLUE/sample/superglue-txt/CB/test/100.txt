@@ -1,0 +1,3 @@
+hypothesis:ne pomaga, da se jih uči kmetovati
+idx:100
+premise:B: Ja, seveda, obstajale bi vrzeli, tako kot pri čemerkoli drugem. A: Prav, veste,okrog tega bi takoj našli obvod. Vendar pa se sprašujem, če ne gre tukaj za nek drug problem in je prav to razlog, da je to izumrlo. Lahko poveste kaj več, to ni bilo vprašanje, ampak morda je težava bolj kot, ali bi morali mladi odrasli, ali gre lahko kdo tja in ali lahko kdo zapusti kurdsko skupnost, no, trenutno je to težko, ampak recimo, Bangladeš bi bil dober primer ali pa neka res obupna situacija, in jih nauči, kako kmetovati in jih uči in to ne pomaga. B: Ja. A: Nisem prepričan, da pomaga.

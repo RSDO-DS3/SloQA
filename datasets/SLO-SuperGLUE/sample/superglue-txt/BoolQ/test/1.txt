@@ -1,0 +1,3 @@
+idx:1
+passage:UEFA Liga prvakov 2018/19 – Finale bo na sporedu na stadionu Wanda Metropolitano v Madridu v Španiji. Zmagovalci UEFA Lige prvakov 2018/19 si bodo prislužili pravico, da se v UEFA Superpokalu 2019 pomerijo z zmagovalci UEFA Evropske lige 2018/19. Samodejno se bodo uvrstili tudi v skupinski del UEFA Lige prvakov 2019/20, in če so se že uvrstili zaradi uspešnega igranja v ligi, bo šlo mesto, ki je rezervirano zanje, naprej prvaku avstrijske bundeslige 2018/19, enajstouvrščene zveze glede na seznam ekip, ki bodo igrale v naslednji sezoni.
+question:Ali so zmagovalci Lige prvakov samodejno uvrščeni v kvalifikacije za turnir naslednje leto?

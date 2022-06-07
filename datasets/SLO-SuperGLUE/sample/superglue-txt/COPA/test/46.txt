@@ -1,0 +1,5 @@
+choice1:Njena sestra je bila srečna.
+choice2:Njena sestra se je ločila.
+idx:46
+premise:Ženska je zavidala svoji sestri.
+question:cause

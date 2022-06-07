@@ -1,0 +1,3 @@
+hypothesis:ostali fantje so napadli ob kakršnemkoli znaku šibkosti
+idx:10
+premise:In če bi kdo opazil, bi morda lahko mimogrede odpravil celo zadevo. ``Ah, to... nič takega ni...'' Ne, prehitro pozabim, da je to, o čemer sedaj le redko premišljujem, takrat predstavljalo vir velike skrbi. Zavedal sem se, kaj se lahko zgodi, videl sem, da so ostali fantje napadli ob kakršnemkoli znaku šibkosti in vedel sem, da nisem dovolj velik ali napadalen, da bi se lahko rešil z nasilništvom.

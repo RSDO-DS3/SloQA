@@ -1,0 +1,4 @@
+hypothesis:menijo, da so jo dobili
+idx:126
+label:neutral
+premise:A: Ja, so. Od zunaj in znotraj so veliko pritiskali nanj. Em, smešno jih je gledati kako igrajo, najbrž je tak kot veliko podajalcev, em, ko je pritisk res prisoten, ko ostane samo še nekaj zadnjih minut tekme v sezoni, se ti fantje res najbolje odrežejo. B: A-ha. A: In tega nisem še povsem ugotovil, če menijo da so tekmo dobili ali če se nikamor ne mudi, zaradi prvih treh četrtin ali em, em, če se zgodi kaj takega, da jih preplavi adrenalin.

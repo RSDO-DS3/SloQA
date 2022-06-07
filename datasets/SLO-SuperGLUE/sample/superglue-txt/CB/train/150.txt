@@ -1,0 +1,4 @@
+hypothesis:v službo bi šel brez neprebojnega jopiča na sebi
+idx:150
+label:contradiction
+premise:A: V veliki meri je to gotovo. B: Zagotovo je. A: Mislim, da ne bi šel v službo brez neprebojnega jopiča na sebi.

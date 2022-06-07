@@ -1,0 +1,5 @@
+﻿choice1:Umrl je.
+choice2:Pobegnil je.
+idx:214
+premise:Zapornik je umrl od lakote.
+question:effect

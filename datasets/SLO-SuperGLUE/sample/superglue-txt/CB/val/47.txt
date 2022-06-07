@@ -1,0 +1,4 @@
+hypothesis:Zukov se je pomikal dalje v stran
+idx:47
+label:entailment
+premise:Morilčev ton in drža sta bila poplnoma samozavestna. Če je opazil, da se je Zukov zdaj dalje pomikal vstran, s čimer je razširil lok ognja, ni izgledal zaskrbljen.

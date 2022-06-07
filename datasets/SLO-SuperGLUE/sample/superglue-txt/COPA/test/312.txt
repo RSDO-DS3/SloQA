@@ -1,0 +1,5 @@
+choice1:Začele so se poletne šolske počitnice.
+choice2:Preselila se je v novo mesto.
+idx:312
+premise:Deklica je zamenjala šolo.
+question:cause

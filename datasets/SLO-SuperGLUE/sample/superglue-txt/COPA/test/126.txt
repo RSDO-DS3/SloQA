@@ -1,0 +1,5 @@
+choice1:Dvigalo je nehalo delovati.
+choice2:Sprožil se je požarni alarm.
+idx:126
+premise:Stavbo so evakuirali.
+question:cause

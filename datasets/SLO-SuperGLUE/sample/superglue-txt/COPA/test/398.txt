@@ -1,0 +1,5 @@
+choice1:Želeli so najti kompromis.
+choice2:Želeli so sprejeti pravično odločitev.
+idx:398
+premise:Prijatelji so vrgli kovanec.
+question:cause

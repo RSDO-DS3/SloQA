@@ -1,0 +1,5 @@
+hypothesis:pridobili so težo zaradi tega
+idx:192
+label:contradiction
+premise:A: bilo je tako redilno B: Sliši se vredu. A: Ampak, mislim, da nismo pridobili veè teže zaradi tega
+

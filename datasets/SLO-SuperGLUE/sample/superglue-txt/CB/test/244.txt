@@ -1,0 +1,3 @@
+hypothesis:bilo je tako dobro kot se je govorilo, da je
+idx:244
+premise:B: Kaj pa Ghost? A: ja, smo videli in, nam je bilo všeè, ampak, veš, mislim, da ni bilo tako dobro, uh, kot se je govorilo, da je

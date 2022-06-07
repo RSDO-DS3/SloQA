@@ -1,0 +1,5 @@
+choice1:Vpila je vodo.
+choice2:Iz nje se je pocedila voda.
+idx:186
+premise:Stisnil sem vlažno gobico.
+question:effect

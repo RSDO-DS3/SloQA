@@ -1,0 +1,5 @@
+﻿choice1:Ugrabitelj je grozil, da bo ranil talca.
+choice2:Ugrabitelj je pustil talca samega.
+idx:306
+premise:Talec se je podredil ugrabiteljevim ukazom.
+question:cause

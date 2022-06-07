@@ -1,0 +1,5 @@
+choice1:Pustil si je rasti lase.
+choice2:Njegovi lasje so bili vedno daljši.
+idx:170
+premise:Mož je odšel k brivcu.
+question:cause

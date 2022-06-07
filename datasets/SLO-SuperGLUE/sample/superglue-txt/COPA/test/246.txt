@@ -1,0 +1,5 @@
+choice1:Obžaloval sem svojo napako.
+choice2:Dosegel sem svoj cilj.
+idx:246
+premise:Prosil sem za odpuščanje.
+question:cause

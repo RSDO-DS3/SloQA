@@ -1,0 +1,4 @@
+hypothesis:Gorbachevu bo dovoljeno iti èez s tem, da bo naredil spremembo
+idx:239
+label:contradiction
+premise:B: In tanki so prišli in veste, bolj ali manj poskrbeli za to. A: Toèno. B: In, A: Ja, uh, to, osebno ne vidim Gorbaèova kot grožnja, in mislim, da v resnici poskuša narediti spremembo. B: Aha. A: Ampak ne verjamem, da mu bo s tem, v tem prvem poiskusu, da je prvi, ki je stvari resnièno obrnil ali poskusil, dovoljeno priti èez.

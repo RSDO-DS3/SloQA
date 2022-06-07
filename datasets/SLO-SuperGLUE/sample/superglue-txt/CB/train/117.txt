@@ -1,0 +1,4 @@
+hypothesis:pištole bi morale biti prepovedane
+idx:117
+label:contradiction
+premise:A: Kaj misliš o nadzoru orožja? B: No, hm, mislim, ne zdi se mi, da bi pištole morale biti prepovedane.

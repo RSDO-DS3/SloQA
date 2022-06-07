@@ -1,0 +1,2 @@
+text:Maude, Dora in Peter so videli vlake, ki so brzeli čez prerijo, z dolgimi valečimi se oblački črnega dima, ki so se vili iz stroja. Njihovo <w1> rohnenje </w1> in njihove divje, jasne žvižge se je slišalo že od daleč. Konji so pobegnili, ko so <w2> videli </w2> , da prihaja vlak.
+idx:9

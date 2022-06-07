@@ -1,0 +1,2 @@
+text:Ko je Maude prišla v <w1> šolo, </w1> je bila Nell Raleigh že tam. Njena orokavičena roka je prijela za Maudino roko in <w2> jo </w2> stisnila.
+idx:39

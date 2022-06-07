@@ -1,0 +1,3 @@
+hypothesis:Sinkport zelo pooseblja znano obalno mesto v East Sussex
+idx:202
+premise: Nastopal je v Radio Times v risanki osem let in njegov portret je bil razstavljen v Royal Academy. Njegova knjiga je namenjena ne le za današnje otroke, ampak tudi za vse tiste, ki so kdaj uživali v Kapitanovih adventurah. Zgodba bi se lahko zgodila kjerkoli ampak nekateri bralci bodo lahko opazili, da Sinkport zelo pooseblja znano obalno mesto v East Sussex. 

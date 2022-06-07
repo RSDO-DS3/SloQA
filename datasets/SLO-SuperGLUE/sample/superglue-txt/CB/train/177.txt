@@ -1,0 +1,4 @@
+hypothesis:porota bi morala biti tista, ki poda obsodbo
+idx:177
+label:contradiction
+premise:A: em, ampak ko kvantificiraš stvari in lahko kazenski postopki trajajo kolikor let je pač primerno, em, bi lahko to prepustili nekomu drugemu, ki, em, ima strokovno znanje tega področja. B: Res, tudi jaz se strinjam. Mislim, da ne bi smela biti porota tista, ki poda obsodbo.

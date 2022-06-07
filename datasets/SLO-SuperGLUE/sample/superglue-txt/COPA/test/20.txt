@@ -1,0 +1,5 @@
+choice1:Naveličala sta se prepirov.
+choice2:Izogibala sta se razgovoru o težavi.
+idx:20
+premise:Odločila sta se skleniti kompromis.
+question:cause

@@ -1,0 +1,4 @@
+hypothesis:njegova vloga se ni spremenila, odkar je slišal o svojih prièakovanjih
+idx:31
+label:entailment
+premise:Biddy je imel prav. V Londonu sem imel èas, da razmislim. Lahko sem videl, da se moja vloga ni spremenila, odkar sem slišal o mojih prièakovanjih.

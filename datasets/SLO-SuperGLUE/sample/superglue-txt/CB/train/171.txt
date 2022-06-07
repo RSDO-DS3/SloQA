@@ -1,0 +1,4 @@
+hypothesis:to bo delovalo
+idx:171
+label:contradiction
+premise:B: In, saj veš, celotna ideja o elektronski učilnici. Ne vem, če sem, ja, naklojen, ja, A: In ne zdi se mi, da bo to delovalo.

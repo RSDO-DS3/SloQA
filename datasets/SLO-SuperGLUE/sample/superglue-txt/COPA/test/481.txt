@@ -1,0 +1,5 @@
+choice1:Imela je norice.
+choice2:Rada se je učila matematiko.
+idx:481
+premise:Dekle je izostalo iz šole in ostalo doma.
+question:cause

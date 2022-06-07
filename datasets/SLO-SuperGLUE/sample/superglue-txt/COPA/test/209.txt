@@ -1,0 +1,5 @@
+﻿choice1:Zobna pasta je brizgnila iz tube.
+choice2:Dekle je izpljunilo zobno pasto.
+idx:209
+premise:Dekle je stisnilo tubo z zobno pasto.
+question:effect

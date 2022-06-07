@@ -1,0 +1,3 @@
+hypothesis:tu imajo opozorila
+idx:95
+premise:A: Ampak ne, predstavljam si, da bi bilo enako na obali Kalifornije, mar ne? B: Ojoj, mislim, da res ne bi hotel živeti v Kaliforniji, z vsem tistim smogom. A: Ja. B: Mislim, ne morem verjeti, da imajo tu opozorila, večinoma samo ko postane res, res vroče.

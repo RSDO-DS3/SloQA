@@ -1,0 +1,5 @@
+choice1:Glasbenik je tapkal z nogo.
+choice2:Glasbenik je tolkel po bobnu.
+idx:307
+premise:Čez oder je odmevalo bobnenje.
+question:cause

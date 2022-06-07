@@ -1,0 +1,5 @@
+﻿choice1:Pojedel sem krof.
+choice2:Rad sem imel sladkarije.
+idx:42
+premise:Moje roke so bile lepljive.
+question:cause

@@ -1,0 +1,3 @@
+hypothesis:Recepciji je zmanjkalo vaz
+idx:204
+premise:In še vedno ni vedela, kaj je bilo v glavi Luke Hunterja. Ampak dan po tem so stvari postajale jasnejše. Tokrat so v recepciji rekli, da jim je zmanjkalo vaz in karkoli je storil, ali ni mislila, da je bil že èas, da mu odpusti? 

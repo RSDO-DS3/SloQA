@@ -1,0 +1,2 @@
+text:Še vedno do takrat je <w1> Larry </w1> očetu pomagal pri njegovem delu. Vendar mu zdaj ni mogel pomagati, saj je oče rekel, da železniška družba v pisarni ne želi nikogar drugega razen <w2> njega </w2> .
+idx:12

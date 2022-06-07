@@ -1,0 +1,5 @@
+choice1:Voda v banji je postala mlačna.
+choice2:Voda je odtekla iz banje.
+idx:406
+premise:Ženska se je obirala v banji.
+question:effect

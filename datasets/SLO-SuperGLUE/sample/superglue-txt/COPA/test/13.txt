@@ -1,0 +1,5 @@
+choice1:Pobrisal je neželeno pošto.
+choice2:Poslal je skupinsko elektronsko sporočilo.
+idx:13
+premise:Njegov e-poštni predal je bil poln neželene pošte.
+question:effect

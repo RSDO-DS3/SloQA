@@ -1,0 +1,2 @@
+text:Muriel ima v dnevni sobi znamenito sliko Cecile d'Arblay, ki prikazuje <w1> balerino </w1> , ki si obuva <w2> svoj </w2> čevelj.
+idx:126

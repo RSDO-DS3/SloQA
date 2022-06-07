@@ -1,0 +1,4 @@
+hypothesis:vzemala je nekaj zelo dragocenega
+idx:40
+label:entailment
+premise:Kaj je prineslo Gharra, Ten-huca in Pulvidona na planet v istem èasu? Zakaj jih je vse tako zanimalo, zakaj sem tam? In èe so nekako sumili, da vzemam nekaj dragocenega, zakaj bi me kdo poskušal ubiti pred prevzemom?

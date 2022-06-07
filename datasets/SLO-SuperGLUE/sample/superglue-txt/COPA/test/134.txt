@@ -1,0 +1,5 @@
+choice1:Bil sem v zadregi.
+choice2:Bil sem ponosen.
+idx:134
+premise:Prijatelj me je opozoril, da imam med zobmi špinačo.
+question:effect

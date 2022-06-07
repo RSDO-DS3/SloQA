@@ -1,0 +1,5 @@
+choice1:Občinstvo je osuplo ploskalo.
+choice2:Akrobat je nihal na trapezu.
+idx:34
+premise:Cirkusant je žongliral, medtem ko je vozil monocikel.
+question:effect

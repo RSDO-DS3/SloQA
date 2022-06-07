@@ -1,0 +1,5 @@
+choice1:Barva je vse poškropila.
+choice2:Barva se je spremenila v zeleno.
+idx:302
+premise:Umetnik je rumeno barvo pomešal v modro.
+question:effect

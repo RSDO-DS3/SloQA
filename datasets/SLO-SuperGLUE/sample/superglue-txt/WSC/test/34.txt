@@ -1,0 +1,2 @@
+text:<w1> Peč </w1> je ogrevala kuhinjo in svetilka <w2> jo </w2> je naredila še bolj domačno.
+idx:34

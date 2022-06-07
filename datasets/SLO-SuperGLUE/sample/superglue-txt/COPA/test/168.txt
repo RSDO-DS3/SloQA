@@ -1,0 +1,5 @@
+choice1:Želel si je, da bi bilo poletje.
+choice2:Zdelo se mu je čudovito.
+idx:168
+premise:Pogledal je nočno nebo.
+question:cause

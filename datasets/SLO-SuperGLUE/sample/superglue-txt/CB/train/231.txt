@@ -1,0 +1,4 @@
+hypothesis:ubili so jih
+idx:231
+label:entailment
+premise:B: Ne, ni bilo všeè, kako se je konèalo. A: Vem, edini razlog, za katerega vem, zakaj se je konèalo je Arsenio Hall neko noè, je Christopher Reeves rekel, da, veš, B: Ja. A: Jaz ne morem verjeti, da so jih ubili

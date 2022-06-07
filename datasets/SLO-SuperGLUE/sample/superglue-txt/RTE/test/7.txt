@@ -1,0 +1,3 @@
+hypothesis:Ruski parlament zapira nevladne organizacije.
+idx:7
+premise:Zgornji dom ruskega parlamenta je potrdil sporen zakonski predlog, ki povečuje državni nadzor nad nevladnimi organizacijami (NVO).

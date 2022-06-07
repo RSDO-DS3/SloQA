@@ -1,0 +1,5 @@
+choice1:Lenarila je.
+choice2:Trdo je delala.
+idx:400
+premise:Ženska si je zadala ambiciozen cilj.
+question:effect

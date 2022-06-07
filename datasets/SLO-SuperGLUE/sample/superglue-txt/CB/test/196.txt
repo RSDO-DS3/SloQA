@@ -1,0 +1,3 @@
+hypothesis:Laura ni bila edini èlovek, ki je plaval v oceanu
+idx:196
+premise: Bil je nenavaden obèutek, lebdeti tam v temi, z odsevom lune plesoè na vrhovih malih valov, in migajoèih zvezd, ki so svetile skozi odejo noènega neba, kot bi jo preluknjali molji. Bilo je, kot da je bila le ona - mala pika v oceanu, z galaksijo, za katero se je zdelo, da se je raztezala v neskonènost. Èeprav je bila skoraj v mistiènem trentuku, Laura ni povsem pozabila, da ni bila edini èlovek, ki je plaval v oceanu. 

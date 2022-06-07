@@ -1,0 +1,5 @@
+﻿choice1:Postregel sem ga.
+choice2:Posolil sem ga.
+idx:382
+premise:Namaz je bil brez okusa.
+question:effect

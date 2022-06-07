@@ -1,0 +1,5 @@
+﻿choice1:Rokopis se mu je zdel zanimiv.
+choice2:Menil je, da je stavek nejasen.
+idx:292
+premise:Urednik je preoblikoval stavek v rokopisu.
+question:cause

@@ -1,0 +1,7 @@
+passage.text:Leta 1948 je vlada <e.0>ZDAe.0</e.0> odprla številne preiskave o videnjih <e.1>NLP-jev</e.1> , ki naj bi bila po mnenju mnogih posledica paranoje, ki jo je povzročala <e.2>hladna vojna</e.2> . Projekt, ki so ga pozneje poimenovali <q.0.a.0>Projekt modra knjiga</q.0.a.0> , je popisal več kot 12.000 srečanj z <e.4>NLP-ji</e.4> , ki jih je raziskalo <e.5>vojaško letalstvo</e.5> . Desetletja po tem, ko so dokumente označili z oznako zaupno, so zdaj mikrofilmi končno prosto dostopni na spletu, kjer si jih lahko ogleda vsak, ki želi preučiti dokaze. Spodaj si oglejte video Na sliki je osebje <q.0.a.1>Projekta modra knjiga</q.0.a.1>, ki je popisalo več kot 12.000 srečanj z NLP-ji. V sredini sedi <e.7>Hector Quintanilla</e.7> , zadnji vodja <q.0.a.2>Projekta modra knjiga</q.0.a.2> @highlight Dokumenti se nanašajo na raziskave <e.9>ameriškega letalstva</e.9> v zvezi z <e.10>NLP-ji</e.10> , ki so potekale od 1947-1969 @highlight Potekale so v okviru <q.0.a.3>Projekta modra knjiga</q.0.a.3> , ki se je zaključil leta 1970 @highlight Več kot 7,7% primerov je ostalo nerešenih, kar predstavlja približno 5,5% dokumentov
+qas.0.answers.0.text:Projekt modra knjiga
+qas.0.answers.1.text:Projekta modra knjiga
+qas.0.answers.2.text:Projekta modra knjiga
+qas.0.answers.3.text:Projekta modra knjiga
+qas.0.query:Ameriško letalstvo trdi, da je @placeholder zbral 12.618 poročil o videnjih, od katerih jih je 701 ostalo »neidentificiranih«, kar predstavlja približno 5,5% dokumentov.
+idx:52

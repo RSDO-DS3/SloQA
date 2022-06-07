@@ -1,0 +1,5 @@
+choice1:Občinstvo se je smejalo.
+choice2:Občinstvo je vstalo.
+idx:364
+premise:Javni govorec je povedal šalo.
+question:effect

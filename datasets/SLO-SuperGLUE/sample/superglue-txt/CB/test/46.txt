@@ -1,0 +1,3 @@
+hypothesis:Annabel je imela hčerko, ki bo šla študirat
+idx:46
+premise:Najverjetneje je bil odgovor meso servirano ob popoldanski malici. Velik kos šunke ali pečena slanina ali nekaj klobas, če pa se bi ji zdelo potrebno, bi jih lahko nekaj dali tudi na Bennyjev krožnik. Annabel je komaj verjela, da ima hčerko, ki bo šla študirat.

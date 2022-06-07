@@ -1,0 +1,15 @@
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+__pycache__
+.venv
+pip-selfcheck.json
+models/*/*.bin
+datasets/SLO-SQuAD2.0-MT/data/*.json
+datasets/SLO-SQuAD2.0-MT/data/slo-squad2-mt-train/
+datasets/SLO-SQuAD2.0-MT/data/slo-squad2-mt-val/

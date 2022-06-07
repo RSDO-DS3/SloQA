@@ -1,0 +1,5 @@
+choice1:Izgubila je račun.
+choice2:Obleka ji ni bila prav.
+idx:141
+premise:Blagajnik ženski ni želel vrniti denarja.
+question:cause

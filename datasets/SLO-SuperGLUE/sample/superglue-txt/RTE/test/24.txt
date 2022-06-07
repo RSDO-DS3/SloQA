@@ -1,0 +1,3 @@
+hypothesis:Butler se je pridružil vojski.
+idx:24
+premise:Baldwin je poučeval na številnih bejzbolskih kampih po državi, med drugim na Notre Dame, LSU, Mississippi State, Illinois, vojaškem kampu Army, Old Dominion, Butler, Dartmouth, Southern Maryland in na kampu The Best in Virginia.

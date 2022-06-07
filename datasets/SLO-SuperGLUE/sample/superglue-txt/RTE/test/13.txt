@@ -1,0 +1,3 @@
+hypothesis:Saddam Hussein je sprejel izgnanstvo.
+idx:13
+premise:Saddam Hussein je sprejel ponudbo, podano v zadnjem trenutku, da naj pobegne v izgnanstvo že nekaj tednov pred invazijo, ki so jo leta 2003 vodile ZDA, vendar so uradniki Arabske lige predlog sabotirali, so izjavili državni uradniki iz zalivske države.

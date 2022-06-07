@@ -1,0 +1,4 @@
+hypothesis:poznala je gospoda in gospo McLeod večino njunih življenj
+idx:115
+label:entailment
+premise:BILA sem res samo navzoča v nesreči gospoda in gospe McLeod. Ni bila ravno moja stvar, čeprav bi lahko rekli, da sem oba poznala - sem ju videvala naokrog- večino njunih življenj.

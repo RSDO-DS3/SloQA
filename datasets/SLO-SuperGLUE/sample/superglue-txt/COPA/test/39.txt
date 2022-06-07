@@ -1,0 +1,5 @@
+choice1:Balon je počil.
+choice2:Balon je odletel.
+idx:39
+premise:Fant je stisnil balon.
+question:effect

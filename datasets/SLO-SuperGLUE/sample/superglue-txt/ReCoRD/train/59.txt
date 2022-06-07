@@ -1,0 +1,8 @@
+passage.text:Avtor <e.0>Chris Parsons</e.0> OBJAVLJENO: 11:06 EST, 26. julij 2012 | POSODOBLJENO: 20:00 EST, 26. julij 2012 Ko je dobitnik medalje, <e.1>David Bond</e.1> , osvojil zlato na zadnjih <q.1.a.0>londonskih olimpijskih igrah</q.1.a.0>  pred več kot pol stoletja, so bile igre zelo drugačne of vseobsegajočega, več milijard vrednega » <e.3>največjega šova</e.3> na <e.4>svetu</e.4> « , kar naj bi bile danes. Zdaj, 64 let po tem, ko je prestolnica nazadnje gostila <e.5>igre</e.5> , je zadnji preživeli dobitnik zlate medalje v <e.6>Britaniji</e.6> opisal, kako se je počutil, ko je tekmoval na prvih povojnih <q.1.a.1>olimpijskih igrah</q.1.a.1> leta 1948. Športni heroj, g. <e.8>Bond</e.8> , ki je danes star 90 let, je zlato osvojil v paru, ki je nastopal v jadralnem razredu <e.9>Lastovica</e.9> -- za nastop na <e.10>igrah</e.10> , za katere je bilo njegovemu šefu prav malo mar, je vzel neplačan dopust. @highlight <e.11>David Bond</e.11>, 90, je bil pred 64 leti polovica zmagovite jadralne dvojice  @highlight Povedal je, da počitnikovalci v <e.12>Britaniji</e.12> leta 1948 niti niso vedeli, da potekajo <e.13>igre</e.13> 
+qas.0.answers.0.text:londonskih olimpijskih igrah
+qas.0.answers.1.text:olimpijskih igrah
+qas.0.query:David se sedaj pripravlja na ogled velikih britanskih upov na @placeholder , ki se bodo ta teden začele tudi zares.
+qas.1.answers.0.text:londonskih olimpijskih igrah
+qas.1.answers.1.text:olimpijskih igrah
+qas.1.query:»V pristanišču je bilo veliko bojnih ladij, o dogajanju na @placeholder zato v lokalnih časopisih niti niso poročali, tako da so se počitnikovalci ob morju spraševali: ‘Kdo so vsi ti mladi ljudje iz različnih držav in zakaj so tu?’«
+idx:59

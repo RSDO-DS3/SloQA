@@ -1,0 +1,5 @@
+choice1:Izgubil se je v mislih.
+choice2:Imel je pretres možganov.
+idx:11
+premise:Mož se je udaril v glavo.
+question:effect

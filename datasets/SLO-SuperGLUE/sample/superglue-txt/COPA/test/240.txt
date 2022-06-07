@@ -1,0 +1,5 @@
+choice1:Ribič je ribo povlekel na suho.
+choice2:Ribič je znova vrgel trnek.
+idx:240
+premise:Riba se je ujela na trnek.
+question:effect

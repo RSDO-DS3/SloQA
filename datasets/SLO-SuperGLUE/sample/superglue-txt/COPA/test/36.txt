@@ -1,0 +1,5 @@
+choice1:Razvili so jedrsko orožje.
+choice2:Dosegli so sporazum.
+idx:36
+premise:Vojskujoče države so želele doseči mir.
+question:effect

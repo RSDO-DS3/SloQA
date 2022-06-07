@@ -1,0 +1,5 @@
+choice1:Ugasnil je računalnik.
+choice2:Na drugi konec sobe je vrgel stol.
+idx:484
+premise:Moški se je razjezil.
+question:effect

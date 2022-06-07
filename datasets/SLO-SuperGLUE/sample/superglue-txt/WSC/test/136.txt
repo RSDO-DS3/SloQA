@@ -1,0 +1,2 @@
+text:Muriel ima v dnevni sobi znamenito sliko balerine. Večino svoje <w1> zbirke </w1> je pred desetletjem podarila muzejski galeriji v Springfieldu, vendar je to obdržala, ker ji je <w2> bila </w2> posebej ljuba.
+idx:136

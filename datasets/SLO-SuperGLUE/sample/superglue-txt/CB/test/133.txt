@@ -1,0 +1,3 @@
+hypothesis:Karel se je ponavljal.
+idx:133
+premise:``Kako to misliš, da je izginila?'' Bilo je merilo njegove razburjenosti, da Karel sploh ni opazil, da se ponavlja.

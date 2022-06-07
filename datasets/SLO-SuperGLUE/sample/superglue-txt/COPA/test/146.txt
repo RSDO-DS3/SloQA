@@ -1,0 +1,5 @@
+﻿choice1:Njegove ustnice so bile razpokane.
+choice2:Skrbelo ga je, da ima slab zadah.
+idx:146
+premise:Vzel je mentolov bonbon.
+question:cause

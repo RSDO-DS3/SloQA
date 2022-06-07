@@ -1,0 +1,5 @@
+choice1:Bala se je igel.
+choice2:Želela se je upreti.
+idx:188
+premise:Najstnica si je dala narediti tatu.
+question:cause

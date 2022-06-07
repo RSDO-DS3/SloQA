@@ -1,0 +1,5 @@
+choice1:Njegov oče je sedel k mizi.
+choice2:Oče ga je naučil kozjih molitvic.
+idx:86
+premise:Fant je položil noge na mizo.
+question:effect

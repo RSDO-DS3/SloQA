@@ -1,0 +1,3 @@
+hypothesis:ta posel z zdravniki je prišel kot popolno preseneèenje 
+idx:206
+premise: Nemoènost. Upanje in ne-upanje, oboje hkrati. No, ne morem se pretvarjati, da je ta posel z zdravniki prišel kot popolno preseneèenje.

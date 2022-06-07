@@ -1,0 +1,5 @@
+﻿choice1:Šla je čez mino.
+choice2:Zaplula je v pristanišče.
+idx:249
+premise:Sovražnikovo ladjo je razneslo.
+question:cause

@@ -1,0 +1,4 @@
+hypothesis:pravo se bo spremenilo
+idx:180
+label:contradiction
+premise:B: Misli, da se to ne nanaša le na šolski sistem, ampak na vse. Preveè je negativnega pritiska. Recimo, kolikokrat je to, da si dober, spregledano. Kaj pa to, le mešèani John Q na ulici? A: Ja, to je res. Mislim, res, moje mnenje je, da je ena stvar to, moji otroci so definitvno kaznovani, ko jih je treba kaznovati. Ampak poskušam uporabiti pozitivni pristop. In je bolje. Mislim, niso kaznovani velikokrat, le ko si zaslužijo. Mislim, da otroci ne bi smeli biti ne-kaznovani. Mislim, èe bi uèiteljica kaznovala otroka, ne bi imel niè proti. Ampak to je moje mnenje, in pravo se ne, mislim, da ne bo spremenilo. 

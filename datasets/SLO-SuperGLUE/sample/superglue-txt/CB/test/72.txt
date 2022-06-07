@@ -1,0 +1,3 @@
+hypothesis:nekateri drugi si ne zaslužijo denarja, ki ga dobijo
+idx:72
+premise:B: In to ste zvedeli danes zvečer? A: Ja. B: Nisem še slišal tega, krasno je. Mislim, da si zasluži vsak peni. A: Ja. B: Ampak so pa tudi nekateri drugi, ki si ne zaslužijo denarja, ki ga dobijo.

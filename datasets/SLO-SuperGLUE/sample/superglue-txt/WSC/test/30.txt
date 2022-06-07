@@ -1,0 +1,2 @@
+text:Maude se je znova spraševala, zakaj jo <w1> Bernard </w1> spremlja domov, ko pa je toliko starejši kot ona. Gospod Dombey ali katerikoli drug očetov prijatelj bi jo varno pospremil tja. Pomislila je, da <w2> ima </w2> prijeten nasmeh.
+idx:30

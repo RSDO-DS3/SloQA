@@ -1,0 +1,3 @@
+hypothesis:postavljanje zakonov ga bo ustavilo
+idx:122
+premise:A:Ja, ampak to ne pomeni, B: Ampak to ga ne izloči, kajne? A: Mislim, da ga postavljanje zakonov ne bo ustavilo.

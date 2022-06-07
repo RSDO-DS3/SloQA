@@ -1,0 +1,4 @@
+hypothesis:navadila se bo
+idx:154
+label:contradiction
+premise:B: No, dobro, to je dobro. A: ampak ona res ne. Nihče ni mislil, da se bo navadila.

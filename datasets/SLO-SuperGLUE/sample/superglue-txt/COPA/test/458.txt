@@ -1,0 +1,5 @@
+choice1:Plastično posodo sem namočil v toplo vodo.
+choice2:Posodo sem položil na vroč štedilnik.
+idx:458
+premise:Plastična posoda se je stopila.
+question:cause

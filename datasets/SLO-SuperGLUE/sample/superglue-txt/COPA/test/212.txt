@@ -1,0 +1,5 @@
+choice1:Postaral se je.
+choice2:Bil je videti mlajši.
+idx:212
+premise:Imel je plastično operacijo.
+question:effect

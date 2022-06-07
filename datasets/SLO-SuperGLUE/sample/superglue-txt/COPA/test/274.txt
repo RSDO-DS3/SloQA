@@ -1,0 +1,5 @@
+choice1:Upravni odbor je razpustil družbo.
+choice2:Upravni odbor je našel njegovo zamenjavo.
+idx:274
+premise:Direktor družbe je odstopil.
+question:effect

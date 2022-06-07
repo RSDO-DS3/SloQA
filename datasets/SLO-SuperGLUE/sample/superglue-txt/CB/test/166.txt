@@ -1,0 +1,3 @@
+hypothesis:od Claire ne bo dobil nobenega sočutja
+idx:166
+premise:``To je tvoja trapasta krivda,'' je rekla Claire. ``Misliš, da ljudje nimajo pametnejšega dela, kot da te poslušajo.'' Lahko bi uganil, da od Claire ne bom dobil nobenega sočutja.

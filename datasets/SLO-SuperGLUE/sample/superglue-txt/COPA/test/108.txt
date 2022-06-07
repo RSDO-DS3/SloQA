@@ -1,0 +1,5 @@
+choice1:Lastnik je kužku nadel ovratnico.
+choice2:Lastnik je imel kužka privezanega na vrvico.
+idx:108
+premise:Kužek se je držal svojega lastnika.
+question:cause

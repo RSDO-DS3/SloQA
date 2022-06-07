@@ -1,0 +1,5 @@
+choice1:Moj bančni račun je bil prazen.
+choice2:Zaslužil sem povišico.
+idx:12
+premise:Ček, ki sem ga napisal, je bil zavrnjen.
+question:cause

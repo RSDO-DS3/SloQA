@@ -1,0 +1,3 @@
+hypothesis:njeni otroci nikoli niso bili žrtve česa  takega
+idx:66
+premise:A: In potem sem si rekla, no, svojo malo repico odložiš v vrtcu in niso dobro plačani in zakaj bi se sploh zanimali za tvojo malo repico, razen, a, ne, če ni motivacija in skriti načrt to, no, to je nekdo, ki se ga da zlorabiti. B: Aha. A: In, ja, grozno je in mislim, da moji otroci nikoli niso bili žrtve česa takega.

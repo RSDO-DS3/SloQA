@@ -1,0 +1,3 @@
+hypothesis:začelo se je spreminjati v zadnjih nekaj letih
+idx:111
+premise:A: Ja, res je, ampak, em, mislim, pravzaprav celo več kot to, mislim, če pustiš srednjo šolo, bi moral še vedno biti zmožen branja, saj veš? Kar, se mi zdi, zveni, eh, B: A-ha. Ja. To je res. A: Mislim, da se je v zadnjih nekaj letih mogoče začelo spreminjati, ker, em, imajo te, em, neke vrste, -zne teste, ki jih moraš opraviti, preden dobiš diplomo.

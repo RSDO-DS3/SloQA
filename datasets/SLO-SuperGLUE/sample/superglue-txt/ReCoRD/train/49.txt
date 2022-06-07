@@ -1,0 +1,10 @@
+passage.text:Avtorja: <e.0>Associated Press</e.0> in <e.1>James Rush</e.1> Oče <q.0.a.0>Robert Cormier</q.0.a.0> iz mesta <e.3>Jersey City</e.3> je umrl po 300-metrskem padcu z najvišjega vrha v <e.4>Oregonu</e.4> Katoliški duhovnik iz <e.5>New Jerseyja</e.5>  je umrl po 300-metrskem padcu z najvišjega vrha v <e.6>Oregonu</e.6> . Oče <q.0.a.1>Robert Cormier</q.0.a.1>, 57, iz mesta <e.8>Jersey City</e.8>, je z dvema soplezalcema splezal na južno stran gore <q.1.a.0>Mount Hood</q.1.a.0> , vendar je pot nadaljeval sam, saj je enega izmed spremljevalcev zagrabil krč v  nogi, je izjavil predstavnik šerifovega urada v <e.10>Hood River</e.10> , <e.11>Pete Hughes</e.11> . Oče <q.0.a.2>Cormier</q.0.a.2> naj bi prišel do vrha, potem pa je padel v bližini ledenika <e.13>Eliot Glacier</e.13> , z vulkanskega vrha, ki je  80 km oddaljen od <e.14>Portlanda</e.14>. @highlight Očeta <q.0.a.3>Roberta Cormiera</q.0.a.3> sta v južni steni gore <q.1.a.1>Mount Hood</q.1.a.1> spremljala dva soplezalca @highlight Ko je enega izmed spremljevalcev zgrabil krč, je nadaljeval sam @highlight Prišel naj bi do vrha, potem pa je padel blizu ledenika <e.17>Eliot Glacier</e.17> , in sicer z vulkanskega vrha, so izjavili preiskovalci
+qas.0.answers.0.text:Robert Cormier
+qas.0.answers.1.text:Robert Cormier
+qas.0.answers.2.text:Cormier
+qas.0.answers.3.text:Roberta Cormiera
+qas.0.query:Vzelo bo vsaj še en teden, da bodo temperature dovolj nizke, da omogočijo dostop do trupla @placeholder
+qas.1.answers.0.text:Mount Hood
+qas.1.answers.1.text:Mount Hood
+qas.1.query:Zadnja nesreča s smrtnim izidom na gori @placeholder se je pripetila v avgustu.
+idx:49

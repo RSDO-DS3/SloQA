@@ -1,0 +1,3 @@
+hypothesis:še vedno sodelujejo toliko kot morda nekoč so
+idx:172
+premise:B: Ja, to je verjetno res. Saj veš, A: Ampak, mislim da bi ta majhna, em, številka lahko, B: ampak vseeno te skupine, misliš da še vedno sodelujejo toliko kot morda nekoč so?

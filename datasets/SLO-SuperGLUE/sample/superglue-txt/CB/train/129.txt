@@ -1,0 +1,4 @@
+hypothesis:bila je njegova krivda
+idx:129
+label:contradiction
+premise:B: ampak ugotovil sem, da, em, je bila narejena iz nekega materiala, ki je potem, em, zarjavel, A: Oh. B: celo kljub, saj veš, skrbnemu umivanju, je zarjavela po okrog, em, treh tednih uporabe. In mislim, da to ni bila moja krivda, ker, saj veš, sem se trudil s sušenjem in čiščenjem.

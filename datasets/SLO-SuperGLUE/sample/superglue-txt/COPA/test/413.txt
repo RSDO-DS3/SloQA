@@ -1,0 +1,5 @@
+choice1:Policija je poskrbela za žrtev.
+choice2:Policija je preganjala zločinca.
+idx:413
+premise:Zločinec je pobegnil pred policijo.
+question:effect

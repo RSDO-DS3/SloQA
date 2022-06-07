@@ -1,0 +1,5 @@
+choice1:Zmanjkalo mu je goriva.
+choice2:Voznik je zaspal.
+idx:354
+premise:Avto se je sčasoma ustavil.
+question:cause

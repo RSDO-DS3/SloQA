@@ -1,0 +1,5 @@
+choice1:Iz luknje je splezala miš.
+choice2:Iz luknje je padel prah.
+idx:45
+premise:V steni sem zvrtal luknjo.
+question:effect

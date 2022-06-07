@@ -1,0 +1,5 @@
+choice1:Par se je preselil v stanovanje.
+choice2:Mestna občina je stanovanje predvidela za rušenje.
+idx:65
+premise:Par je podpisal pogodbo za najem stanovanja.
+question:effect

@@ -1,0 +1,4 @@
+hypothesis:podjetje bi plaèajo premijo drugim solastnikom
+idx:26
+label:contradiction
+premise:Mr. Steinberg je dobil 59.7 milijon dolarjev dobièka na prodajo v Disneyu za njegovo investiranje v podjetju leta 1984. Ampak odvetniki so rekli, da je Mr. Steinberg imel veè potencialne liabilnosti, ker, ko je tožil Disney, je to vložil na voljo vseh solastnikov. Ko je Disney ponudil plaèilo g. Steinbergu premije za njegov del, je New Yorkov investitor popustil pri zahtevi, da podjetje tudi plaèa premijo drugim solastnikom. 

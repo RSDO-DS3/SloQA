@@ -1,0 +1,3 @@
+hypothesis:veliko tega je tudi dieta
+idx:239
+premise:A: in, izgledajo lepo, veš, nimajo mišiènih teles. Ne izgledajo popolno in preveè gibanja je nekak pokazatelj nesamozavesti. Ampak veste, živijo do sto deset, veste, B: Ja, A: In, to je, B: No, se vam ne zdi, da je veliko tega tudi dieta?

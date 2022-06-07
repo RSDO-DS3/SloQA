@@ -1,0 +1,3 @@
+hypothesis:njegov oče ga je opazoval z druge strani mize
+idx:14
+premise:Nič nisem rekel, temveč sem nadaljeval počasi jesti. Vedel sem, da me oče opazuje z druge strani mize in vrti kozarec s sokom ter strmi v mojo glavo, medtem ko sem se sklanjal nad krožnikom.

@@ -1,0 +1,5 @@
+choice1:Kajak je priplul do obale.
+choice2:Kajak je zajahal val.
+idx:78
+premise:Kajakaši so zaveslali.
+question:effect

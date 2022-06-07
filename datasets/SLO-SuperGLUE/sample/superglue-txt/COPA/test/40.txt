@@ -1,0 +1,5 @@
+choice1:Izpraznili so kovčke.
+choice2:Šli so na letališče.
+idx:40
+premise:Popotniki so se prijavili v hotel.
+question:effect

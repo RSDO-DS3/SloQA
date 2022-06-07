@@ -1,0 +1,5 @@
+choice1:Bil je prestrašen.
+choice2:Bil je vznesen.
+idx:497
+premise:Popotnik je hodil po majajočem se visečem mostu.
+question:effect

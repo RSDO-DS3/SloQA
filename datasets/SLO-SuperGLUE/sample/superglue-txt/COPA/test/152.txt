@@ -1,0 +1,5 @@
+choice1:Nekdo ga je pojedel.
+choice2:Posušilo se je.
+idx:152
+premise:Zrelo sadje je bilo še vedno na soncu.
+question:effect

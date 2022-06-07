@@ -1,0 +1,5 @@
+choice1:Posadka se je utopila.
+choice2:Posadka se je srečala z gusarji.
+idx:471
+premise:Ladja je imela brodolom.
+question:effect

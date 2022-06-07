@@ -1,0 +1,5 @@
+choice1:Poznala je vse na zabavi.
+choice2:Želela je zapustiti zabavo.
+idx:195
+premise:Ženska si je obula čevlje.
+question:cause

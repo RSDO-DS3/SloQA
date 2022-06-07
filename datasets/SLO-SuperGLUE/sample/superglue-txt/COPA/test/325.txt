@@ -1,0 +1,5 @@
+choice1:Veter je postal močnejši.
+choice2:Aretirali so požigalce.
+idx:325
+premise:Gozdni požar se je razširil.
+question:cause

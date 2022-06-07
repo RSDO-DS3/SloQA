@@ -1,0 +1,4 @@
+hypothesis:bilo je tako drago
+idx:130
+label:contradiction
+premise:A: in če ne bi zapravili vsega denarja za testiranje na droge, bi ljudje lahko dobili povišico. Torej, vidiš, saj veš, obstajajo različni, mislim, to je bolj moj osebni pogled kot ja, gospod, res bi morali imeti testiranje na droge, ker imamo res problem. B: A-ha. A: in to vem. Ampak imam drugačen pogled na to. B: Ni se mi zdelo tako drago, ker je bil moj sin tam verjetno kak teden in pol

@@ -1,0 +1,5 @@
+﻿choice1:Odskočila je nazaj v zrak.
+choice2:POskusila je narediti premet.
+idx:322
+premise:Punčka je pristala na trampolinu.
+question:effect

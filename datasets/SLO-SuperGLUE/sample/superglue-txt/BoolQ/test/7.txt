@@ -1,0 +1,3 @@
+idx:7
+passage:Kapitan potone z ladjo – ''Kapitan potone z ladjo'’ je tako idiom kot pomorska tradicija, da nosi kapitan končno odgovornost za svojo ladjo in za vse, ki so se nanjo vkrcali, in da jih bo v primeru izrednih razmer bodisi rešil bodisi med poskušanjem umrl. Čeprav je fraza pogosto povezana s potopom ladje RMS Titanic in njenega kapitana Edwarda J. Smitha leta 1912, je ta nastala vsaj 11 let pred Titanikom. V večini primerov se kapitan ladje odpove lastnemu hitremu odhodu z ladje v nevarnosti in se namesto tega osredotoči na reševanje drugih ljudi. To se pogosto konča s smrtjo ali s poznim reševanjem kapirana kot zadnjega na krovu.
+question:Ali vsi kapitani potonejo z ladjo?

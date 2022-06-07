@@ -1,0 +1,4 @@
+hypothesis:obstaja obmoèje brez zloèina
+idx:36
+label:contradiction
+premise:A: No, ali imaš na Mockingbird kakšne težave s kriminalom ali je tam tam obmoèje brez zloèina? B: Ne, mislim, da ne obstaja niè takega, kot je obmoèje brez zloèina.

@@ -1,0 +1,5 @@
+choice1:Starša sta vplivala nanj.
+choice2:Starša sta ga razdedinila.
+idx:353
+premise:Mož je imel podobna prepričanja kot njegova starša.
+question:cause

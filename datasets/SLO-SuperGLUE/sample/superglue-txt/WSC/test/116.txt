@@ -1,0 +1,2 @@
+text:Claire ni popoldne dobila niti ene točke v igri skvoša proti <w1> Lisi </w1>. <w2> Bila </w2> je resnično izčrpana.
+idx:116

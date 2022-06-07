@@ -1,0 +1,3 @@
+hypothesis:morali bi je ustaviti
+idx:84
+premise:B: Oh, tudi jaz. A: Kakorkoli že, , še vedno je, B: Ja, ja.  In če bi se želela boriti, bi ji to morali dovoliti.

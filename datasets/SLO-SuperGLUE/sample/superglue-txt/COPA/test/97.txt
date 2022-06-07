@@ -1,0 +1,5 @@
+choice1:Prižgal sem luč.
+choice2:Ponovno sem vklopil varovalko.
+idx:97
+premise:Elektrika v hiši se je izklopila.
+question:effect

@@ -1,0 +1,5 @@
+﻿choice1:Razletel se je po tleh.
+choice2:Pristal je v kupu perila.
+idx:439
+premise:Kozarec se je prevrnil z mize.
+question:effect

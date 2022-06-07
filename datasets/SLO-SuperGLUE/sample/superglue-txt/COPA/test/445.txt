@@ -1,0 +1,5 @@
+choice1:Pogoltnila je hrano.
+choice2:Hrana se ji je zaletela v grlu.
+idx:445
+premise:Ženska se je prijela za grlo.
+question:cause

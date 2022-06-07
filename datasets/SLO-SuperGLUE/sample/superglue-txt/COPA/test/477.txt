@@ -1,0 +1,5 @@
+choice1:Napolnil sem zračnico.
+choice2:Na kolesu sem zamenjal prestavo.
+idx:477
+premise:Zračnica na mojem kolesu je bila prazna.
+question:effect

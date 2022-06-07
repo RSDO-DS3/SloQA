@@ -1,0 +1,3 @@
+hypothesis:vsi so seznanjeni s celo situacijo.
+idx:97
+premise:A: V redu je. B: Hm, ja, ta vzajemna obramba je bil zapletena, ne verjamem, da so vsi seznanjeni s celo situacijo.

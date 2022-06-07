@@ -1,0 +1,3 @@
+hypothesis:Sally je komaj verjela, da je njena sestra del te bleščeče predstave
+idx:47
+premise:Njegov mikrofon je rahlo zaškrtal in Sally se je skremžila od sramu. Na modni stezi se je pojavila prva manekenka in videti je bila tako glamurozno, tako neverjetno elegantno, da je Sally komaj verjela, da je njena sestra del te bleščeče predstave.

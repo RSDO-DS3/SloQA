@@ -1,0 +1,3 @@
+hypothesis:niso vedeli, da ne bi kar tako ukradel denarja
+idx:23
+premise:Kaj neki sem se šel? Ljudje v hotelu me niso poznali. Niso vedeli, da ne bi kar tako ukradel denarja.

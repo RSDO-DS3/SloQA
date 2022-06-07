@@ -1,0 +1,5 @@
+﻿choice1:Sprostil sem se.
+choice2:Drhtel sem.
+idx:217
+premise:Skozi okno je vel mrzel prepih.
+question:effect

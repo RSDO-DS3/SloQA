@@ -1,0 +1,5 @@
+choice1:Njegova žena je rodila.
+choice2:Njegova žena ga je zapustila.
+idx:416
+premise:Moški je bil strtega srca.
+question:cause

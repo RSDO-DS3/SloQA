@@ -1,0 +1,3 @@
+hypothesis:njihove smeti se ne razgradujejo
+idx:236
+premise:B: To me je presenetilo. O: Hm. B: Zmotil sem se pri tem vprašanju, totalno, mislim, res slabo. Poskušam se spomniti, nisem jih veliko zamoèil, ne morem se spomniti, kakšen je bil moj rezultat, vendar sem se odlièno odrezal. Bil sem preseneèen. Toda nisem se zavedal, da se naše smeti ne razgrajujejo.

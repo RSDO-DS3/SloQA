@@ -1,0 +1,5 @@
+choice1:Pristrigel je nohte.
+choice2:Udaril se je v nožni prst.
+idx:268
+premise:Mož je zaklel.
+question:cause

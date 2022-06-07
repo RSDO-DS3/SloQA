@@ -1,0 +1,10 @@
+passage.text:Nazaj v zaporu: <q.1.a.0>Steven Powell</q.1.a.0>, spodaj na fotografiji posneti ob aretaciji, je obsojen na 40 dni zapora, ker je zavrnil zdravljenje <q.1.a.1>Steven Powell</q.1.a.1>, tast pogrešane mame <e.2>Susan Powell</e.2>, je znova v zaporu; medtem ko čaka na sojenje v zvezi z otroško pornografijo, je namreč zavrnil zdravljenje za seksualno deviantnost. Okrajni sodnik iz <e.3>Washingtona</e.3> je presodil, da mora 64-letnik iz <e.4>Tacome</e.4> nazaj v zapor za vsaj 40 dni, poroča <e.5>RadarOnline</e.5> . V soboto bo minilo pet let, odkar je v <e.6>Utahu</e.6> izginila njegova snaha, <e.7>Susan</e.7> , kar pomeni, da jo bodo tudi uradno spoznali za mrtvo. Njen mož, <e.8>Josh Powell</e.8> , je bil sicer dolgo osumljen za njeno izginotje, vendar ga niso nikoli obtožili. @highlight Tast izginule matere iz <e.9>Utaha</e.9> , <e.10>Susan Powell</e.10> , gre znova za 40 dni v zapor, ker je zavrnil zdravljenje @highlight Potem ko je posnel seksualno eksplicitne fotografije mladih sosedov, je v zaporu odsedel dve leti, zdaj pa ga čaka sojenje v zvezi z otroško pornografijo @highlight V soboto bo minilo pet let, odkar je izginila <e.11>Susan</e.11> - to pomeni, da jo bodo v skladu z zakonom države <e.12>Utah</e.12> tudi uradno razglasili za mrtvo @highlight <q.1.a.2>Steven Powell</q.1.a.2> je bil njen tast, njegov sin <e.14>Josh</e.14> pa je dolgo veljal za osumljenca, vendar ga niso nikoli obtožili; leta 2012 je zanetil požar in ubil sebe in svoja sinova
+qas.0.answers.0.text:Steven Powell
+qas.0.answers.1.text:Steven Powell
+qas.0.answers.2.text:Steven Powell
+qas.0.query:Leta 2012 je policija preiskala dom, v katerem je živel tudi njegov oče, @placeholder , kjer naj bi odkrila, da je imel starejši Powell otroško pornografijo
+qas.1.answers.0.text:Steven Powell
+qas.1.answers.1.text:Steven Powell
+qas.1.answers.2.text:Steven Powell
+qas.1.query:Josha, 36, so osumili, da je ubil svojo ženo, družinski člani pa so bili prepričani, da je bil v njeno domnevno smrt vpleten tudi @placeholder .
+idx:18

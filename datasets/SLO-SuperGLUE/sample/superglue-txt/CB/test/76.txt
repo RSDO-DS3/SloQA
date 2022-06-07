@@ -1,0 +1,3 @@
+hypothesis:zdel se mi je dober
+idx:76
+premise:A: Sicer pa mi Michael J. Fox tako ali tako ni preveč všeč. B: Ja. No, zadnja dva, v katerih sem ga videl, eden izmed njih je bil tretji del filma Nazaj v prihodnost in tudi ta je bil precej slab. Ni se mi zdel dober.

@@ -1,0 +1,4 @@
+hypothesis:karkoli bi se moralo storiti kratkoroèno 
+idx:210
+label:neutral
+premise:B: V redu, no. A: Hm, kratkoroèno, mislim, da se glede tega ne bo niè storilo ali bi se moralo kaj storiti. B: Prav. Uh, pravite, da mislite, da se ne bi smelo kaj kratkoroèno storiti?

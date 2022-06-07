@@ -1,0 +1,4 @@
+hypothesis:opazili so velik napredek
+idx:193
+label:contradiction
+premise:A: ampak to je bila ena od mojih rešitev. Uh... B: Vem, da so tukaj v Dallasu bili zadnjih par let, uh, res dolgo èasovno obdobje, da lahko voliš pred volitvami. In mislim, da so videli velik napredek.

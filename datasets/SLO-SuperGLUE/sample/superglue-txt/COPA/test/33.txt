@@ -1,0 +1,5 @@
+choice1:Natipkala je pismo.
+choice2:Splezala je po vrvi.
+idx:33
+premise:Punca si je ožulila roke.
+question:cause

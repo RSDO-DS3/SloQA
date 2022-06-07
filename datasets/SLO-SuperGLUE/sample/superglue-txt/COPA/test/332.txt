@@ -1,0 +1,5 @@
+choice1:Bila je potna.
+choice2:Srbela me je.
+idx:332
+premise:Popraskal sem se po koži.
+question:cause

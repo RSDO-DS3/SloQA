@@ -1,0 +1,3 @@
+hypothesis:družina Mackenzie in družina Kiwija Keitha sta uspevali
+idx:1
+premise:Kljub temu je šlo življenje naprej, kot vedno. Zaradi naključij, kot sta oddaljenost in datum rojstva, tako družina Mackenzie in družina Kiwija Keitha nista občutili posledic vojne niti spoznali bolečine izgube in žalost ranjenih mladih teles. Pravzaprav bi lahko rekli, da sta uspevali.

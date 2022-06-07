@@ -1,0 +1,5 @@
+﻿choice1:V moji pisarni se je trlo ljudi.
+choice2:Moja pisarna je bila hrupna.
+idx:463
+premise:Gradili so stavbo zraven moje pisarne.
+question:effect

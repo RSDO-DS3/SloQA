@@ -1,0 +1,5 @@
+choice1:Ugriznil sem se v jezik.
+choice2:Opekel sem si jezik.
+idx:328
+premise:Popil sem požirek vrele kave.
+question:effect

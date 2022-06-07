@@ -1,0 +1,5 @@
+choice1:Navijači so se obrnili k zastavi.
+choice2:Navijači so stekli na igrišče.
+idx:381
+premise:Na stadionu je zaigrala državna himna.
+question:effect

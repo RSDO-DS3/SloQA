@@ -1,0 +1,3 @@
+hypothesis:veliko imajo povedati
+idx:156
+premise:A: hm, ja, to bi šlo. Nekateri pank, em, ko sem bil v srednji šoli je to bilo, em, ena od večjih stvari je bila pank glasba, in, em, nekaj te glasbe ima veliko povedati, besedila imajo, ampak dejanska, B: Dejansko mislim, da nimajo prav veliko povedati.

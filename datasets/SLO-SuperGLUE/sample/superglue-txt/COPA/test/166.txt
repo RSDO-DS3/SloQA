@@ -1,0 +1,5 @@
+choice1:Perilo se je posušilo.
+choice2:Perilo je bilo umazano.
+idx:166
+premise:Mokro perilo sem obesil na zunanjo vrv za perilo.
+question:effect

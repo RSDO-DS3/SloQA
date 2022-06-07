@@ -1,0 +1,5 @@
+choice1:Fant je pobegnil.
+choice2:Fant je utrgal rožo.
+idx:409
+premise:Osa je poletela proti fantu.
+question:effect

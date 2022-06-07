@@ -1,0 +1,5 @@
+choice1:Pobelil jih je.
+choice2:Opral jih je s šamponom.
+idx:93
+premise:Njegovi lasje so posvetlili.
+question:cause

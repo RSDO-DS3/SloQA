@@ -1,0 +1,5 @@
+choice1:Odkrili so identiteto morilca.
+choice2:Na prizorišču zločina so našli orožje.
+idx:251
+premise:Detektivi so prizorišče zločina preiskali s prahom za prstne odtise.
+question:effect

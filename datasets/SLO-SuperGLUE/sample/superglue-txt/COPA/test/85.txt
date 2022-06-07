@@ -1,0 +1,5 @@
+choice1:Imel je nočno moro.
+choice2:Pomočil je posteljo. 
+idx:85
+premise:Otrok se je kriče zbudil.
+question:cause

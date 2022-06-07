@@ -1,0 +1,5 @@
+choice1:Nahranili so brezdomce.
+choice2:Imeli so dražbo.
+idx:281
+premise:Dobrodelno društvo si je zadalo nalogo zbrati denar.
+question:effect

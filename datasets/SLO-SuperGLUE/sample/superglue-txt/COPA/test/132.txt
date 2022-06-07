@@ -1,0 +1,5 @@
+choice1:Država je praznovala obletnico svoje neodvisnosti.
+choice2:Država se je borila z gospodarskimi težavami.
+idx:132
+premise:Državljani so pred hišami razobesili državne zastave.
+question:cause

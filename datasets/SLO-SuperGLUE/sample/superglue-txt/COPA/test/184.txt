@@ -1,0 +1,5 @@
+﻿choice1:Bil sem osamljen.
+choice2:Nisem bil v mestu.
+idx:184
+premise:Zavrnil sem povabilo na rojstnodnevno zabavo.
+question:cause

@@ -1,0 +1,5 @@
+choice1:V službo sem prišel zgodaj.
+choice2:V službo sem prišel pozno.
+idx:202
+premise:Zamudil sem avtobus.
+question:effect

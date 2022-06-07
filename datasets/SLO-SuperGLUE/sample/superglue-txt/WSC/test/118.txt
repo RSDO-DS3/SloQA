@@ -1,0 +1,2 @@
+text:Ljudje so kar naprej vozili čez prometno luč, ker je bila sredi <w1> praznične razsvetljave. </w1> <w2> Bila </w2> je preveč neopazna.
+idx:118

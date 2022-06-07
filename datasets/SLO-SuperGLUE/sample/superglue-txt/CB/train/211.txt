@@ -1,0 +1,4 @@
+hypothesis:prostovoljstvo bi bila dobra ideja 
+idx:211
+label:neutral
+premise:B: Prav. In preprièan sem, da bi tudi to pomembno vplivalo. Veste, da imate, A: Ja. No, kaj pa prostovoljstvo? Mislite, da bi bila to dobra ideja?

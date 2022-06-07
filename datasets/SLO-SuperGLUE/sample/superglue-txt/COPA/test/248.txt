@@ -1,0 +1,5 @@
+﻿choice1:Njena lica so zardela.
+choice2:Pokazale so je ji jamice.
+idx:248
+premise:Dekle se je nasmehnilo.
+question:effect

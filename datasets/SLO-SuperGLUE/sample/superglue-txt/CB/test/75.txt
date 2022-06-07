@@ -1,0 +1,3 @@
+hypothesis:bilo je prav
+idx:75
+premise:A: Ampak, kot sem rekla, če bi volila za Busha, ali, recimo, ko je kandidiral Gary Hart, je veliko žensk glasovalo zanj samo zato, ker je bolj čeden. B: Hart?  Aha. A: Sicer se mi ni zdi zelo čeden, samo mlajši je bil. B: Ja.  Ja. A: In potem se mi to ni zdelo prav, ker morda bi pa bil dober predsednik ali kakorkoli že.

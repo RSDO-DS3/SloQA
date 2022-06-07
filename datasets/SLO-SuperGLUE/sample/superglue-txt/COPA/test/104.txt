@@ -1,0 +1,5 @@
+choice1:Bil je prehlajen.
+choice2:Nehal je kaditi.
+idx:104
+premise:Možakarjev glas je zvenel hripavo.
+question:cause

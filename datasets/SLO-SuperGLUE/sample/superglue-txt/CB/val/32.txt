@@ -1,0 +1,4 @@
+hypothesis:zgodilo se bo
+idx:32
+label:contradiction
+premise:A: Ja. Naj pritisnem gumb. B: Vredu. A: No, oèitno sem za menjavo metriènega sistema, ampak, to se ne bo zgodilo kadarkoli hitro. B: Tudi jaz mislim, da se ne bo zgodilo 

@@ -1,0 +1,5 @@
+choice1:Prinesel sem odeje.
+choice2:Odprl sem okna.
+idx:427
+premise:V hiši se je pokvarila klimatska naprava.
+question:effect

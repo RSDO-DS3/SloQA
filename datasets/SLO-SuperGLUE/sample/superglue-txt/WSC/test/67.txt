@@ -1,0 +1,2 @@
+text:Babica je postavila krožnik za <w1> Mary; </w1> in ko se je gospa Wyman usedla tja, jo je ugovarjajoč, <w2> odrinila </w2> stran.
+idx:67

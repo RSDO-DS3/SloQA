@@ -1,0 +1,3 @@
+hypothesis:imajo resurse
+idx:157
+premise:A: Oni, verjetno ne dovolj, ampak vseeno sem prepričan da veliko od tega pride do navadnih ljudi, dovolj da imajo občutek kaj zamujajo. B: Ja, mislim, da se tega začenjajo zavedati, a res mislim, da nimajo resursov, če bi na primer primerjal, em, Američane s Sovjeti kar se tiče domačih računalnikov ali telefaksov in mobilnih telefonov in najsodobnejše opreme, ki smo je mi tako navajeni.

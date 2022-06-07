@@ -1,0 +1,3 @@
+hypothesis:Brendan Nelson je kritiziral zveznega ministra za izobraževanje.
+idx:25
+premise:Zvezni minister za izobraževanje, Brendan Nelson, je bil tarča kritik na nacionalnem srečanju v Perthu, ker naj bi škodoval ugledu avstralskih šol v tujini. 

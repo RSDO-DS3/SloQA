@@ -1,0 +1,4 @@
+hypothesis:ob sprejetju novega poenostavljenega davènega zakona se je zdelo, da je vse naredilo bolj oteženo
+idx:225
+label:entailment
+premise:A: Ne, v resnici ne. Veliko èasa pa preživim z našo dohodnino. še posebej letos in lani. Hm, poroèen sem le nekaj let, zato sem se moral preklopiti z obrazca EZ na, uh, B: seznam A. A: Ja. B: No ja. A: Vsi odbitki in vse to. B: Ste opazili, da se je ob sprejetju novega poenostavljenega davènega zakona zdelo, da je vse naredilo bolj oteženo?

@@ -1,0 +1,5 @@
+choice1:Vzbujal je sočutje.
+choice2:Ni imel denarja.
+idx:220
+premise:Lačni potepuh je ukradel hrano.
+question:cause

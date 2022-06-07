@@ -1,0 +1,3 @@
+hypothesis:ragbi se bo igralo profesionalno
+idx:68
+premise:B: Toliko bom priznal. Zabavno ga je igrati. Če ne ceniš svojega časa. A: Torej si ga igral? B: Ampak ne verjamem, da se bo ragbi kdajkoli igralo profesionalno.

@@ -1,0 +1,5 @@
+﻿choice1:Vrata so se odprla.
+choice2:Vrata so se zaklenila.
+idx:43
+premise:Porinil sem vrata.
+question:effect

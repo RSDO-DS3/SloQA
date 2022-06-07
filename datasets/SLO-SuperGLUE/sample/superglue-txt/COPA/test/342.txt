@@ -1,0 +1,5 @@
+choice1:Začela je skrivati dnevnik.
+choice2:Kupila je nov dnevnik.
+idx:342
+premise:Dekle je brata ujelo, kako bere njen dnevnik.
+question:effect

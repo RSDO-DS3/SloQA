@@ -1,0 +1,25 @@
+passage.text:<e.0>Palm Beach</e.0>, <e.1>Florida</e.1> (<e.2>CNN</e.2>) Predsednik <q.2.a.0>Donald Trump</q.2.a.0>, novinec v <e.4>Beli hiši</e.4>, še ni dokončno izoblikoval svojega odnosa z ljudmi v <e.5>Washingtonu</e.5>. Vendar to še zdaleč ni res v <e.6>Palm Beachu</e.6> -- ki je zdaj znan tudi kot <e.7>Zimska Bela hiša</e.7> -- kraju na ozkem pasu zemlje na <e.8>vzhodni obali</e.8> <e.9>Floride</e.9> , ki ga nepremičninski tajkun obiskuje že desetletja. Odkar je leta 1985 za 5 milijonov dolarjev kupil posestvo <q.0.a.0>Mar</q.0.a.0>-a-<q.6.a.0>Lago</q.6.a.0> , se <q.2.a.1>Trumpov</q.2.a.1> odnos z mestom in njegovimi prebivalci nenehno spreminja, iz dobrega v slabo in obratno. Do zdaj je mesto že tožil, se sprl z njegovim vodstvom in lokalna vprašanja napihoval v državne škandale. Promet, ki ga povzroča <q.2.a.2>Trumpovo</q.2.a.2> spremstvo, je le še zadnja v nizu preglavic, zaradi katerih so ogorčeni prebivalci <e.14>Palm Beacha</e.14> in okoliša. @highlight »Mislim, da se morajo prebivalci <e.15>Palm Beacha</e.15> zavedati, da je to čast,« je izjavila <e.16>Hufty</e.16> @highlight <q.2.a.3>Trump</q.2.a.3> je na posestvu <q.0.a.1>Mar</q.0.a.1>-a-<q.6.a.1>Lago</q.6.a.1> preživel že tri zaporedne vikende
+qas.0.answers.0.text:Mar
+qas.0.answers.1.text:Mar
+qas.0.query:»Kljub temu, da sicer stanuje na posestvu @placeholder-a-Lago, je to še vedno podjetje, ki v zameno za dobiček članom dovoli dostop do kluba, tudi ko je tam predsednik,« je zapisal Udall.
+qas.1.answers.0.text:Lago
+qas.1.answers.1.text:Lago
+qas.1.query:»Kljub temu, da sicer stanuje na posestvu Mar-a-@placeholder , je to še vedno podjetje, ki v zameno za dobiček članom dovoli dostop do kluba, tudi ko je tam predsednik,« je zapisal Udall.
+qas.2.answers.0.text:Donald Trump
+qas.2.answers.1.text:Trumpov
+qas.2.answers.2.text:Trumpovo
+qas.2.answers.3.text:Trump
+qas.2.query:Mnogi člani so zdaj navdušeni nad možnostjo, da bodo videli, kje je @placeholder , in se prilizujejo predsedniku in njegovim svetovalcem, ko gredo ti mimo.
+qas.3.answers.0.text:Lago
+qas.3.answers.1.text:Lago
+qas.3.query:Hufty in drugi člani komisije so odobrili prošnjo za izgradnjo pristajališča za helikopterje na posestvu Mar-a-@placeholder.
+qas.4.answers.0.text:Lago
+qas.4.answers.1.text:Lago
+qas.4.query:Skupina ljudi, ki se zagotovo ne pritožuje nad predsednikovimi obiski posestva Mar-a-@placeholder , so člani kluba.
+qas.5.answers.0.text:Lago
+qas.5.answers.1.text:Lago
+qas.5.query:Razlog: Trump je v Mar-a-@placeholder sodnik in porota, člani pa so zaskrbljeni, da bi si prišli navzkriž s predsednikom in bi bili zaradi tega izobčeni.
+qas.6.answers.0.text:Lago
+qas.6.answers.1.text:Lago
+qas.6.query:Vendar pa je Mar-a-@placeholder edini kraj, kjer se lahko, če si to želi, nenehno druži z ljudmi.
+idx:4

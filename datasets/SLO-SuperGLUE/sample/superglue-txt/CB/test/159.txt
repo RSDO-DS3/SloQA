@@ -1,0 +1,3 @@
+hypothesis:poučevanje študentov je dovolj
+idx:159
+premise:A: Ja. No, to pa je zelo dober predlog. B: Hm, samo nekaj, jaz-, raje kot da nekoga vržemo v to okolje, em, saj veš, to A: Ja. Zdi se mi, da poučevanje študentov ni dovolj.

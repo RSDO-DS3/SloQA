@@ -1,0 +1,3 @@
+hypothesis:dušikovi oksidi in ozon prispevata več kot naprimer kisli dež
+idx:141
+premise:B: Hm, joj, ne, mislim, verjetno so stvari, ki pridejo ven iz izpušne cevi, saj veš, v članku pravijo, da dušikovi oksidi in ozon in vse to. A: Ja. B: Torej, verjamem jim, ampak nisem kemik. A: Hm, misliš da te stvari več prispevajo kot na primer kisli dež in nekateri onesnaževalci, ki pridejo iz, em, industrijskih con, tovarn in tako dalje?

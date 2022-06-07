@@ -1,0 +1,5 @@
+choice1:Vrtnarja je pičila čebela.
+choice2:Veverice so izkopale čebulice.
+idx:430
+premise:Narcise na vrtu so bile uničene.
+question:cause

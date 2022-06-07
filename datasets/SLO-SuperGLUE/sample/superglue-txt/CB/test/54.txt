@@ -1,0 +1,3 @@
+hypothesis:njegova mama bi prižgala televizijo
+idx:54
+premise:B: Dokler niso starejši in se spominjajo za nazaj. A: Ja, res je. Kaj so še nekatera druga vprašanja, ki jih imajo, ne vem. Vem, da moji starši, ko so odraščali, niso preživeli veliko časa pred televizijo. V bistvu se ne spomnim, da bi moja mama kdajkoli prižgala televizijo.

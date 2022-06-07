@@ -1,0 +1,3 @@
+hypothesis:morali bi spremeniti porotni sistem
+idx:88
+premise:A: Večina jih je zaključena s sporazumom o priznanju krivde, nekje sredi postopka, večina postopkov se konča s sporazumom o priznanju krivde. B: Ja. A: Ampak, kaj pa mislite o porotnem sistemu, se vam zdi, da bi ga morali spremeniti?

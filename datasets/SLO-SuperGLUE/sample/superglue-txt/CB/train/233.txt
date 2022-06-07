@@ -1,0 +1,4 @@
+hypothesis:vozièek lahko poškoduje trato
+idx:233
+label:contradiction
+premise:A: To je razlog, da tam ne igram. B: Ja. A: Teèaj mi je všeè, toda tam ne igram, ker ne dovolijo, da vleèeš vozièek. B: Prav. A: In mislim, da vozièek ne poškoduje trate.

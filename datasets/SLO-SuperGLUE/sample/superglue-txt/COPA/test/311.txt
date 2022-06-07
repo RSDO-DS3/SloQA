@@ -1,0 +1,5 @@
+choice1:Ptica je odletela.
+choice2:Ptica je ujela črva.
+idx:311
+premise:Mačka je pregnala ptico.
+question:effect

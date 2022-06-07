@@ -1,0 +1,4 @@
+hypothesis:veliko staršev je vpletenih
+idx:234
+label:contradiction
+premise:B: Ne vem. Zanima me, od kje mu to? Veste, mislim, da je televizija slaba. Ker na njih kažejo najrazliènejše nasilje, A: To in mislim, da veliko staršev, mislim, ne vem, kako je v bazi letalskih sil. Ampak, mislim, da veliko ljudi, zaradi gospodarstva, ni nujno, da oba delata, veste. Preprosto mislim, da veliko staršev ni veè vpletenih.

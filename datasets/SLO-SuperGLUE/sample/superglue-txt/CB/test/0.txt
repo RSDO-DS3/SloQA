@@ -1,0 +1,3 @@
+hypothesis:Polly ni bila izkušena oceanska pomorščakinja
+idx:0
+premise:Polly se je morala hitro znajti. Še vedno so bili dovolj blizu obale, da bi jo lahko vrnil policiji, ko bi priznala, da ni izkušena oceanska pomorščakinja.

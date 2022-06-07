@@ -1,0 +1,2 @@
+text:Edward je na okenski okvir slučajno nalepil lepilni trak in ko je <w1> trak </w1> odlepil, je na <w2> njem </w2> ostalo nekaj lepila.
+idx:144

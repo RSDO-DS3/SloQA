@@ -1,0 +1,9 @@
+passage.text:Avtor <e.0>Toby Harnden</e.0> OBJAVLJENO: 10:25 EST, 10. oktober 2012 | POSODOBLJENO: 07:52 EST, 11. oktober 2012 <e.1>Paul Ryan</e.1> želi zadati smrtni udarec želji predsednika <e.2>Baracka Obame</e.2> , da bi ga ponovno izvolili , a le če zmaga v debati, ki bo danes zvečer v državi <e.3>Kentucky</e.3>. Čeprav <e.4>Romneyjeva</e.4> kampanja v javnosti namenoma trdi, da kongresnik <e.5>Ryan</e.5> , ki je predsednik <e.6>Kongresnega Odbora za proračun</e.6>, nima veliko možnosti, da bi prepričljivo zmagal v podpredsedniški debati, potiho upajo, da mu bo šlo zelo dobro. In če lahko sodimo po slikah v naslednji izdaji  <e.7>revije TIME</e.7>, ki prikazujejo podpredsedniškega kandidata med telovadbo decembra leta 2011, je ta že »napumpan« za vznemirljivo debato, 'Thrill in the <e.8>Ville</e.8>', kot so jo poimenovali, v mestecu <e.9>Danville</e.9> . @highlight Visoka pričakovanja, da bo <q.1.a.0>republikanski</q.1.a.0> kandidat za podpredsednika, <e.11>Paul Ryan</e.11> , zmagal v debati s podpredsednikom <q.0.a.0>Joem Bidnom</q.0.a.0> @highlight <q.0.a.1>Biden</q.0.a.1>, ki je senator že 36 let, je veliko bolj izkušen v debatah kot <e.14>Ryan</e.14>, ki je 27 let mlajši kot <q.0.a.2>Biden</q.0.a.2> @highlight <q.1.a.1>Republikanski</q.1.a.1> predsedniški kandidat <e.17>Mitt Romney</e.17> poskuša znižati pričakovanja, da bo <e.18>Ryan</e.18> v debati zmagal, in se s tem izogniti morebitni škodi, če bi njegovi izbiri za podpredsednika spodletelo
+qas.0.answers.0.text:Joem Bidnom
+qas.0.answers.1.text:Biden
+qas.0.answers.2.text:Biden
+qas.0.query:34 procentov volivcev pričakuje, da bo zmagal @placeholder , v nasprotju s 40 procenti, ki pričakujejo, da bo v četrtkovi debati v mestecu Danville v Kentuckyju zmagal Ryan.
+qas.1.answers.0.text:republikanski
+qas.1.answers.1.text:Republikanski
+qas.1.query:Očarljiv: Ryan na splošno velja za enega najbolj intelektualno prepričljivih kandidatov v novi @placeholder generaciji politikov 
+idx:20

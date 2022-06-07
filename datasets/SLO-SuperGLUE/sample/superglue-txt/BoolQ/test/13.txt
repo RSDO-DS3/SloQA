@@ -1,0 +1,3 @@
+idx:13
+passage:Simpsonovi – Od premiere17. decembra 1989 je bilo predvajanih 639 epizod Simpsonovih. Gre za najdlje predvajano ameriško humoristično serijo, ki je leta 2009 celo prehitela Gunsmoke kot najdlje predvajano ameriško scenaristično televizijsko serijo po številu sezon, leta 2018 pa še glede na število epizod. Celovečerni film Simpsonovi se je 27. julija 2007 pričel predvajati v kinodvoranah po vsem svetu in je zaslužil več kot 527 milijonov ameriških dolarjev. 4. novembra 2016 je bila naznanjena trideseta sezona, ki bo serijo podaljšala do maja 2019; prvič bo predvajana 30. septembra 2018.
+question:Ali še vedno delajonove epizode Simpsonovih?

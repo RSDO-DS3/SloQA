@@ -1,0 +1,5 @@
+choice1:Fant je novemu sošolcu izrekel dobrodošlico.
+choice2:Fantu nov sošolec ni bil všeč.
+idx:171
+premise:Fant je novega sošolca trpinčil z zlobnimi potegavščinami.
+question:cause

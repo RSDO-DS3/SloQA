@@ -1,0 +1,5 @@
+choice1:Cvetni listi so padli z rože.
+choice2:Zavohal sem cvetlični vonj.
+idx:370
+premise:Cvetlico sem dal pod nos.
+question:effect

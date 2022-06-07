@@ -1,0 +1,2 @@
+text:Revežem so dovolili, da hodijo za <w1> žanjci </w1>, zato da so <w2> pobrali </w2> padlo zrnje.
+idx:107

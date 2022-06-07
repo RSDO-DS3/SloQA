@@ -1,0 +1,5 @@
+choice1:Mesto je prizadel potres.
+choice2:V mestu se je zvišala stopnja kriminala.
+idx:136
+premise:Stavba v središču mesta se je zrušila.
+question:cause

@@ -1,0 +1,5 @@
+choice1:Nož je bil top.
+choice2:Zrezek je bil surov.
+idx:367
+premise:Zrezek je bilo težko razrezati.
+question:cause

@@ -1,0 +1,4 @@
+hypothesis:èutijo bližino, kot so jo vèasih
+idx:191
+label:contradiction
+premise:B: Veste, takrat nazaj, veste, v dvajsetih in tridesetih letih, ko so odrašèali, veste, vsi so bili skupaj v eni majhni skupnosti. O: Prav, prav. Prav. B: In ko je èas šel naprej, je družina poveèala in se odselila in tako naprej. In zdaj, ko se zberejo, je na splošno, veste, kot recimo otroci tistih ljudi, ki si niso, saj veste, blizu in mislim, da ne èutijo bližine, kot so jo vèasih. Kar je sramota

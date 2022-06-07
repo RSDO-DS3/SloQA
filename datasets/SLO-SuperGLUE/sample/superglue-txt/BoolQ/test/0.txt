@@ -1,0 +1,3 @@
+idx:0
+passage:Bankovec za 20 evrov – Zaenkrat obstaja le ena celotna serija evrskih bankovcev, vendar pa izhaja nova serija, ki bo podobna sedanji. Evropska centralna banka bo pravočasno naznanila, kdaj bodo bankovci iz prve serije izgubili status zakonitega plačilnega sredstva.
+question:Ali je bankovec za 20 evrov iz prve serije še vedno zakonito plačilno sredstvo?

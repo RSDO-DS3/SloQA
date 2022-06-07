@@ -1,0 +1,5 @@
+choice1:Želela je ohraniti energijo.
+choice2:Videla je ciljno črto.
+idx:264
+premise:Maratonka je vzdrževala počasen tempo.
+question:cause

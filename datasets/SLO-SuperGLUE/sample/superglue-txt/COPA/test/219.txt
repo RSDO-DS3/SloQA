@@ -1,0 +1,5 @@
+choice1:Živela je v sosednji hiši.
+choice2:Bila je zaljubljena vanj.
+idx:219
+premise:Dekle se je posmehovalo fantu.
+question:cause

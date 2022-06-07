@@ -1,0 +1,4 @@
+hypothesis:v okolišèinah ji je postalo nerodno
+idx:34
+label:entailment
+premise:Upoštevajoè njegova navodila, sem s svojo roko odprla dlan navzgor proti živali. Podgana je splezala naprej in zaèela brezskrbno èistiti svoje krzno. Nihèe mi ne bo zameril, èe reèem, da mi je v okolišèinah postalo zelo nerodno.

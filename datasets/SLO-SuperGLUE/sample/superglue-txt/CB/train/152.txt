@@ -1,0 +1,4 @@
+hypothesis:njegova mama bi si želela biti tam
+idx:152
+label:contradiction
+premise:B: To bi lahko bilo na nek nančin težko, hm. A: Res bi lahko bilo, ja, ja, in kot sem rekel je moja sestra še vedno v tem, in res se mi zdi, da si moja mama prav tako ne bi želela biti tam.

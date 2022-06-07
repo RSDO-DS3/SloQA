@@ -1,0 +1,3 @@
+hypothesis:delo je bilo težko
+idx:30
+premise:``Ne zgodi se pogosto.'' Karen je ob zaključku dneva odšla domov srečna. Ni se ji zdelo, da je bilo delo težko.

@@ -1,0 +1,5 @@
+choice1:Na plan je potegnil računalo.
+choice2:Zmedel se je.
+idx:180
+premise:Študent je poskušal računati na pamet.
+question:effect

@@ -1,0 +1,5 @@
+choice1:Bilo je anonimno.
+choice2:Bilo je nečitljivo.
+idx:374
+premise:Znebil sem se sporočila.
+question:cause
