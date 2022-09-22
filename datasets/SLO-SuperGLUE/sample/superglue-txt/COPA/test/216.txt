@@ -1,5 +1,0 @@
-choice1:Spil je požirek gazirane pijače.
-choice2:Odprl je pločevinko gazirane pijače.
-idx:216
-premise:Otroku se je spahnilo.
-question:cause

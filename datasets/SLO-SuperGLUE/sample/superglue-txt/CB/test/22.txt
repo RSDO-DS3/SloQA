@@ -1,3 +1,0 @@
-﻿hypothesis:ta stara ljubica je bila dolgotrajna pacientka
-idx:22
-premise:Medicinske sestre so imele veliko izkušenj pri delu z bogatimi pacienti, ki so bili vajeni delati to, kar se jim zljubi, in pogosto niso želeli sprejeti rutine, ki jo prinaša disciplina. Vedele so, da je bilo potrebno zelo stare, z alkoholom zasvojene in precej trčene paciente (temu se je reklo, da so ekscentrični) skrbno nadzirati. Ta stara ljubica, ki so ji dajali močna pomirjevala, očitno ni vedela, da je dolgotrajna pacientka, ki jo zdravijo zaradi depresije.

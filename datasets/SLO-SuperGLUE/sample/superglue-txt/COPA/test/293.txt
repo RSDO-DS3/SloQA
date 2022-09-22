@@ -1,5 +1,0 @@
-choice1:Zavedla se je, da je kartica izginila.
-choice2:Zavedla se je, da je kartica pretekla.
-idx:293
-premise:Ženska je preklicala svojo kreditno kartico.
-question:cause

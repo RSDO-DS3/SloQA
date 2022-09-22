@@ -1,3 +1,0 @@
-hypothesis:nadrejeni so razmišljali, kaj bo ta tip naredil s preostankom svoje vojne mašinerije
-idx:120
-premise:B: s komerkoli se pogovarjam pravi, saj veš,  da je res lahko to reči. A: nismo uničili dovolj njihove zaloge orožja. Uničili smo je večino, a morali bi se prepričati, da smo dobili vse. B: Ja, mislim, da nadrejeni niso razmišljali o tem kaj bo ta tip naredil s preostankom svoje vojne mašinerije.

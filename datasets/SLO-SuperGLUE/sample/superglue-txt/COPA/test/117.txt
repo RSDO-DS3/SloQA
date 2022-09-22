@@ -1,5 +1,0 @@
-choice1:Nosil sem sandale.
-choice2:Nosil sem škornje.
-idx:117
-premise:Vse nogavice so bile v umazanem perilu.
-question:effect

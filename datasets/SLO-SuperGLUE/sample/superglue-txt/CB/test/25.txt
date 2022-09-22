@@ -1,3 +1,0 @@
-hypothesis:na čelu Peggyine mamice se je pojavila zaskrbljena gubica
-idx:25
-premise:``Dam ti tri penije za liziko, če greš.'’ ``Potem pa prav,'' je rekla Peggy in njena šoba je takoj izginila. Ni opazila, se je na čelu njene mamice pojavila zaskrbljena gubica.

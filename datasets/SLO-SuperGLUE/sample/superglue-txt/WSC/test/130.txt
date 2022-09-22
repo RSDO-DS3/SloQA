@@ -1,2 +1,0 @@
-text:<w1> Muriel </w1> ima v dnevni sobi znamenito sliko balerine. Sliko je <w2> kupila </w2> , ko je bila stara trideset let.
-idx:130

@@ -1,5 +1,0 @@
-choice1:Sestanek sem vpisal na koledar.
-choice2:Bil je začetek novega meseca.
-idx:225
-premise:Na koledarju sem obrnil stran.
-question:cause

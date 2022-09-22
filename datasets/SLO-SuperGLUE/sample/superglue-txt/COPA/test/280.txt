@@ -1,5 +1,0 @@
-choice1:Poslušal sem glasbo.
-choice2:Pomil sem posodo.
-idx:280
-premise:Moje razpoloženje se je izboljšalo.
-question:cause

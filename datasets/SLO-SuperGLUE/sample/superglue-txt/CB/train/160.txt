@@ -1,4 +1,0 @@
-hypothesis:nekateri izmed njenih sorodnikov si zares želijo iti tja
-idx:160
-label:contradiction
-premise:B: Razumem, da skrbimo za starejše, je res? A: Ja. B: In kaj si misliš o tem, da daš nekoga v dom za ostarele? A: No, mislim, da si nihče od, em, mojih sorodnikov ne želi zares iti tja.

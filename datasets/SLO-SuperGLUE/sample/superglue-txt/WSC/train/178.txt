@@ -1,3 +1,0 @@
-text:<w1> Dostavni tovornjak </w1> je prehitel šolski avtobus, saj je <w2> bil </w2> zelo počasen.
-idx:178
-label:False

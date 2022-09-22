@@ -1,5 +1,0 @@
-choice1:Zdravnik je bil na dopustu.
-choice2:Mož se je počutil slabo.
-idx:198
-premise:Mož je odšel k zdravniku.
-question:cause

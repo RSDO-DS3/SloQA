@@ -1,5 +1,0 @@
-choice1:Mož je odložil telefon.
-choice2:Mož je dvignil telefon.
-idx:473
-premise:Zazvonil je telefon.
-question:effect

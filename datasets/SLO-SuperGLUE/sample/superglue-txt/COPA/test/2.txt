@@ -1,5 +1,0 @@
-choice1:Termiti so izginili iz hiše.
-choice2:Termiti so pregrizli les v hiši.
-idx:2
-premise:Termiti so napadli hišo.
-question:effect

@@ -1,5 +1,0 @@
-﻿choice1:Z obraza mi je kapnila kapljica potu.
-choice2:Na prstu se mi je naredila kaplja krvi.
-idx:102
-premise:Zbodel sem se z buciko.
-question:effect

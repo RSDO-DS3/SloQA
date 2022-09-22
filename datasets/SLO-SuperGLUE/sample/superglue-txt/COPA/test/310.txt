@@ -1,5 +1,0 @@
-choice1:Voda je bila zastrupljena.
-choice2:Pridelki so propadli.
-idx:310
-premise:V regiji je prišlo do suše.
-question:effect

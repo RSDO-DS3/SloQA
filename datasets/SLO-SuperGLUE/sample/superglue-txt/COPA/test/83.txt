@@ -1,5 +1,0 @@
-choice1:Obtožil jo je nezvestobe.
-choice2:Priznal ji je svojo nezvestobo.
-idx:83
-premise:Mož se je počutil krivo, ker je varal ženo.
-question:effect

@@ -1,5 +1,0 @@
-choice1:Priplazil se je skozi odprto okno.
-choice2:Splezal je po strehi.
-idx:206
-premise:Fanta so zaklenili iz hiše.
-question:effect

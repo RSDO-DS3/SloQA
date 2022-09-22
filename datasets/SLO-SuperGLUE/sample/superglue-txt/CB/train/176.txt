@@ -1,4 +1,0 @@
-hypothesis:Dodge Omni je bil zelo kvaliteten avto
-idx:176
-label:contradiction
-premise:B: Hm, hm, imel sem en ali dva ameriška avta se mi zdi in bila sta v redu. Enkrat sem imel Pontiaca in nikoli nisem imel težav z njim, ampak, em, moja mama je na neki točki imela Dodgea in sem ga nekajkrat vozil in res se mi je zdelo, da ne bi kupil Dodgea, samo iz A: Hm. B: No, pravzaprav, na neki točki sem imel, em  Dodgea Omni. A: A-ha. B: in to je bila stvar, se mi zdi, ki mi je res ustvarila predsodke glede ameriških avtov, ker se mi res ni zdelo, da je bil to zelo kvaliteten, em, avto.

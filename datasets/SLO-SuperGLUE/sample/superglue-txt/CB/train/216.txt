@@ -1,4 +1,0 @@
-hypothesis:govorka B bo vzela otroka sabo
-idx:216
-label:neutral
-premise:A: uh, kdaj je tvoj naslednji, uh, na urniku. B: Torej, moja zadnja je bila moja srednješolska matura, naslednja potem, ko sem konèala kolidž, tako da mislim, da približno še dve leti. A: Ja, torej, in misliš, da boš svojega otroka vzela sabo.

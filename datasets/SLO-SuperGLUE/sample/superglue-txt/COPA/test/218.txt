@@ -1,5 +1,0 @@
-choice1:Njeni sošolci so jo spoštovali.
-choice2:Imela je dobre ocene.
-idx:218
-premise:Učenka je dobila štipendijo za univerzo.
-question:cause

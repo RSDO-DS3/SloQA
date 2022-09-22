@@ -1,5 +1,0 @@
-choice1:Muha je odbrenčala stran.
-choice2:Muha je bila pri miru.
-idx:493
-premise:Moški je zamahnil proti muhi.
-question:effect

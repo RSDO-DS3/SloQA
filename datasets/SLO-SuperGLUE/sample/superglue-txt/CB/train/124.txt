@@ -1,4 +1,0 @@
-hypothesis:lahko bi bila boljša
-idx:124
-label:contradiction
-premise:A: torej slišiš toliko, da se malo naveličaš tega, ampak kljub temu moraš razumeti, da veliko ljudi to ujame morda enkrat na dan B: Ja. A: ampak mislim, da je kvaliteta, em, naših novic samo, em, mislim, da nebi mogla biti boljša.

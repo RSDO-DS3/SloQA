@@ -1,5 +1,0 @@
-choice1:Njena sestra je prekrižala roke.
-choice2:Njena sestra je začela jokati.
-idx:145
-premise:Sestri je podala robček.
-question:cause

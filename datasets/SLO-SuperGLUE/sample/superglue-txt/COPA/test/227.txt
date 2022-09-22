@@ -1,5 +1,0 @@
-choice1:Žoga se je odbila.
-choice2:Žoga je žarela.
-idx:227
-premise:Deklica je spustila gumijasto žogo.
-question:effect

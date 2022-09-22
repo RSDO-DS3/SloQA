@@ -1,5 +1,0 @@
-hypothesis:so slabi
-idx:206
-label:contradiction
-premise:A: Tudi jaz. Pred približno desetimi leti smo šli skozi hude èase, vendar ne, verjamem, da so zdaj boljši, veste B: Mislim, da res. Mislim, da niso slabi
-

@@ -1,4 +1,0 @@
-hypothesis:bila je Ginina lastna številka
-idx:29
-label:entailment
-premise:Pustil je svojo številko in se imenoval Alain - ime njenega malezijsko-francoskega "poslovnega vodje". Naslednji dan je Gina pozvonila. Oèitno ni opazila, da gre za njeno lastno številko.

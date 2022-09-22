@@ -1,3 +1,0 @@
-text:<w1> Jim </w1> je tolažil Kevina, saj je <w2> bil </w2> zelo vznemirjen.
-idx:389
-label:False

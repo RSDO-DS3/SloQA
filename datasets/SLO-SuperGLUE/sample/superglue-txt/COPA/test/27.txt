@@ -1,5 +1,0 @@
-﻿choice1:Izgubil sem glas.
-choice2:Zmanjkalo mi je diha.
-idx:27
-premise:Za trenutek sem prenehal govoriti.
-question:cause

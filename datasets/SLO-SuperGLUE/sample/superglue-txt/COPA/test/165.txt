@@ -1,5 +1,0 @@
-choice1:Na glavni cesti je prišlo do nesreče.
-choice2:Sledila je kamionu pred seboj.
-idx:165
-premise:Voznik je naredil ovinek.
-question:cause

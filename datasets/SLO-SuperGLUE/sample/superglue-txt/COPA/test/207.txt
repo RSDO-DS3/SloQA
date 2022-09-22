@@ -1,5 +1,0 @@
-choice1:Obiskovalec je potrkal s tolkačem na vratih.
-choice2:Ženska je pokukala skozi ključavnico na vratih.
-idx:207
-premise:Pozvonilo je pri vratih.
-question:effect

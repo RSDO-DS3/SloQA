@@ -1,5 +1,0 @@
-﻿choice1:Balon se je izpraznil.
-choice2:Balon se je dvignil v zrak.
-idx:452
-premise:Otrok je izpustil vrvico balona.
-question:effect

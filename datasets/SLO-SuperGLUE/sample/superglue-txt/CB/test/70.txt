@@ -1,3 +1,0 @@
-hypothesis:tudi ona spoštuje tradicijo
-idx:70
-premise:B: Mislijo, da so senilni. A: In fosili so opravili s starimi običaji in nihče ne spoštuje tradicije. In tudi jaz, saj ne rečem, da jaz pa jo.

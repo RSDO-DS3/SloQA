@@ -1,5 +1,0 @@
-choice1:Napadalčevo telo je postalo ohlapno.
-choice2:Napadalec je zakrvavel.
-idx:338
-premise:Ženska je napadalca udarila po nosu.
-question:effect

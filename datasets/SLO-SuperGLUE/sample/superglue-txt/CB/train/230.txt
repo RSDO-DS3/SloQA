@@ -1,4 +1,0 @@
-hypothesis:res uživa
-idx:230
-label:contradiction
-premise:A: torej opazujem ribe, veste. Karkoli lahko naredim, da se zamotim. Všeè mi je, da imam prižgan televizor, ker me to navadno bolj hm, zamoti. Nekako mi hitreje teèe èas in niti ne zavedam se, edinokrat, ko kdaj gledam televizijo, je, ko sem na kolesu. in potem obièajno, ko konèam s kolesom, da se ohladim, se navadno sprehodim, veste, in tako potem, veste, me pripelje do tega, da nisem tako utrujen. Ampak to je vsekakor naloga. B: Misliš? O: Ne morem reèi, da res uživam.

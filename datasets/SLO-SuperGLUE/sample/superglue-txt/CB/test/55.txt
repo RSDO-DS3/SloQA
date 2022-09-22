@@ -1,3 +1,0 @@
-hypothesis:zelo hitro lahko to spremeni
-idx:55
-premise:B: Aha. Ja, mislim, da to prehajanje iz enega v drugega ni tako velika stvar. Mislim, da ljudje bolj kot, koliko čevljev je v enem metru, rabijo vedeti, kaj je en meter. Se samo navaditi na vse izraze. Zato ker, ko nekdo reče kilogram, nihče ne ve, kaj je to. A: Vsi si želijo pretvorbe, preden to razumejo kot koncept, ki ga je potrebno oblikovati v mislih. B: Ja. A: Eh, sam se ne strinjam, zelo hitro lahko to spremeni.

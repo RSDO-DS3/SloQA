@@ -1,4 +1,0 @@
-hypothesis:stvari se bodo spremenile
-idx:52
-label:neutral
-premise:B: oh, ampak za mojo družino je uspelo, da ima mojo torto in jo tudi poje, nekako stvar. A: Ja.  Ja, to je dobra kupčija. Kam misliš, da bo to šlo v prihodnosti, mislim, se ti zdi, da se bodo stvari spremenile,

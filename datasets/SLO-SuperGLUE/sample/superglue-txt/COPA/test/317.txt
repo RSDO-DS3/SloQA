@@ -1,5 +1,0 @@
-choice1:Njen sin se je zarežal.
-choice2:Njen sin se je cmeril.
-idx:317
-premise:Mama je utišala sina.
-question:cause

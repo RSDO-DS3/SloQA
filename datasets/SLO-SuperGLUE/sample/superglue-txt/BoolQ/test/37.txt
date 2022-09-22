@@ -1,3 +1,0 @@
-idx:37
-passage: Lepo je biti milijonar (britanski kviz) -- V zgodovini oddajanja programa je bilo do danes pet zmagovalcev, ki so si uspešno priborili najvišjo nagrado 1 milijon L. Ti so:
-question: Ali je že kdaj kdo zmagal na britanskem kvizu Lepo je biti milijonar?

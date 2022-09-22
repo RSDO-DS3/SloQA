@@ -1,5 +1,0 @@
-choice1:Esej je oddal predčasno.
-choice2:Oddal je nedokončan esej.
-idx:372
-premise:Študent je zavlačeval s pisanjem eseja.
-question:effect

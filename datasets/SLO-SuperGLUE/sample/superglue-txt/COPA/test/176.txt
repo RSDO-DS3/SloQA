@@ -1,5 +1,0 @@
-choice1:Prosil sem, če lahko govorim z nadzornim.
-choice2:Povedal sem svojo identifikacijsko številko.
-idx:176
-premise:Družabnik je prekinil povezavo.
-question:cause

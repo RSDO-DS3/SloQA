@@ -1,4 +1,0 @@
-hypothesis:veliko uèiteljev je zelo profesionalnih
-idx:235
-label:contradiction
-premise:A: Highland Park razmišlja, da bi ubral to pot. B: Aha. O: Tako je in mislim, da bo to spodbudilo uèitelje, da se bodo oblekli veliko bolj profesionalno. B: Ja, mislim, da veliko uèiteljev ni zelo profesionalnih

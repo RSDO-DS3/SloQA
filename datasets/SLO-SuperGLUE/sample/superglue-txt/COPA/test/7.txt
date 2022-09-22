@@ -1,5 +1,0 @@
-choice1:Dojenček se je slinil po slinčku.
-choice2:Dojenček se je podelal v plenice.
-idx:7
-premise:Deklica se je prijela za nos.
-question:cause

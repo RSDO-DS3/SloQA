@@ -1,5 +1,0 @@
-choice1:Objel sem jo.
-choice2:Počutil sem se neprijetno.
-idx:474
-premise:Ženska je strmela vame.
-question:effect

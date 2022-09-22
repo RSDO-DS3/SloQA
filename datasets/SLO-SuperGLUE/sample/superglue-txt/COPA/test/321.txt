@@ -1,5 +1,0 @@
-choice1:Ostali učenci so sedli k jedilni mizi.
-choice2:Ostali učenci za jedilno mizo so se počutili zapostavljeno.
-idx:321
-premise:Dekleta za jedilno mizo so šepetala druga z drugo.
-question:effect

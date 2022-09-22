@@ -1,4 +1,0 @@
-hypothesis:ne trese se več
-idx:110
-label:entailment
-premise:``In motiš se o nas. Nismo več otroci in rekel bi, da se precej hitro učimo pravila.'' Lahko, da si opazil, da se ne tresem več!

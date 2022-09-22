@@ -1,5 +1,0 @@
-choice1:Dekle jih je pomršilo.
-choice2:Dekle jih je povleklo.
-idx:296
-premise:Dečkovi lasje so štrleli.
-question:cause

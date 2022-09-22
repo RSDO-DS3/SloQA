@@ -1,4 +1,0 @@
-hypothesis:ima filozofski problem s tem
-idx:140
-label:contradiction
-premise:A:  varuška, neke vrste? A-ha. A-ha. B: in, saj veš, lahko sem predvidela družbo, kjer bi se to zgodilo in bi naredilo zanimivo, em, em, zgodbo ali karkoli. A: Ja. B: Mislim, da nimam filozofskega problema s tem.

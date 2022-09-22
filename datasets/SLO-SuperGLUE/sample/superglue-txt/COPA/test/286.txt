@@ -1,5 +1,0 @@
-choice1:Voditelji ostalih držav so oblikovali zavezništvo.
-choice2:Voditelji ostalih držav so poslali nujno pomoč.
-idx:286
-premise:V državi se je zgodila naravna nesreča.
-question:effect

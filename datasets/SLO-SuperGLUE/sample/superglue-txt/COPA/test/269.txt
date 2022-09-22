@@ -1,5 +1,0 @@
-choice1:Njegov brat se je zapletel v prepir z njunimi starši.
-choice2:Njegovega brata so sprejeli na pravno fakulteto.
-idx:269
-premise:Bil je ponosen na svojega brata.
-question:cause

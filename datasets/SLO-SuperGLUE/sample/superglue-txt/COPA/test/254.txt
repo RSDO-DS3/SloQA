@@ -1,5 +1,0 @@
-choice1:Skoraj so stopili pred nasproti prihajajoče avte.
-choice2:Prepoznala jih je iz svoje soseske.
-idx:254
-premise:Varnostnica na prehodu za pešce je s piščalko zažvižgala otrokom.
-question:cause

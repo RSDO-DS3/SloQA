@@ -1,2 +1,0 @@
-text:Konec koncev bi se Steve lahko odločil, da so <w1> Markove </w1> noge in ušesa boljša kot <w2> njegove </w2> roke --- in mu namenoma prepustil delo, ki se mu je najbolj prilegalo.
-idx:51

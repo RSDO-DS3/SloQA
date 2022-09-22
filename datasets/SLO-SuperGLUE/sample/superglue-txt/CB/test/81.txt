@@ -1,3 +1,0 @@
-hypothesis:te ženske nosijo kratke hlače brez hlačnih nogavic
-idx:81
-premise:B: In rekli so ne. A: Ja, potem pa med tednom vidiš te ženske, ki, mislim, samo zato, ker zraven oblečeš hlačne nogavice, še ne pomeni,da naenkrat niso več kratke hlače. B: Ja. A: Mislim, še nikoli jih nisem videl, da bi jih nosile brez hlačnih nogavic.

@@ -1,4 +1,0 @@
-hypothesis:je dober dvoriščni mehanik
-idx:172
-label:entailment
-premise:B: Dobro. In so prepakirali kolesne ležaje. A: in so prepakirali kolesne ležaje. Ja, ampak, em, imela sem precej izkušenj. Lahko bi rekel, da sem, em, em, dober dvoriščni mehanik.

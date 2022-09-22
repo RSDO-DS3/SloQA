@@ -1,5 +1,0 @@
-choice1:Voda je odtekla iz banje.
-choice2:Voda je pljusknila na tla.
-idx:82
-premise:Iz banje sem potegnil čep.
-question:effect

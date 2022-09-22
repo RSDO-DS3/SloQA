@@ -1,4 +1,0 @@
-hypothesis:najslabša stvari, ki obstaja danes v modernem svetu, je televizija
-idx:184
-label:entailment
-premise:B: Tudi to sem slišal. Uh, A: Zdi se mi bizarno. Ne razumem povsem, èeprav je verjetno najslabša stvar, ki danes obstaja vsaj v sodobnem svetu, televizija.

@@ -1,5 +1,0 @@
-choice1:Zadela ga je kap.
-choice2:Globoko je vdihnil.
-idx:453
-premise:Ni mogel več govoriti.
-question:cause

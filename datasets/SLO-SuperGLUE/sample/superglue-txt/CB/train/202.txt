@@ -1,4 +1,0 @@
-hypothesis:vsi so slabi
-idx:202
-label:contradiction
-premise:B: In tako kot oni, uh, se zabavajo s pravicami, ki bi jih morali imeti. A: Uh-huh. B: Mislim, mi jih vzgajamo, mi jih hranimo, skrbimo za njih in prej ko slej gredo ven na ulico in se potem spet znajdejo v tem. A: Uh-huh. B: Jaz ne pravim, da so vsi slabi 

@@ -1,4 +1,0 @@
-hypothesis:Manhattan je poceni
-idx:242
-label:contradiction
-premise:Trend zniževanja najemnin se morda zdi presenetljiv, saj se nekatere skupnosti v New Yorku pritožujejo zaradi izgube priljubljenih lokalnih podjetij zaradi visokih najemnin. Toda kljub nedavnemu nižanju je pri mnogih od teh trgovcev še vedno prišlo do prevelikega skoka najemnin ob koncu sedemdesetih let, ko so bili podpisani najemi. Seveda nedavni padec cen še ne pomeni, da je Manhattan poceni.

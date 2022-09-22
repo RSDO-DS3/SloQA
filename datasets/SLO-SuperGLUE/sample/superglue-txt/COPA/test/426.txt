@@ -1,5 +1,0 @@
-choice1:Prijatelja sem prosil za navodila, kako priti do dvorane.
-choice2:Prijatelja sem vprašal, če bi ga zanimalo iti z mano.
-idx:426
-premise:Imel sem še eno karto za koncert.
-question:effect

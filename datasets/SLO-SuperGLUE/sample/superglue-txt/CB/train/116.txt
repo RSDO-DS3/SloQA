@@ -1,4 +1,0 @@
-hypothesis:ostali so sovražili Paulo
-idx:116
-label:entailment
-premise:Paula si ni mogla pomagati. Bila je pač takšna. Drugi bi morda rekli, da jo sovražijo in to res mislili.

@@ -1,5 +1,0 @@
-choice1:Kamere so bliskale v njegovo smer.
-choice2:Njegova družina se je udeležila tiskovne konference.
-idx:405
-premise:Javna oseba je izstopila iz limuzine.
-question:effect

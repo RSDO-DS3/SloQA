@@ -1,5 +1,0 @@
-choice1:Odrekel se je sladkarijam.
-choice2:Izogibal se je kofeinu.
-idx:191
-premise:Čokat moški se je odločil shujšati.
-question:effect

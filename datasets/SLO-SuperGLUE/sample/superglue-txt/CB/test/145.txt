@@ -1,3 +1,0 @@
-hypothesis:Peace Corps je še vedno tako uspešen
-idx:145
-premise:B: Ja, mislim da je. Res. Ja. A: To se mi zdi veliko bolj realistično. Hm, mislim, da bi spet morali posvetiti več časa in spet se mi ne zdi, da bi bil Peace Corps še vedno tako uspešen, preprosto zato, ker ne ustreza več okoliščinam.

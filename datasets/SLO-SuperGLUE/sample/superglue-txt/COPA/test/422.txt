@@ -1,5 +1,0 @@
-choice1:Stranka je uporabila ponarejen denar.
-choice2:Stranka je pustila prižgane prednje luči.
-idx:422
-premise:Blagajničarka je poklicala policijo.
-question:cause

@@ -1,5 +1,0 @@
-choice1:Uporabil sem svinčnik.
-choice2:Podpisal sem se.
-idx:479
-premise:Pisalu je zmanjkalo črnila.
-question:effect

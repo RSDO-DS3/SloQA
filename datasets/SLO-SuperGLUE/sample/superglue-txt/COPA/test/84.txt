@@ -1,5 +1,0 @@
-choice1:Čakal sem, da se posuši črnilo.
-choice2:Poster sem polil z vodo.
-idx:84
-premise:Črnilo na posterju se je razmazalo.
-question:cause

@@ -1,4 +1,0 @@
-hypothesis:nekdo v njegovi hiši opazi razliko
-idx:162
-label:contradiction
-premise:B: če ga dobiš znižanega, A: Ja, ja, torej kupili smo to, ali pa smo kupili fileje, in potem piščančje ali puranje medaljone in zdi se mi, da nihče v moji hiši ne opazi razlike, razen če jim poveš.

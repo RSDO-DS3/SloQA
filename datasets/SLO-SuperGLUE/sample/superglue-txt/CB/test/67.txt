@@ -1,3 +1,0 @@
-hypothesis:Quantum Leap in Night Court nimata nič skupnega
-idx:67
-premise:A: In mislim, da sta nekako na različnih spektrih. Ena izmed njih je Quantum Leap. B: Prav. In druga je Night Court. In mislim, da sta resnično drugačni, hočem reči, nič nimata skupnega.

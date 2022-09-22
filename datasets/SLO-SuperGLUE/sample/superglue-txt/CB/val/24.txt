@@ -1,4 +1,0 @@
-hypothesis:številka je za preverjanje in formalnost za osvojitev velike nagrade
-idx:24
-label:contradiction
-premise:Toda to, kar ne vemo, je to, zakaj je nekdo naiven. Zakaj ljudje razkrijejo številke svojih kreditnih kartic klicatelju, ki ga ne poznajo? Ali res verjamejo, da je številka namenjena samo preverjanju in je le formalnost za osvojitev velike nagrade?

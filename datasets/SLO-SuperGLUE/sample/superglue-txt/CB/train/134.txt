@@ -1,4 +1,0 @@
-hypothesis:Jim Kelly se bo kmalu prizibal od Billa
-idx:134
-label:contradiction
-premise:B: Ja. No, to je tip, ki šteje. A: Ja. Ampak mogoče bomo pa dobili tvojega tipa. B: Oh, mislim da se Jim Kelly ne bo še prav kmalu prizibal od Billa.

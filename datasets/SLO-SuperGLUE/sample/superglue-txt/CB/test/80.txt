@@ -1,3 +1,0 @@
-hypothesis:oddelek za psihologijo propagira eno ali drugo obliko poučevanja
-idx:80
-premise:A: Aha, misliš učni stil, ne? Mislim na dejanske poskuse, morali bi pridobiti tvoje soglasje. B: Ja. A: Ampak, ja, če imate oddelek za psihologijo ali pedagogiko, boš verjetno ugotovil, da propagirajo eno ali drugo obliko poučevanja.

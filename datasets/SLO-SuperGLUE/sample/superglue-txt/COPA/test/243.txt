@@ -1,5 +1,0 @@
-choice1:Brisača je bila mokra.
-choice2:Moje roke so bile mokre.
-idx:243
-premise:Roke sem si obrisal v brisačo.
-question:cause

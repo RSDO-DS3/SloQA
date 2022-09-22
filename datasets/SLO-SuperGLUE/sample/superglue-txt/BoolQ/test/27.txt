@@ -1,3 +1,0 @@
-idx:27
-passage: Wikipedija: Navajanje Wikipedije -- Če želite dobesedno navesti ali pa povzeti besedilo z Wikipedije (kljub zgornjim opozorilom, ki se nanašajo na podatke v Wikipediji), morate Wikipedijo tudi primerno citirati; v nasprotnem primeru gre za plagiat, s čimer kršite akademske norme in ste lahko kaznovani. S tem kršite tudi avtorsko licenco Wikipedie CC-BY-SA, s čimer kršite zakon o avtorskih pravicah.
-question: Ali je treba Wikipedijo navesti kot vir?

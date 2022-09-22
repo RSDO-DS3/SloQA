@@ -1,5 +1,0 @@
-choice1:Maslo sem zlil v vrečko.
-choice2:Pogrel sem jo v mikrovalovni pečici.
-idx:99
-premise:Vrečka s pokovko je začela pokljati.
-question:cause

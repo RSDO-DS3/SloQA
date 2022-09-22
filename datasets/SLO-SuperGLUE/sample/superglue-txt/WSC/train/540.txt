@@ -1,3 +1,0 @@
-text:<w1> Tom </w1> je Ralpha zapeljal v šolo, zato da <w2> mu </w2> ni bilo potrebno hoditi.
-idx:540
-label:False

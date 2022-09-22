@@ -1,3 +1,0 @@
-hypothesis:učitelji v njenem šolskem okraju so dobro plačani
-idx:77
-premise:B: No, to sem mislila, ko sem rekla šola. A: Ja. Ne krivim učiteljev v šoli, čeprav mislim, pravzaprav vem, da so nekateri učitelji, ki jih osebno poznam veliko bolje plačani kot, no, prav dobro jim gre. B: Hm. No, to je pa nenavadno, ker mislim, da učitelji v mojem šolskem okraju niso dobro plačani.

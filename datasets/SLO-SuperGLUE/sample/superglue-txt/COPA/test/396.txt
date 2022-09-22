@@ -1,5 +1,0 @@
-choice1:Rada ga je imela.
-choice2:Poljubila ga je.
-idx:396
-premise:Dekle je poslalo fantu čestitko za valentinovo.
-question:cause

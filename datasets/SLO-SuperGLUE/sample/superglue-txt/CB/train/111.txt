@@ -1,4 +1,0 @@
-hypothesis:to je pomenilo, da je bila njena prejšnja vloga prosta
-idx:111
-label:entailment
-premise:Ko je bil tam, sva bila Bonnie in Clyde, zdaj ko je odšel, sva bila Blondie in Dagwood. Oziroma, zdaj ko je odšel, sem bila Dennis. Če bi bila pametnejša ali manj nečimrna, bi morda spoznala, da je to pomenilo, da je bila moja prejšnja vloga zdaj prosta.

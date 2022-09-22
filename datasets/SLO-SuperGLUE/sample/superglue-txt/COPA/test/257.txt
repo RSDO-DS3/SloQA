@@ -1,5 +1,0 @@
-choice1:Dojenček se je rodil.
-choice2:Ženska je trpela za jutranjo slabostjo.
-idx:257
-premise:Ženska je začela rojevati.
-question:effect

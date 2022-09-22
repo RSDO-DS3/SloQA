@@ -1,4 +1,0 @@
-hypothesis:moral bi obstajati državni uèni naèrt
-idx:219
-label:neutral
-premise:B: Aha. Torej, ja, treba je pogledati na šolski sistem na obmoèju, kamor se boste preselili pred tem. O: Aha. Seveda imamo rahlo težavo v tem, da se, uh, število nepismenih v Ameriki v tem trenutku poveèuje in, uh, veste, tam, kjer bi lahko bili naši otroci v odlièni šoli, še vedno plaèujemo strašno veliko davkov za ljudi, ki so na socialni in brezposelni, ker ne znajo brati, veste. B: Aha. A: Torej. B: Ampak ali menite, da bi moral obstajati hm državni, hm, uèni naèrt?

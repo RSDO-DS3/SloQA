@@ -1,4 +1,0 @@
-hypothesis:Sovjetska zveza je grožnnja
-idx:183
-label:contradiction
-premise:A: Kako se poèutite glede tega. B: V resnici niè, samo, ne vem za vlado toliko kot, uh, ljudje, uh, sploh ne bi to štel za grožnjo in se res ne vidim Sovjetsko zvezo kot grožnjo.

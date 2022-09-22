@@ -1,3 +1,0 @@
-text:Frank se je počutil obupanega, ko je njegov dolgoletni tekmec <w1> Bill </w1> oznanil, da <w2> je </w2> zmagovalec tekmovanja.
-idx:259
-label:True

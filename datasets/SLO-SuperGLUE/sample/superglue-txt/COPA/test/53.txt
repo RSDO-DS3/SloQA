@@ -1,5 +1,0 @@
-choice1:Odločil se je kartati s sestro.
-choice2:Odločil se je, da bo sestri zagodel s potegavščino.
-idx:53
-premise:Fant se je počutil nagajivo.
-question:effect

@@ -1,5 +1,0 @@
-﻿choice1:Preproga je bila videti umazana.
-choice2:Stene so bile videti gole.
-idx:356
-premise:V sobi sem razobesil slike.
-question:cause

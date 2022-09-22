@@ -1,3 +1,0 @@
-hypothesis:všeč bi bil njeni hčerki
-idx:101
-premise:A: Torej najboljši, stranski igralec je bil dober, ampak, kolikor sem slišal, je bil tip, ki ga je dobil, boljši, tako da, veš, lahko si predstavljam. B: Ja. A: Ampak, B: Se ti zdi, da bi bil všeč moji hčerki?

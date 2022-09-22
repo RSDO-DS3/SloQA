@@ -1,4 +1,0 @@
-hypothesis:veè stane, da se ohrani zapornika na smrtni kazni, kot pa da gre oseba na Harvard
-idx:213
-label:entailment
-premise:A: Ja, ni enostavne rešitve. Tukaj ni enostavne rešitve za to. B: Uh-huh. Ne vem, èe je tu enostavna rešitev, ampak èe bi našli nek naèin, da to prepreèimo, in ne vem, kaj bi to bilo, bi bilo to veliko bolje zapravljen denar, kot, A: ja. B: ali veš, da stane veè, da se ohrani zapornika v smrtni kazni, kot pa stane, da gre oseba na Harvard?

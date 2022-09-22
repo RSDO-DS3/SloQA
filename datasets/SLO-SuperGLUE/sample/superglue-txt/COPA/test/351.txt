@@ -1,5 +1,0 @@
-choice1:Naučil se jih je zavezati.
-choice2:Tekel je po igrišču.
-idx:351
-premise:Otrokove vezalke so se odvezale.
-question:cause

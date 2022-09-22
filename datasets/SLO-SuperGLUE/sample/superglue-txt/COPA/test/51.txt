@@ -1,5 +1,0 @@
-﻿choice1:Pilot je krmilil stran od nevihte.
-choice2:Pilot je letel skozi nevihto.
-idx:51
-premise:Pilotov radar je zaznal nevihto.
-question:effect

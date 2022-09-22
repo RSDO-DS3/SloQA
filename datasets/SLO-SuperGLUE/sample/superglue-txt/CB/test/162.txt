@@ -1,3 +1,0 @@
-hypothesis:veliko njenih vrstnikov je imelo moralne zadržke glede vojne
-idx:162
-premise:B: Nisem prepričana, da želim, da osemnajstletnik sprejme takšne vrste odločitev. Em, mislim, ne zdi se mi prav. Hm, zdi se mi, da vidim splošne prednosti, če gledamo s tega zornega kota. A: A-ha. B: Hm. Veš, v preteklosti, ne vem koliko si star, ampak ko sem bila em, v srednji šoli, se je v Vietnamu ravno začelo in tako naprej. In veliko mojih vrstnikov je bilo vpoklicanih. A: A-ha. B: In videla sem, da jih je veliko imelo moralne zadržke glede vojne ali karkoli.

@@ -1,5 +1,0 @@
-choice1:Dobila je preživnino.
-choice2:Padla je v velike dolgove.
-idx:368
-premise:Ženska je šla v osebni stečaj.
-question:cause

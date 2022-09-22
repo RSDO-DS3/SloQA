@@ -1,3 +1,0 @@
-hypothesis:nekaj neprijetnega se bo zgodilo to popoldne
-idx:165
-premise:``Motor je prej tekel, kot po maslu.'' Lissa je sprejela tolažbo njegovih zagotovil. Ni zares verjela, da se bo to popoldne zgodilo kaj neprijetnega.

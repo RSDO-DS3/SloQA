@@ -1,3 +1,0 @@
-text:<w1> Bob </w1> je igral karte z Adamom in močno vodil. Ko Adam ne bi nenadoma imel nenavadno velike sreče, bi <w2> zmagal </w2> .
-idx:84
-label:True

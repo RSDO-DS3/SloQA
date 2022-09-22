@@ -1,5 +1,0 @@
-choice1:V kovček je pospravil topla oblačila.
-choice2:Potoval je z velikim kovčkom.
-idx:22
-premise:Na poti je pričakoval hladno vreme.
-question:effect

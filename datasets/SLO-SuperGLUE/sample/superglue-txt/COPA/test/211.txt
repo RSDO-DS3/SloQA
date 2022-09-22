@@ -1,5 +1,0 @@
-choice1:Privezala je trak.
-choice2:Trak je bil videti otročje.
-idx:211
-premise:Dekle je trak potegnilo z las.
-question:cause

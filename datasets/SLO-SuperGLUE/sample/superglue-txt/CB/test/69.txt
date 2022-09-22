@@ -1,3 +1,0 @@
-hypothesis:v zameno za davke res ne dobi veliko
-idx:69
-premise:A: To ni tako slabo. B: Ne, res se mi zdi, da vsaj tukaj, v Indiani, plačamo preveč davkov. Prejšnje poletje sem delala v tovarni in v povprečju sem dvajset odstotkov vsake plače izgubila za davke in zdi se mi, da v zameno res ne dobim veliko.

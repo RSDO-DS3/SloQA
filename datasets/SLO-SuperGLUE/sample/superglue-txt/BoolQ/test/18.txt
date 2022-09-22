@@ -1,3 +1,0 @@
-idx:18
-passage:Podmorski komunikacijski kabel – Podmorski komunikacijski kabel je kabel, položen na morskem dnu med kopenskimi postajami za prenos telekomunikacijskih signalov po odsekih oceana in morja. Prvi podmorski komunikacijski kabli, položeni v 1850. letih, so prenašali telegrafski promet in vzpostavili prve takojšnje telekomunikacijske povezave med celinami, na primer prvi čezatlantski telegrafski kabel, ki je začel delovati 16. avgusta 1858. Naslednje generacije kablov so prenašale telefonski promet, nato pa promet podatkovnih komunikacij. Sodobni kabli za prenos digitalnih podatkov, kar vključuje telefonski, internetni in zasebni podatkovni promet, uporabljajo tehnologijo optičnih vlaken.
-question:Ali so v oceanu kabli iz optičnih vlaken?

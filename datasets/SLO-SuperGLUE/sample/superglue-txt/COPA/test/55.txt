@@ -1,5 +1,0 @@
-choice1:Riba je skočila iz akvarija.
-choice2:Riba je zaplavala proti hrani.
-idx:55
-premise:Otrok je v akvarij natrosil ribjo hrano.
-question:effect

@@ -1,4 +1,0 @@
-hypothesis:bil je IBM
-idx:157
-label:entailment
-premise:A: Lahko bi bili, ampak ne na novoju človeških faktorjev. Oni so, B: No, danes sem slišal na novicah, lahko bi prisegel da je bil IBM.

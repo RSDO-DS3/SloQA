@@ -1,5 +1,0 @@
-choice1:Vrgli so ga v ječo.
-choice2:Bil je obsojen umora.
-idx:289
-premise:Zločinca so usmrtili.
-question:cause

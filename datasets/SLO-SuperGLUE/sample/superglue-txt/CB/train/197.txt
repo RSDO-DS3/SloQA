@@ -1,4 +1,0 @@
-hypothesis:to bi morali res plaèevati veèno
-idx:197
-label:contradiction
-premise:A: O, vau! Ampak morda ne bi smeli biti odgovorni za nekaj, kar ste naredili veliko let nazaj. B: Torej vem. A: To je ta stvar. Mislim, da se veliko ljudi kot otroci ali, veste, mladi ukvarjajo z nekaterimi stvarmi, ki se jim kasneje izognejo, in mislim, da tega ne bi smeli res plaèevati veèno.

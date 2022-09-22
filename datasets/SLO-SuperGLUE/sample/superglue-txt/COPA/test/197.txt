@@ -1,5 +1,0 @@
-choice1:Prodal je svoj delež v družbi.
-choice2:Zapravil je svoje premoženje.
-idx:197
-premise:Direktor je bankrotiral.
-question:cause

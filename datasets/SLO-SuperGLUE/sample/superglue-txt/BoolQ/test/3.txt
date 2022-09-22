@@ -1,3 +1,0 @@
-idx:3
-passage:Končnica lige NBA – Vsi sklopi tekem se igrajo v serijah »best-of-seven«. Serije se igrajo v formatu 2–2–1–1–1, kar pomeni, da ekipa s prednostjo domačega igrišča gosti igre 1, 2, 5 in 7, medtem ko njihov nasprotnik gosti igre 3, 4 in 6, igre 5–7 pa se igrajo po potrebi. Ta format je v uporabi od leta 2014, potem ko so 23. oktobra 2013 lastniki franšize NBA soglasno glasovali o prehodu iz formata 2–3–2.
-question:So vse igri v končnici lige NBA best-of-seven?

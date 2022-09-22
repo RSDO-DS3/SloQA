@@ -1,5 +1,0 @@
-choice1:Deklica je po pouku ostala v šolskem priporu.
-choice2:Deklica je učiteljici prinesla jabolko.
-idx:9
-premise:Deklica se je želela zahvaliti učiteljici matematike.
-question:effect

@@ -1,5 +1,0 @@
-choice1:Vojake so poslali v boj.
-choice2:Vojaki so bili ponovno z družinami.
-idx:122
-premise:Država je napovedala vojno sosednji deželi.
-question:effect

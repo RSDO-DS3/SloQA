@@ -1,3 +1,0 @@
-hypothesis:Derek Plumbly živi v Egiptu.
-idx:3
-premise:Britanski ambasador v Egiptu, Derek Plumbly, je agenciji Reuters v ponedeljek izjavil, da so oblasti na podlagi seznamov turističnih agencij in družin, ki se jim od eksplozije še niso oglasili sorodniki, sestavile seznam desetih ljudi.

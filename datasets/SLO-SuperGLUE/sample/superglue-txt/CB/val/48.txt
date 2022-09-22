@@ -1,4 +1,0 @@
-hypothesis:prehranjevanje starejših ljudi je tako slabo
-idx:48
-label:entailment
-premise:B: In nekako se je ustrašila tega, da bi bila sama. Nikoli ni res dobro jedla. To je bila ena stvar. Komaj kdaj je poskrbela zase A: Ja. B: in ni jedla. Jedla je res skromno, zato mislim da je bila, saj veš, slaba, em, prehrana po vrhu vsega. In, em, prišla je do točke ko ni več želela sama. Torej, A: Tako pogosto se mi zdi, da starejši ljudje ne vedo, da je njihovo prehranjevanje tako slabo.

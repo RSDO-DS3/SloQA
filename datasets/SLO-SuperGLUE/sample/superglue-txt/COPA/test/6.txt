@@ -1,5 +1,0 @@
-choice1:Vrsti se je priključilo še več ljudi.
-choice2:Stopila je ven iz vrste.
-idx:6
-premise:Izgubila je svoje mesto v vrsti.
-question:cause

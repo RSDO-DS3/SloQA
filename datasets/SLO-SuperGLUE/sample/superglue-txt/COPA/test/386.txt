@@ -1,5 +1,0 @@
-﻿choice1:Dekle ga je ignoriralo.
-choice2:Dekle ga je dreznilo.
-idx:386
-premise:Fant se je zdrznil.
-question:cause

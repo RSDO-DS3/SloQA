@@ -1,5 +1,0 @@
-choice1:Imel sem glavobol.
-choice2:Šef je sklical sestanek.
-idx:357
-premise:Iz službe sem odšel predčasno.
-question:cause

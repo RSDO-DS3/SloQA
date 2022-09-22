@@ -1,3 +1,0 @@
-hypothesis:gre samo za kazensko sodišče
-idx:96
-premise:A: Ne. B: In, seveda, sodni sistem, če govorimo o pritožbah, ne verjamem, da gre samo za kazensko sodišče.

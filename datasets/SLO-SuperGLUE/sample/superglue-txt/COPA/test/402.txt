@@ -1,5 +1,0 @@
-choice1:Ogenj je ugasnil.
-choice2:Iz ognja se je vil dim.
-idx:402
-premise:Ženska je poteptala ogenj.
-question:effect

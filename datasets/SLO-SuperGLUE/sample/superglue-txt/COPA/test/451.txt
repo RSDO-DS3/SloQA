@@ -1,5 +1,0 @@
-choice1:Skoraj se je utopil v morju.
-choice2:Skoraj je umrl v eksploziji.
-idx:451
-premise:Mož je oglušel.
-question:cause

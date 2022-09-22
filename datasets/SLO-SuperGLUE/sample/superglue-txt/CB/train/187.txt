@@ -1,4 +1,0 @@
-hypothesis:lahko naredijo kaj, da to spremenijo
-idx:187
-label:contradiction
-premise:B: Uh, glede uh, porote. Resnièno se mi zdi, kot da so, uh, uh, kakršen koli sistem je bil v preteklosti uporabljen, zlasti v poroti, veste, to je res ena od stvari, ki jih lahko uporabite. Ker sodna praksa, veste, temelji, uh, veste, na nakopièenem zakonu. In èe imate situacijo, kjer spremenite to zakonodajo, se lahko naenkrat zaènejo vraèati in izkopavati vse te primere, uh, to bi bilo drugaèe obravnavano, èe bi jih presojali po današnjih standardih. Tako da resnièno mislim, da v resnici ne morejo narediti nièesar, da bi to spremenili.

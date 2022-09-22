@@ -1,4 +1,0 @@
-hypothesis:kak otrok bi moral biti oproščen šeškanja
-idx:159
-label:contradiction
-premise:B: Mislim, da to ne velja samo za javni šolski sistem, ampak za družbo samo po sebi. Bilo je preveč negativne spodbude. Koliko so, torej, ujeti bili izmuzljivi. Kaj pa, samo državljani kot je John Q zunaj na cesti? A: Ja, no, to je res. Mislim, res težko, mislim, to je ena od stvari, ki, mislim, svoje otroke definitivno našeškam, ko je treba, da so našeškani. Ampak res skušam uporabljati pozitivne, em, spodbude tudi doma. In res pomaga. In, mislim, niso prav pogosto našeškani, ampak so, ko si to zaslužijo, saj veš. Ampak, em, mislim da noben otrok ne bi smel biti oproščen šeškanja.

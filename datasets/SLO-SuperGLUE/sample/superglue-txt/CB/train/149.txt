@@ -1,4 +1,0 @@
-hypothesis:to bi naredila svojim staršem
-idx:149
-label:contradiction
-premise:B: Pravi, da ko je umrl njen mož, oh, da je moj stric rekel, da je nikoli ne bi dal v dom za ostarele. Torej je nekako, eh, ne vem. Mislim, zdi se mi, da je moji starši ne bi, amak postaja precej hudo, mora naprimer imeti majhno stranišče takoj ob svoji postelji in, torej A: A-ha. B: in moja mama mora skrbeti zanjo bolj ali manj in tako to gre, ne vem. To je težka odločitev, ampak jaz osebno mislim, da tega ne bi naredila svojim staršem.

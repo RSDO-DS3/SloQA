@@ -1,5 +1,0 @@
-choice1:Voznik je obtičal na cesti.
-choice2:Voznik je pobral štoparja.
-idx:256
-premise:Avtu je zmanjkalo goriva.
-question:effect

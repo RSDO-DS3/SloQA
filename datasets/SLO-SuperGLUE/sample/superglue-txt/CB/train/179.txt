@@ -1,4 +1,0 @@
-hypothesis:na javnih šolah je toliko staršev, ki so končali kolidž
-idx:179
-label:contradiction
-premise:B: Oh, razumem A: hm, in mislim, da dobim boljši kaliber učencev na zasebni šoli, ker mislim, da njihvi starši plačajo več, in zdi se mi, da imajo ti otroci malce večji izziv, ker so njihovi starši verjetno končali kolidž, medtem ko na javni šoli mislim, da ni toliko staršev s končanim kolidžem.

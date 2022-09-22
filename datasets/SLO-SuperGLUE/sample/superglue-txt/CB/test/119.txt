@@ -1,3 +1,0 @@
-hypothesis:ljudje lahko naredijo zakone, ki nekaj popolnoma odpravijo povsod
-idx:119
-premise:A: Em, na, em, torej TCJC. Tarrant County Junior College. B: Oh. A: Ja. B: Dobro. A: In res je prijetno. Všeč mi je. In tudi, veš, misliš, da bi lahko naredili zakone, ki bi odpravili vso korupcijo, in zdi se mi, da ne moremo narediti zakonov, ki bi lahko kjerkoli popolnoma odpravili karkoli. 

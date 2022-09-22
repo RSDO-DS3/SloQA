@@ -1,5 +1,0 @@
-﻿choice1:Ognjemet je eksplodiral v zraku.
-choice2:Frizbi je letel proti moji glavi.
-idx:223
-premise:Sklonil sem se.
-question:cause

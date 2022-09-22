@@ -1,4 +1,0 @@
-hypothesis:šla je v nekaj od njih
-idx:146
-label:contradiction
-premise:A: Hodiš v Evropi v muzeje? B: Em, pravzaprav ne, mislim da nisem šla v nobenega od njih.

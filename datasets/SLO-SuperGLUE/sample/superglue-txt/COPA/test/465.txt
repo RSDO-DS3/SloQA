@@ -1,5 +1,0 @@
-choice1:Plavalec je skočil v bazen.
-choice2:Plavalec je lebdel na površini bazena.
-idx:465
-premise:Iz bazena je pljusknila voda.
-question:cause

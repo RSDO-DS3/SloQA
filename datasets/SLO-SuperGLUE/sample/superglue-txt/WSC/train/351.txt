@@ -1,3 +1,0 @@
-text:<w1> Kirilov </w1> je predsedništvo predal Šatovu, ker je <w2> bil </w2> bolj priljubljen.
-idx:351
-label:False

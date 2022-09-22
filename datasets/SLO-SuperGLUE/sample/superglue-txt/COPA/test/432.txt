@@ -1,5 +1,0 @@
-choice1:Niso se želele pregovarjati na sodišču.
-choice2:Želele so popraviti medsebojni odnos.
-idx:432
-premise:Sprte stranke so dosegle sporazum.
-question:cause

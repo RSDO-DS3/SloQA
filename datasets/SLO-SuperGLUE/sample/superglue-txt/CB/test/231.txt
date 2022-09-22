@@ -1,3 +1,0 @@
-hypothesis:dnevno negovalni centri so kot družinski centri
-idx:231
-premise:B: Veš, kako se lahko razlikuje glede na dnevno negovalni center, veš, A: Ja. B: potem slišiš za vse grozne stvari, ki se zgodijo v takih negovalnih centrih, ali si kdaj opazil, da so vedno kot družinski center, kjer ga hèi in mati in sin vodijo

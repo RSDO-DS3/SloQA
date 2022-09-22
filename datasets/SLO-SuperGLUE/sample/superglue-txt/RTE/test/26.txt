@@ -1,3 +1,0 @@
-hypothesis:Valerie Plame je poročena z Josephom Wilsonom.
-idx:26
-premise:Gospod Fitzgerald je razkril, da je bil eden izmed številnih visokih uradnikov, ki so junija leta 2003 povedali gospodu Libbyju, da Valerie Plame, žena bivšega ambasadorja Josepha Wilsona, dela za CIA.

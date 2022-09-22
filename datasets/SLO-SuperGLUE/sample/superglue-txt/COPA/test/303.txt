@@ -1,5 +1,0 @@
-﻿choice1:Zmanjkalo mi je tem za pogovor.
-choice2:Pogovor je postal napet.
-idx:303
-premise:Zamenjal sem temo pogovora.
-question:cause

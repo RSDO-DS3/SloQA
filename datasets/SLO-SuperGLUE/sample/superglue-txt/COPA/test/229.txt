@@ -1,5 +1,0 @@
-﻿choice1:Njegov nasprotnik je ujel podajo.
-choice2:Njegov nasprotnik je padel na tla.
-idx:229
-premise:Igralec je podrl svojega nasprotnika.
-question:effect

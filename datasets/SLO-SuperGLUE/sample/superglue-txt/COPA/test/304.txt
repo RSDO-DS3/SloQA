@@ -1,5 +1,0 @@
-choice1:Izrekel sem mu dobrodošlico ob vrnitvi domov.
-choice2:Ignoriral sem ga.
-idx:304
-premise:Mojega brata so odpustili iz bolnišnice.
-question:effect

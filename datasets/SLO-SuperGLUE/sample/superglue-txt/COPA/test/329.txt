@@ -1,5 +1,0 @@
-﻿choice1:Pisateljica se je v svojih zgodbah izogibala pristranskosti.
-choice2:Pisateljica je zamudila pomemben rok.
-idx:329
-premise:Urednik je odpustil pisateljico.
-question:cause

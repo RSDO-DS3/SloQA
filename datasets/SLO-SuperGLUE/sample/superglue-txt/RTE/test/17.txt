@@ -1,3 +1,0 @@
-hypothesis:Skupina First Automotive Works je locirana na Kitajskem.
-idx:17
-premise:Mugabe je v Peking prispel v nedeljo in obiskal severovzhodno provinco Džilin, kjer si je ogledal sedež skupine First Automotive Works, najpomembnejšega proizvajalca vozil na Kitajskem.

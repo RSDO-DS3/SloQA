@@ -1,3 +1,0 @@
-hypothesis:Delaney je bil sumničav glede meteorološkega poročila
-idx:158
-premise:``Smešno, da srečani ljudje to dojamejo tako narobe.'' Zunaj pilotske kabine je beli snop ošinil črno okno. Zakaj se je Delaneyju nenadoma zdelo, da je sumničav glede meteorološkega poročila?

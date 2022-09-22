@@ -1,3 +1,0 @@
-text:Mama je prišla zraven in sedla k <w1> Alice </w1> . Nežno je gladila <w2> njene </w2> lase in pustila deklico jokati.
-idx:317
-label:True

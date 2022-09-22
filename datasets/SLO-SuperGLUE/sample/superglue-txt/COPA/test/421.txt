@@ -1,5 +1,0 @@
-choice1:Kolcnil sem.
-choice2:Kihnil sem.
-idx:421
-premise:Na podstrešju sem vdihnil prah.
-question:effect

@@ -1,3 +1,0 @@
-hypothesis:D Baza je bolj prilagodljiva
-idx:153
-premise:B: To zlahka razumem. Imel sem predmet o, em, R Bazi in tudi o Paradoxu A: A-ha. B: in izgleda, da je oba zelo lahko primerjati z D Bazo. A: A-ha. Misliš, da je D Baza bolj prilagodljiva ali da ti dovoli početi več.

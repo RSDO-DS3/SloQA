@@ -1,5 +1,0 @@
-choice1:Prosil sem za nasvet.
-choice2:Našel sem rešitev.
-idx:496
-premise:Skrbno sem premislil problem.
-question:effect

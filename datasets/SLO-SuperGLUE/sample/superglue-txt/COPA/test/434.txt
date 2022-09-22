@@ -1,5 +1,0 @@
-choice1:Sprožil se je tsunami.
-choice2:Padala je toča.
-idx:434
-premise:V morju je pristal meteorit.
-question:effect

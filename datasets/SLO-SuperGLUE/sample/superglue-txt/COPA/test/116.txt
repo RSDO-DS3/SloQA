@@ -1,5 +1,0 @@
-﻿choice1:Voda je zavrela.
-choice2:Pokril sem posodo.
-idx:116
-premise:Iz posode vode se je dvigala para.
-question:cause

@@ -1,4 +1,0 @@
-hypothesis:ljudem bi morali dovoliti, da imajo pištole v svojih vozilih
-idx:137
-label:contradiction
-premise:A: Ja, to je noro. B: in ko prideš sem, v okoliš Dallasa, em, mislim, da ljudem ne bi smeli dovoliti, da imajo pištole v svojih vozilih.

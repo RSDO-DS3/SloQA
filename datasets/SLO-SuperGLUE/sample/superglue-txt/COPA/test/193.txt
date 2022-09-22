@@ -1,5 +1,0 @@
-choice1:Celo noč je bila pokonci.
-choice2:Sina je poslala spat.
-idx:193
-premise:Ženska je imela podočnjake.
-question:cause

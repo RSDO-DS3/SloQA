@@ -1,5 +1,0 @@
-choice1:V njegove oči je prišel prah.
-choice2:Oči je pokril z zaščitnimi očali.
-idx:24
-premise:Zasolzile so se mu oči.
-question:cause

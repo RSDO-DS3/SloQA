@@ -1,5 +1,0 @@
-choice1:Njeni znanci so izrazili nejevero.
-choice2:Njeni znanci so jo razumeli.
-idx:450
-premise:Ženska je trdila, da je videla duha.
-question:effect

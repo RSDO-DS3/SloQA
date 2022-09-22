@@ -1,4 +1,0 @@
-hypothesis:listina je šla v Lockheed
-idx:217
-label:entailment
-premise:A: videl sem, da je Seven Eleven zaposloval. B: Preprièan sem, da z novo, uh, nagrajeno listino, ki je šla v Lockheed,

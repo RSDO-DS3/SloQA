@@ -1,4 +1,0 @@
-hypothesis:poklicali ga bodo
-idx:204
-label:contradiction
-premise:A: Kako je radio Shack delal? B: Èe greš in karkoli kupiš, želijo tvojo telefonsko. In ne mislim, da me bodo poklicali in me vprašali, kako gre

@@ -1,4 +1,0 @@
-hypothesis: dandanes so drugi bolj ali manj primerljivi
-idx:218
-label:neutral
-premise:B: in oba sta videti zelo enostavna za uporabo v primerjavi z D Base. O: Aha. Ali menite, da je D Base bolj prilagodljiv ali vam omogoèa veè? Ali pa mislite, da so dandanes drugi bolj ali manj primerljivi?

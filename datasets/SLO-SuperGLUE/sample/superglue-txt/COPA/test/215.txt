@@ -1,5 +1,0 @@
-choice1:Splezal je po lestvi.
-choice2:Padel je z lestve.
-idx:215
-premise:Mož je izgubil ravnotežje na lestvi.
-question:effect

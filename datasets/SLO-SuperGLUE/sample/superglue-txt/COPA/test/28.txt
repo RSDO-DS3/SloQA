@@ -1,5 +1,0 @@
-choice1:Dal sem jo v mikrovalovno pečico.
-choice2:Pokril sem jo s plastično folijo.
-idx:28
-premise:Zmrznjena hrana se je odtajala.
-question:cause

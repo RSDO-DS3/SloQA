@@ -1,5 +1,0 @@
-choice1:V hiši je bil požar.
-choice2:Hiša je bila prazna.
-idx:199
-premise:Spalnico sem zapustil skozi okno.
-question:cause

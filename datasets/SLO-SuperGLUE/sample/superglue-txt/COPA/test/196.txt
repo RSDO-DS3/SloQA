@@ -1,5 +1,0 @@
-choice1:Dovolila mi je zapeljati skozi cestninsko postajo.
-choice2:Zadržala me je pri cestninski postaji.
-idx:196
-premise:Plačal sem cestninarici v cestninski postaji.
-question:effect

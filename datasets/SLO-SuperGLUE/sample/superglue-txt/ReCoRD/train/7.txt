@@ -1,7 +1,0 @@
-passage.text:Način, na katerega uporabljate <e.0>Facebook</e.0> in <q.0.a.0>Twitter</q.0.a.0> zrcali, do katere mere ste narcisoidni, je razkrila najnovejša univerzitetna študija. Raziskava, ki so jo izvedli na <e.2>univerzi v Michiganu</e.2> je analizirala, kako socialni mediji odražajo vedno bolj prisotno kulturo narcisizma v <e.3>ZDA</e.3> . Znanstveniki so ugotovili, da narcisoidne osebe srednjih let bolj pogosto objavljajo nove <e.4>Facebook</e.4> statuse, medtem ko so mlajši narcisi svojo nečimrnost potešijo na platformi <q.0.a.1>Twitter</q.0.a.1> . Tako nečimrni: Odrasle narcisoidne osebe odobravanje svojih sovrstnikov, ki okrepi njihov ego, bolj pogosto iščejo na <e.6>Facebooku</e.6> , je pokazala nova raziskava <e.7>Elliot Panek</e.7>, eden od treh avtorjev raziskave, pravi, da ljudje srednjih let uporabljajo <e.8>Facebook</e.8> , ker pri svojih sovrstnikih iščejo potrditev svoje samopodobe, medtem ko imajo študentje raje <q.0.a.2>Twitter</q.0.a.2> , saj precenjujejo svoje mnenje. @highlight Nova raziskava preučevala povezavo med socialnimi mediji in narcisizmom @highlight Odkrila je, da si bodo mlajši uporabniki svoj ego bolj verjetno okrepili na <q.0.a.3>Twitterju</q.0.a.3> @highlight Starejši uporabniki pa bodo potrditev svojih prijateljev poiskali na <e.11>Facebooku</e.11>
-qas.0.answers.0.text:Twitter
-qas.0.answers.1.text:Twitter
-qas.0.answers.2.text:Twitter
-qas.0.answers.3.text:Twitterju
-qas.0.query:Raziskava kaže, da je @placeholder megafon za mlajše uporabnike spleta.
-idx:7

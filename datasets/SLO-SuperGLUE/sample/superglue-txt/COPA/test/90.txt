@@ -1,5 +1,0 @@
-choice1:Želela se je naučiti risati.
-choice2:Želela je vedeti več o drugih kulturah.
-idx:90
-premise:Ženska je potovala v tujino.
-question:cause

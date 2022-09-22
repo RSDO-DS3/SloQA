@@ -1,5 +1,0 @@
-choice1:Avtomat je izpljunil drobiž.
-choice2:Vrečka čipsa se je zataknila.
-idx:265
-premise:Deček je brcnil prodajni avtomat.
-question:cause

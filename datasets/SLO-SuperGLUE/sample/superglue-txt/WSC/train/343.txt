@@ -1,3 +1,0 @@
-text:<w1> Adam </w1> ne more oditi z dela, dokler ne pride Bob in ga nadomesti. Ko bi Bob odšel od doma pravočasno, bi ob tej uri že <w2> bil </w2> tukaj.
-idx:343
-label:False

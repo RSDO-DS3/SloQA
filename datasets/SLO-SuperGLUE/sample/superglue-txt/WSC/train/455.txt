@@ -1,3 +1,0 @@
-﻿text:<w1> Mark </w1> je zagotovo vedel le eno stvar. Harry je vedel veliko manj, kot je vedel <w2> on </w2> .
-idx:455
-label:True

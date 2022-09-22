@@ -1,5 +1,0 @@
-choice1:Tiskalniku je zmanjkovalo črnila.
-choice2:V tiskalniku ni bilo papirja.
-idx:380
-premise:Dokument je bil natisnjen nečitljivo.
-question:cause

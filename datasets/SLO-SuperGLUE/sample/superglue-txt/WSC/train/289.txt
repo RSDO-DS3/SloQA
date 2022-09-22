@@ -1,3 +1,0 @@
-﻿text:<w1> Bidon vode </w1> sem vzel ven iz nahrbtnika, tako da je <w2> bil </w2> pri roki.
-idx:289
-label:True

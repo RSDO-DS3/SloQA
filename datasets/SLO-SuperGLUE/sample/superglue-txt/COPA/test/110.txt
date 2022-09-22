@@ -1,5 +1,0 @@
-﻿choice1:Poklical sem jo nazaj.
-choice2:Dobila sva se na večerji.
-idx:110
-premise:Preslišal sem dekletov klic.
-question:effect

@@ -1,5 +1,0 @@
-choice1:Voda je pogasila mojo žejo.
-choice2:Kozarec se je napolnil.
-idx:16
-premise:V kozarec sem nalil vodo.
-question:effect

@@ -1,3 +1,0 @@
-hypothesis:prikazovati bi ga morali v najbolj gledanem terminu
-idx:178
-premise:B: Želim si, da bi dali te, to pravim, si dolgo ostal buden, da si gledal Rdečega škrata. Na sporedu je bil po nadaljevanki Doctor Who ob sobotah zvečer, vsaj tukaj. A: A-ha. B: In moral bi, seveda jaz- res je bil, ne zdi se mi, da bi ga morali prikozovati v najbolj gledanem terminu,

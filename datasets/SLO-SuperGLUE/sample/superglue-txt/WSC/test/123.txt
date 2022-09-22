@@ -1,2 +1,0 @@
-﻿text:Muriel ima znamenito sliko balerine, ki jo je naslikala <w1> Cecile d'Arblay </w1> in ki visi v <w2> njeni </w2> dnevni sobi.
-idx:123

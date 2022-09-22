@@ -1,5 +1,0 @@
-choice1:Kuhinja je smrdela zaradi smeti.
-choice2:Ponesreči sem vrgel stran nakupovalni seznam.
-idx:423
-premise:Smeti sem nesel ven.
-question:cause

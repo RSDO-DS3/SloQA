@@ -1,5 +1,0 @@
-choice1:Mnogo ljudi je zbolelo.
-choice2:Mnogim ljudem je grozila brezposelnost.
-idx:253
-premise:Državno gospodarstvo je propadalo.
-question:effect

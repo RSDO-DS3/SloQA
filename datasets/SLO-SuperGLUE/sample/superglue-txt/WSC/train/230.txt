@@ -1,3 +1,0 @@
-text:<w1> Starejši študentje </w1> so nadlegovali mlajše, zato smo <w2> jih </w2> kaznovali.
-idx:230
-label:True

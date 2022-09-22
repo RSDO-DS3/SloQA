@@ -1,3 +1,0 @@
-text:Gasilci so prispeli pred <w1> policaji </w1> , saj so <w2> prihajali </w2> od zelo daleč.
-idx:110
-label:True

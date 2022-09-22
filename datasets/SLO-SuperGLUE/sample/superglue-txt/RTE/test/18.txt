@@ -1,3 +1,0 @@
-﻿hypothesis:JD Edwards je v lasti PeopleSoft.
-idx:18
-premise:Tri dni za tem, ko je junija 2003 PeopleSoft kupil JD Edwards, je Oracle objavil svojo ponudbo za PeopleSoft.

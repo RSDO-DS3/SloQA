@@ -1,5 +1,0 @@
-choice1:Sanjaril sem.
-choice2:Bilo mi je slabo.
-idx:379
-premise:Izgubil sem občutek za čas.
-question:cause

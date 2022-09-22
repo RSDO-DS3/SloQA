@@ -1,3 +1,0 @@
-text:<w1> Ann </w1> je Mary vprašala, kdaj se zapre knjižnica, ker je <w2> pozabila </w2> .
-idx:284
-label:True

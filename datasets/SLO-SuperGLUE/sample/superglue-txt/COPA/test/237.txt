@@ -1,5 +1,0 @@
-choice1:Kava je imela močan vonj.
-choice2:Kava je bila sladka.
-idx:237
-premise:V kavo sem dodal sladkor.
-question:effect

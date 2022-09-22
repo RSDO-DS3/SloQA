@@ -1,5 +1,0 @@
-choice1:Garaža je bila odprta.
-choice2:Garaža je bila polna.
-idx:376
-premise:Parkiral sem na dovozu.
-question:cause

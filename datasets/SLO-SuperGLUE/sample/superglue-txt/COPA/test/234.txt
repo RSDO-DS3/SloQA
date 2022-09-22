@@ -1,5 +1,0 @@
-choice1:Njegove ocene so se izboljšale.
-choice2:Goljufal je pri izpitu.
-idx:234
-premise:Učenec je imel dodatne ure.
-question:effect

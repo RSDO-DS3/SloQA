@@ -1,5 +1,0 @@
-choice1:Država je zapustila ozemlje.
-choice2:Država je kolonizirala ozemlje.
-idx:438
-premise:Država je odkrila novo ozemlje.
-question:effect

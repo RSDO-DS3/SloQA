@@ -1,3 +1,0 @@
-﻿text:Ko bi <w1> goljufu </w1> uspelo preslepiti Sama, bi <w2> dobil </w2> veliko denarja.
-idx:26
-label:True

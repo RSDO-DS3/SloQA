@@ -1,4 +1,0 @@
-hypothesis:to se še počne kjerkoli
-idx:174
-label:contradiction
-premise:B: Mislim, da v n-, in bi to bilo odvisno od okoliščin in do mere zlorabe in če je bila na voljo kakšna druga alternativa. A: A-ha.  A-ha.  Hm.  A-ha. Veš, sedaj, sprašujem se kaj si misliš o tem in, em, na žalost tega ne moreva narediti, ampak, em, bilo je že dolgo časa nazaj, mislim, da v Bibličnih časih, ko so imeli kazen, da če je nekdo nekaj naredil, na primer tvoji družini, potem si mu imel pravico dati kazen. Torej, če je nekdo ubil nekoga iz tvoje družine, potem, em če so tega človeka ujeli in spoznali za krivega, si imel pravico, da ga, em, usmrtiš. In vem, da, em, če bi kdo naredil kaj moji družini, bi mislil, da imam pravico, da se jim maščujem, em, ampak mislim, da se tega nikjer več ne počne.

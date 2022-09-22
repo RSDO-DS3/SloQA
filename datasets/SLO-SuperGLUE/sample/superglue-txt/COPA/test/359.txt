@@ -1,5 +1,0 @@
-choice1:Prijatelj mi je odpustil.
-choice2:Prijatelj je bil besen.
-idx:359
-premise:Opravičil sem se prijatelju.
-question:effect

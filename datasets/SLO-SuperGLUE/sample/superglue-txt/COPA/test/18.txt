@@ -1,5 +1,0 @@
-choice1:Počutil sem se krivo.
-choice2:Podal sem tožbo.
-idx:18
-premise:Nesrečo sem zakrivil jaz.
-question:effect

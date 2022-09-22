@@ -1,4 +1,0 @@
-hypothesis:Carter je bil izloèen iz glasovanja
-idx:215
-label:entailment
-premise:A: Tudi jaz sem mislil, da je Carter dober, in to je bilo, ja, B: Ali ste? Vedno mi je bil všeè, takrat se mi je zdel odlièen in enostavno nisem mogel preboleti dejstva, da ga je Reagan premagal. veste, da preprosto nisem mogel verjeti, da je bil izloèen iz glasovanja .

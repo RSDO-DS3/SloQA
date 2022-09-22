@@ -1,4 +1,0 @@
-hypothesis:bilo je predolgo
-idx:147
-label:contradiction
-premise:B: Ne bi bil presenečen. A: Veš, ker jih nočejo poslati v vrtec. B: Dvomim, da bi rekli, da je bilo predolgo.

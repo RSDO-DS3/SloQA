@@ -1,5 +1,0 @@
-choice1:Pacifisti so priredili protest.
-choice2:Pacifisti so imeli parado.
-idx:210
-premise:Skokovito je naraslo število civilistov umrlih v vojni.
-question:effect

@@ -1,5 +1,0 @@
-choice1:Odšel je domov.
-choice2:Grozil je, da bo pustil službo.
-idx:392
-premise:Uslužbenčevega turnusa je bilo konec.
-question:effect

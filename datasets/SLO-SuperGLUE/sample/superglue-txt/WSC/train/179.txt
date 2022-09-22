@@ -1,3 +1,0 @@
-text:<w1> Lily </w1> je pretrgala <w2> svojo </w2> tišino in govorila z Donno.
-idx:179
-label:True

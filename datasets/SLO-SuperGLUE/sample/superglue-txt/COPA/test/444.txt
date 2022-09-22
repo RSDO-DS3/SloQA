@@ -1,5 +1,0 @@
-choice1:V njegovi družini je bila dedna duševna bolezen .
-choice2:Diagnosticirali so mu depresijo.
-idx:444
-premise:Mož je odšel na terapijo.
-question:cause

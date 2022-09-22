@@ -1,4 +1,0 @@
-hypothesis:znak brez nagovarjanja bi ustavil ljudi
-idx:42
-label:contradiction
-premise:A: Zdaj k delu, ko ste rekli, da stanovanjsko naselje postavlja table, na katerih piše brez nagovarjanja, šel sem celo tako daleè, da sem to postavil, na sprednji strani hiše imam vrata in sem postavil, ne vem, kako bolj jasno je lahko, to je rdeè znak s srebrnimi èrkami, kjer piše ni nagovarjanja. Mislim, da bi moral narediti še enega, ki bi rekel religiozno ali kako drugaèe, ker še vedno dobim, B: Ja, ja, res je, ja. Ne, nisem šel tako daleè, ampak, uh, ja, verjetno bi lahko storil isto, vem, nimam vrat, vendar sem preprièan, da bi lahko kaj namestil. Ali veste, mislim, da to ljudi ne bi ustavilo.

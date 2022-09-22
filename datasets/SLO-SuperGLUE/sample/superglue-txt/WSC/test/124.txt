@@ -1,2 +1,0 @@
-text:<w1> Muriel </w1> ima v dnevni sobi znamenito sliko Cecile d'Arblay, ki prikazuje balerino, ki si obuva <w2> svoj </w2> čevelj.
-idx:124

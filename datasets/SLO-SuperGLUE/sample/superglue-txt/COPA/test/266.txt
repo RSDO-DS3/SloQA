@@ -1,5 +1,0 @@
-choice1:Zavil sem mu z očmi.
-choice2:Objel sem ga.
-idx:266
-premise:Umrl je prijateljev pes.
-question:effect

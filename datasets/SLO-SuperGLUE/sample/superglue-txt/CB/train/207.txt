@@ -1,4 +1,0 @@
-hypothesis:šli so tako daleè
-idx:207
-label:contradiction
-premise:B: B: veš, vèasih bi šel èez, ampak veš, to me ne bi tako zadelo, ker sem to vedel, uh, to bi prièakoval. A: Prav. Prav. To je dobro. Mislim, da nismo šli tako daleè, da bi plaèali vnaprej, preden ga porabimo,

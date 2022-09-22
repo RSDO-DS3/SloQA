@@ -1,3 +1,0 @@
-hypothesis:te premije niso zavarovane, èe institucija, ki je izdala CDje, propade
-idx:225
-premise:Veèina CD-jev brez kuponov so stari od šest do devet let in se po teh starosti obièajno podvojijo v vrednosti. Toda vlagatelji, ki so kupili CD-je brez kuponov na drugem trgu, niso edini, ki bodo morda preseneèeni, ko bodo izvedeli, da celoten znesek njihovih naložb ni zavarovan. Ljudje, ki so plaèali premijo za standardne CD-je, kupljene na drugem trgu, bi lahko tudi ugotovili, da te premije niso zavarovane, èe institucije, ki so izdale CD-je, propadejo.

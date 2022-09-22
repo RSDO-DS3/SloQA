@@ -1,5 +1,0 @@
-choice1:Nanj so vplivali ekstremisti.
-choice2:Ekstremisti so ga usmrtili.
-idx:314
-premise:Vodja je spodbudil nasprotovanje ekstremistov v deželi.
-question:effect

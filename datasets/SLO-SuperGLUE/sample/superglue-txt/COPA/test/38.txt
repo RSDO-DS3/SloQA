@@ -1,5 +1,0 @@
-choice1:Nožica od kavča se je zamajala.
-choice2:Podrsala je koleno.
-idx:38
-premise:Ženska se je udarila ob kavč.
-question:effect

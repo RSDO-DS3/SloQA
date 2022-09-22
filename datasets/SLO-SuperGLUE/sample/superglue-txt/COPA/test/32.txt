@@ -1,5 +1,0 @@
-choice1:Ljudje so se mu izogibali.
-choice2:Ljudje so mu dajali komplimente.
-idx:32
-premise:Mož je shujšal.
-question:effect

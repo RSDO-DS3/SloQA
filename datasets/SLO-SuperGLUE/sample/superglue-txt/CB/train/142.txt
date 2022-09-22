@@ -1,4 +1,0 @@
-hypothesis:videla je Mali voz
-idx:142
-label:contradiction
-premise:A: torej, res je lepo pobegniti. Res je neverjetno, koliko zamudiš. B: Ja, res, Ja, res, ja res je. Mislim, zdi se mi, da nikoli ne vidim Malega voza.

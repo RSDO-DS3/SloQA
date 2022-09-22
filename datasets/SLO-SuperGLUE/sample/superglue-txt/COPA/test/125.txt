@@ -1,5 +1,0 @@
-choice1:Nevihta je postala hujša.
-choice2:Hitel sem nazaj noter.
-idx:125
-premise:Dež je lil kot iz škafa.
-question:effect

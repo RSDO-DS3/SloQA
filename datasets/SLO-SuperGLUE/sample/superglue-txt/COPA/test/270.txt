@@ -1,5 +1,0 @@
-choice1:Šla je v knjižnico.
-choice2:Gledala je zvezde.
-idx:270
-premise:Dekle je želelo vedeti več o sončevem sistemu. 
-question:effect

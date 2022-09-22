@@ -1,5 +1,0 @@
-choice1:Njena lasulja se je snela.
-choice2:Postala je plešasta.
-idx:291
-premise:Povlekel sem za sleparkine lase.
-question:effect

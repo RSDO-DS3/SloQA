@@ -1,5 +1,0 @@
-choice1:Dal jo je v kemijsko čistilnico.
-choice2:Obesil jo je v omaro.
-idx:208
-premise:Mož je umazal svojo obleko.
-question:effect

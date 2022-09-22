@@ -1,5 +1,0 @@
-﻿choice1:Zdrsnila je.
-choice2:Tresla se je.
-idx:192
-premise:Punca je stopila na led.
-question:effect

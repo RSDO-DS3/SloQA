@@ -1,5 +1,0 @@
-choice1:Varčno je ravnal s svojim zaslužkom.
-choice2:Zaslužil je manj kot minimalno plačo.
-idx:300
-premise:Njegova družina je živela v revščini.
-question:cause

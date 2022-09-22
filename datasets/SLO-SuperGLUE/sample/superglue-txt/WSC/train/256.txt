@@ -1,3 +1,0 @@
-text:<w1> Riba </w1> je pojedla glisto. <w2> Bila </w2> je lačna.
-idx:256
-label:True

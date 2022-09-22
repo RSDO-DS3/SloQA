@@ -1,5 +1,0 @@
-﻿choice1:Snel je klobuk.
-choice2:Zunaj je pihal veter.
-idx:258
-premise:Odpihnilo mu je klobuk.
-question:cause

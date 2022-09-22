@@ -1,5 +1,0 @@
-﻿choice1:Vreme je bilo hladno.
-choice2:Stiska me v prsih.
-idx:112
-premise:Ko sem izdihnil, sem videl svoj dih.
-question:cause

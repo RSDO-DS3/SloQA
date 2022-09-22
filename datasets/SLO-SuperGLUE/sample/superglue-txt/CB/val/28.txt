@@ -1,4 +1,0 @@
-hypothesis:videl jih je državno v košarki
-idx:28
-label:contradiction
-premise:B: Nikoli jih ne vidiš na državni košarki. A: Veste, to je res. Mislim, da jih še nikoli nisem videl državno v košarki

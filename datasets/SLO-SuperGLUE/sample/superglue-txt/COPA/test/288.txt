@@ -1,5 +1,0 @@
-choice1:Kmalu jo je bilo potrebno vrniti v knjižnico.
-choice2:Sposodil si jo je od prijatelja.
-idx:288
-premise:Študent je hitel prebrati knjigo.
-question:cause

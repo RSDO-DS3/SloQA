@@ -1,3 +1,0 @@
-hypothesis:Indijski Urad za meteorologijo deluje v Indoneziji. 
-idx:15
-premise:Epicenter obeh popotresnih sunkov je bil v bližini Nikobarskih otokov, na jugu arhipelaga, ki leži v bližini Indonezije, je poročal indijski Urad za meteorologijo. 

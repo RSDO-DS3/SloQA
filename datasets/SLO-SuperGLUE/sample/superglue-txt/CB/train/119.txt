@@ -1,4 +1,0 @@
-hypothesis:temo je obkljukal na seznamu
-idx:119
-label:contradiction
-premise:A: No, kaj misliš o migracijski politiki? B: Trenutno mislim, da je malo preveč omejujoča. Hm, še posebej za, hm, nekatere etnične skupine iz določenih držav. Mislim, da bi morali dovoliti več priseljevanja iz vzhodne Evrope, na primer, em, še posebej, em, em, Judom, em, iz Rusije. Mislim, da bi lahko večim dovolili, kot smo jim v zadnjih, em, nekaj letih. In, mislim, da imamo, em, em, preveč omejitev, em, pri ljudeh iz Bližnjega vzhoda, ampak, seveda, to je samo moje mnenje. A: Ja, no, nisem zares prepričan, zakaj sem dobil to temo, ker mislim, da je nisem obkljukal na seznamu, ker vem zelo malo o trenutni migracijski politiki.

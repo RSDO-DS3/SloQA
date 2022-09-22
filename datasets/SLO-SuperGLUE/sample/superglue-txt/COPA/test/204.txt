@@ -1,5 +1,0 @@
-choice1:Zmagali so.
-choice2: Izpadli so.
-idx:204
-premise:Moštvo je priredilo tekmo sebi v prid.
-question:effect

@@ -1,4 +1,0 @@
-hypothesis:predal bo svojo lastnino nekaj barabam
-idx:44
-label:contradiction
-premise:In zamerim to, kar se je zgodilo mojemu stanovanju. Nekaj tipov misli, da lahko zavzamejo položaj in me počakajo, drgnejo svoje umazane prste ob mojo obleko, ščijejo v moji kopalnici, jaz pa moram to ignorirati. Vem kaj sem rekel o tem, da je lastnina kot pijavke, ampak to ne pomeni, da jo bom predal nekaj barabam.

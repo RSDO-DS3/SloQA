@@ -1,4 +1,0 @@
-hypothesis:že imajo na sporedu
-idx:220
-label:entailment
-premise:A: Torej, primerljivi smo. B: Ja. A: Pravzaprav sem pravkar plaèal davek za Richardson, ker živim v Richardsonu in mislim, da sem zelo temeljito izboljšal Robin Hoodsa. B: Ja, mislim, da, že imamo na sporedu, kajne.

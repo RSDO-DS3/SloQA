@@ -1,3 +1,0 @@
-hypothesis:njegov oče je zažgal tiste od sedemindvajsete
-idx:93
-premise:B: Ja, je. A: Na primer, B: Sem zgodovinar in moj oče jih je shranil, mislim da od tisoč devetsto sedemindvajsete, ampak zažgal je tiste od sedemindvajsete do pet-, A: Ojoj. B: Nisem mogel verjeti, da je to storil.

@@ -1,5 +1,0 @@
-choice1:Njegova družina je plačala varščino.
-choice2:Napadel je sojetnika.
-idx:276
-premise:Moškega so izpustili iz ječe.
-question:cause

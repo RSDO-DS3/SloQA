@@ -1,5 +1,0 @@
-choice1:Sledil je pouku.
-choice2:Pozabil se je učiti.
-idx:135
-premise:Fant ni naredil izpita iz zgodovine.
-question:cause

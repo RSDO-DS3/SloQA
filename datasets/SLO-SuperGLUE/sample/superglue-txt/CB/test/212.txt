@@ -1,3 +1,0 @@
-hypothesis:sodnik je lahko objektiven v vsakem primeru
-idx:212
-premise:A: Ok. Uh, ena od stvari, o katerih so razpravljali, je bila, uh, kaj si mislimo o tem, da se sodnik sam odloèi? B: Uh-huh. A: In jaz se res ne strinjam s tem. Mislim, da je sojenje z poroto boljše, uh, boljše je imeti eno anonimno odloèitev, kot pa to, da je en èlovek odgovoren. Ne mislim, da so oni lahko objektivni v vsakem primeru.

@@ -1,5 +1,0 @@
-choice1:Povedal mi je resnico.
-choice2:Imel je sarkastično pripombo.
-idx:255
-premise:Prijatelju sem zavila z očmi.
-question:cause

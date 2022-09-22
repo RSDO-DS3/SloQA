@@ -1,4 +1,0 @@
-hypothesis:uèitelji govorijo
-idx:226
-label:entailment
-premise:A: Ja, je zanimivo, ker, ravno sem govorila glede tega z ene parimi ljudmi vèeraj. In sem izrazila svoje nestrinjanje, da, veliko problemov, delam v srednji šoli, so otroci, ki nimajo samodiscipline, kar se odraža. In, ne moreš prièakovati, da se to spremeni, ko imaš nek predmet z eno uro na dan, teh sedemnajst let vzgoje doma. B: Ja. A: In, še bolj je opazno, ker ko želiš govoriti z starši, jih veliko niti ne prepozna, da je tu nek problem in bodo rekli, oh, kaj, moj otrok, še nikoli nisem slišal, da bi se kaj takega zgodilo. To je prviè, kar je tukaj problem. In, potem se èudiš, ali te starši ne razumejo, da to govorijo uèitelji

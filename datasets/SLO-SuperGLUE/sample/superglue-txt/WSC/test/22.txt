@@ -1,2 +1,0 @@
-text:Prejšnji teden je Jacksonova administracija opustila načrte za zajezitev rasti <w1> aplikacije </w1> za vozniške storitve, medtem pa bo <w2> preučila </w2> vpliv aplikacij za prevoze na promet.
-idx:22

@@ -1,5 +1,0 @@
-choice1:Želela je gledati sončni zahod.
-choice2:Zdelo se ji je, da je videla bliskanje.
-idx:66
-premise:Ženska je sedela zunaj, na verandi.
-question:cause

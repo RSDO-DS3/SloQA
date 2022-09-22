@@ -1,3 +1,0 @@
-text:Miza ne gre skozi <w1> odprtino za vrata </w1> , ker <w2> je </w2> preširoka.
-idx:383
-label:False

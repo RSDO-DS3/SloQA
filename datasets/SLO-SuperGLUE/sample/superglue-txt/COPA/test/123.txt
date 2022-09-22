@@ -1,5 +1,0 @@
-choice1:Pred sodiščem so izbruhnili neredi.
-choice2:Par je izmenjal poročni prisegi pred sodiščem. 
-idx:123
-premise:Sodišče je potrdilo sporno sodbo.
-question:effect

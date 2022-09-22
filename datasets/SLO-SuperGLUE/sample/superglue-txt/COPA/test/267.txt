@@ -1,5 +1,0 @@
-choice1:Napisal mi je zadolžnico.
-choice2:Plačal je z denarjem.
-idx:267
-premise:Poslovneževa kreditna kartica je bila zavrnjena.
-question:effect

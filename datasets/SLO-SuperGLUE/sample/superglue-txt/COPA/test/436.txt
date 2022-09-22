@@ -1,5 +1,0 @@
-choice1:Prižgal sem pečico.
-choice2:Posodo sem dal v pečico.
-idx:436
-premise:Pečica se je segrela.
-question:cause

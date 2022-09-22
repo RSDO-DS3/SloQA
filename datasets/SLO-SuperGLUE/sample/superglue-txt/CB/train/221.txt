@@ -1,4 +1,0 @@
-hypothesis: morali bi porabiti veè
-idx:221
-label:neutral
-premise:A: Vèasih po radiu slišite stvari, ki bi, veste, lahko bile resniène ali ne. B: Aha. A: Uh, ali se vam zdi, da je to, mislim, za raziskave o aidsu letno porabijo kakšno milijardo letno. B: Aha. O: Ali menite, da bi morali porabiti veè?

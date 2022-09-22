@@ -1,5 +1,0 @@
-choice1:Sneg sem oblikoval v kepo.
-choice2:Sneg sem skidal s poti.
-idx:77
-premise:Sneg je prekrival dovoz.
-question:effect

@@ -1,5 +1,0 @@
-﻿choice1:Pozvonilo je pri vratih.
-choice2:Zavese so zatrepetale.
-idx:177
-premise:Skozi odprto okno je zapihal veter.
-question:effect

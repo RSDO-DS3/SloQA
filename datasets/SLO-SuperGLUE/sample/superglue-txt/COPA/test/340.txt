@@ -1,5 +1,0 @@
-choice1:V kleti je našel podgane.
-choice2:V sobi je imel farmo mravelj.
-idx:340
-premise:Lastnik je zahteval, da pride v hišo deratizator.
-question:cause

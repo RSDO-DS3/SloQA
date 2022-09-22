@@ -1,4 +1,0 @@
-hypothesis:Berenice grozi izguba otroka
-idx:38
-label:entailment
-premise:Sovražila je misel na njegovo sestro, ki leži v bolnišnici in èaka, da njen mož pride k njej, medtem ko je bil ves èas z Dano. Moèno se je prijela za roke. Dana ni vedela, da Berenice grozi izguba otroka.

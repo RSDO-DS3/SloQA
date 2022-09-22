@@ -1,5 +1,0 @@
-choice1:Ostanek je dal v hladilnik.
-choice2:Shranil je recept.
-idx:489
-premise:Moški je pojedel pol predjedi.
-question:effect

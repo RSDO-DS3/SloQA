@@ -1,4 +1,0 @@
-hypothesis:imeli so nekaj težav z recikliranjem plastike
-idx:49
-label:entailment
-premise:A: Ja, hm, mislim da je Plano res dobro opravil svojo nalogo. Mislim, vsaj njihovi plani so dobri. Hm, vseeno pa, bil sem, mogoče si videl v časopisu danes zjutraj, da, em, so imeli nekaj težav z recikliranjem plastike,

@@ -1,4 +1,0 @@
-hypothesis:televizija je precej natanèna.
-idx:224
-label:neutral
-premise:A: Ja. Radio vèasih v resnici nima veliko novic. Postaje, ki jih poslušam, so zgolj glasba. B: Ja, mislim, da moraš poslušati vse novice, da sploh dobiš novice. A: Ja. Se ti zdi, da je televizija, uh, precej natanèna.

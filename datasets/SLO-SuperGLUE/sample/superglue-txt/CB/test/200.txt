@@ -1,3 +1,0 @@
-hypothesis:registracija volilcev je tako težka, da prepreèi ljudem, ki so motivirani
-idx:200
-premise:A: Ljudje se vedno seli-, veš, en od sedmih ljudi se preseli vsako leto. Uh, to je skoraj štirideset procentov zamenjav, veš, B:Uh-huh. A: èe upoštevaš to, uh, eh- eh, da èe se je težko prijaviti na volitve, potem to zmanjša tvojo pravico do voljenja. B: Amapak ne mislim, da je težko prepreèiti ljudem, ki so motivirani ali tistim, ki niso motivirani, da je njihov glas slišan.

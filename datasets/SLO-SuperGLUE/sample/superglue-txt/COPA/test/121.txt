@@ -1,5 +1,0 @@
-choice1:Trgovski pomočnik je videl, da je dekle pospravilo stvari v svojo torbico.
-choice2:Trgovski pomočnik je dekletu pomagal najti torbico, ki mu je bila všeč.
-idx:121
-premise:Trgovski pomočnik je dekle obtožil kraje.
-question:cause

@@ -1,4 +1,0 @@
-hypothesis:to bi smeli poèeti
-idx:196
-label:contradiction
-premise:B: In nato za deset let gredo, nato pa z nekaterega tehniènega vidika pridejo ven na ulice in spet naredijo enako kot prej. A: Aha. B: In veste, to je edino. Tako kot pri tatvinah ali podobnih stvareh ali umoru, veste, mislim, da tega ne bi smeli poèeti.

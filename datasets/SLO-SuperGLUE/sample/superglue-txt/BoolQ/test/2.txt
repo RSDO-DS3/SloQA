@@ -1,3 +1,0 @@
-idx:2
-passage:Gož pihavec – Gož pihavec je močan udav, ki se prehranjuje z majhnimi sesalci, kot so miši, krti, podgane, goferji, talne veverice in zajci, prežijo pa tudi na ptice, ki gnezdijo na tleh, ptičja jajca in kuščarje. Dobra sposobnost plezanja jim omogoča ropanje ptičjih gnezd (in ptičjih hišic), da pojejo  goliče ali njihove mame. Ena kača lahko v 15 minutah poje pet majhnih ptic. Mladiči goži pihavci se prehranjujejo z majhnimi kuščarji, žabami in mišjimi mladiči.
-question:Ali lahko gož pihavec ubije majhnega psa?

@@ -1,5 +1,0 @@
-choice1:Ogenj je počasi ugasnil.
-choice2:Vžigalica je zaplamtela.
-idx:431
-premise:Prižgal sem vžigalico.
-question:effect

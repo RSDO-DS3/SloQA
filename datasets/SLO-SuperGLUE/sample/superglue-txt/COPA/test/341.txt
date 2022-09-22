@@ -1,5 +1,0 @@
-choice1:Preveč sem bil utrujen, da bi karkoli pripravil.
-choice2:Moja gostja je predolgo ostala na obisku.
-idx:341
-premise:Gostji sem predlagal, da greva ven na večerjo.
-question:cause

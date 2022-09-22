@@ -1,5 +1,0 @@
-choice1:Jedel sem piškote.
-choice2:Pekel sem kruh.
-idx:172
-premise:Hrepenel sem po kozarcu mleka.
-question:cause

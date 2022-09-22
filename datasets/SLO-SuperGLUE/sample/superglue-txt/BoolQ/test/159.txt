@@ -1,3 +1,0 @@
-idx:159
-passage:Čedno dekle -- Čedno dekle je ameriška romantična komedija iz leta 1990, ki jo je režiral Garry Marshall po scenariju, ki ga je napisal J. F. Lawton. Glavni vlogi v filmu igrata Richard Gere in Julia Roberts, stranske vloge pa Hector Elizondo, Ralph Bellamy (to je njegova zadnja vloga), Laura San Giacomo in Jason Alexander. Zgodba govori o hollywoodski prostitutki Vivian Ward, ki jo zapusti sreča. Edward Lewis, bogat podjetnik, jo najame, da bi bila njegova spremljevalka na nekaj poslovnih in družabnih dogodkih, ter na njunem razvijajočem se razmerju v teku enega tedna, ko ona ostane pri njem.
-question:Ali film Čedno dekle temelj na knjigi?

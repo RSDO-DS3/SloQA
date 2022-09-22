@@ -1,5 +1,0 @@
-choice1:Iskal sem drobiž.
-choice2:Prestavljal sem pohištvo v dnevni sobi.
-idx:408
-premise:Dvignil sem blazine na kavču.
-question:cause

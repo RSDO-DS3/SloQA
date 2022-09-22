@@ -1,3 +1,0 @@
-idx:8
-passage:Oceanovih 8 – Oceanovih 8 (na zaslonu stilizirano kot Oceanovih osem) je ameriški komični roparski film iz leta 2018, ki ga je režiral Gary Ross, napisala pa sta ga Ross in Olivia Milch. Film je hkrati nadaljevanje in izpeljanka trilogije Oceanovih režiserja Stevena Soderbergha, igralsko zasedbo pa sestavljajo igralke Sandra Bullock, Cate Blanchett, Anne Hathaway, Mindy Kaling, Sarah Paulson, Rihanna, Helena Bonham Carter in Awkwafina. Film govori o skupini žensk, ki jo vodi Debbie Ocean, sestra Dannyja Oceana, ki načrtuje prefinjen rop na vsakoletni prireditvi Met Gala v New Yorku.
-Question:Ali film Oceanovih 8 temelji na resničnih dogodkih?

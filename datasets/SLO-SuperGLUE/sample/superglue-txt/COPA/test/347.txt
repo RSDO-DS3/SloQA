@@ -1,5 +1,0 @@
-choice1:Moj sovražnik se mi je rogal.
-choice2:Moj sovražnik je stisnil pest.
-idx:347
-premise:Zakril sem si obraz.
-question:cause

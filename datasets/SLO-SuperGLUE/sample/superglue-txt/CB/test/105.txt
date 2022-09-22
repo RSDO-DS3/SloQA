@@ -1,3 +1,0 @@
-﻿hypothesis:lahko bi ji šlo veliko bolje, kot ji je šlo v šolskem sistemu, v katerem je bila
-idx:105
-premise:B: Ko primerjaš ljudi, ki bi lahko poslali svoje otroke v privatne šole in, saj veš, ljudi, ki dejansko so poslali svoje otroke v privatne šole. A: Da. B: Mislim, da so si dokaj podobni. A: Ja. Ja. Hočem reči, iskreno mislim, da mi ne bi moglo iti veliko bolje, kot mi je šlo v šolskem sistemu, v katerem sem bila.

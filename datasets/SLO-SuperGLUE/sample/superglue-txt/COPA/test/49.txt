@@ -1,5 +1,0 @@
-choice1:Ljudje so mu dali drobiž.
-choice2:Odgnal je množico.
-idx:49
-premise:Okoli pouličnega glasbenika se je zbrala množica.
-question:effect

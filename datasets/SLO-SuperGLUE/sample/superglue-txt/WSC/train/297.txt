@@ -1,3 +1,0 @@
-text:Šli smo na jezero, ker so na <w1> morski obali </w1> videli morskega psa, zato je bilo <w2> tam </w2> nevarno plavati.
-idx:297
-label:True

@@ -1,5 +1,0 @@
-choice1:Srečala je prijatelja iz otroštva.
-choice2:Vpila je na svoje otroke.
-idx:371
-premise:Ženska se je počutila nostalgično.
-question:cause

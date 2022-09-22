@@ -1,4 +1,0 @@
-hypothesis:menjavanje sem in tja je velika stvar
-idx:168
-label:contradiction
-premise:A: Morajo, za mednarodno prodajo. B: Ja. A: Ampak mislim, da je sedaj lažje menjavanje sem in tja, kot je nekoč bilo, em, zaradi, em, računalnikov, ki prihajajo povsod. B: A-ha. Ja, Mislim, da menjavanje sem in tja ni več tako velika stvar.

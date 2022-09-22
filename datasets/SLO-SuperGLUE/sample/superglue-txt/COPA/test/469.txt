@@ -1,5 +1,0 @@
-choice1:Popil sem vso vodo, ki je bila v njej.
-choice2:Imel sem jo v hladilniku.
-idx:469
-premise:Ponovno sem napolnil steklenico z vodo.
-question:cause

@@ -1,2 +1,0 @@
-text:Chameleon Street je živahna komična drama, ki je prirejena po zgodbi goljufov in kot igralce vključi tudi nekaj <w1> ljudi </w1> iz <w2> njihovih </w2> življenj.
-idx:20

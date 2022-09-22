@@ -1,4 +1,0 @@
-hypothesis:delovalo bi za veèino ljudi
-idx:228
-label:contradiction
-premise:B: tako, da je v resnici delal samo en. A: Aha, isto tukaj. Uh huh. B: In, uh, pri meni deluje, vendar ne vidim, da bi to delovalo pri veèini ljudi.

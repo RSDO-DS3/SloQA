@@ -1,5 +1,0 @@
-choice1:Piškote je vzela iz posode.
-choice2:Piškote je pustila v pečici.
-idx:124
-premise:Dekle je zavohalo, da se nekaj žge.
-question:cause

@@ -1,5 +1,0 @@
-choice1:Na limoni je bila plesen.
-choice2:Limona je brizgnila.
-idx:437
-premise:Stisnil sem košček limone.
-question:effect

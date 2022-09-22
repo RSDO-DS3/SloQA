@@ -1,5 +1,0 @@
-choice1:Mama ga je poslala v sobo.
-choice2:Mama je na rano dala obliž.
-idx:326
-premise:Otrok je podrsal koleno.
-question:effect

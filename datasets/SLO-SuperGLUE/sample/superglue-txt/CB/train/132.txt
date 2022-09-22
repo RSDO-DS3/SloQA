@@ -1,4 +1,0 @@
-hypothesis:narejeno je
-idx:132
-label:contradiction
-premise:B: To je res. A: Torej. B: Hm, drug argument je, da je smrtna kazen zastrašujoča in res se, em, ne strinjam s tem. Zdi se mi, da se nebi nihče, ki bi zagrešil, em, zločin, ki bi mu prinesel smrtno obsodbo, v trenutku ustavil in rekel, torej, ravno sem nameraval ubiti in razkosati tega človeka, ampak, oh, če me ujamejo, me bodo ubili, tako da je bolje, če tega ne storim.  Preprosto se mi ne zdi, da stvari tako delujejo. A: Ja.  Ne zdi se mi, da je narejeno.

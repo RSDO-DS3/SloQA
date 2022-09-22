@@ -1,2 +1,0 @@
-text:Večina fantov je imela rada <w1> Johnnyja </w1> ; samo Dave ga je sovražil. Včasih je Dustyja stisnil v kot in mu grobo zašepetal, kako bo s škarjami <w2> izrezal </w2> Johnnyjevo srce.
-idx:110

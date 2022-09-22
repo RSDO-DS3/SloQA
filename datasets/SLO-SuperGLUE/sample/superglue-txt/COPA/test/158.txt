@@ -1,5 +1,0 @@
-choice1:Njen mož je napačno razumel njeno skrb.
-choice2:Njen mož jo je poljubil v slovo.
-idx:158
-premise:Ženska je frustrirano zavzdihnila.
-question:cause

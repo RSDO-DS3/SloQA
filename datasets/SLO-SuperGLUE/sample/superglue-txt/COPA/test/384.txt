@@ -1,5 +1,0 @@
-choice1:Označila je stran.
-choice2:Ponovno je prebrala knjigo.
-idx:384
-premise:Žensko so zmotili sredi branja knjige.
-question:effect

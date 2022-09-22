@@ -1,3 +1,0 @@
-hypothesis:vabilo je bilo posledica tega, da je bil Scarletin oče član kraljeve akademije
-idx:112
-premise:Večkrat se je skliceval na kraljevo vrtno zabavo, ko je bil v dobrem miselnem okvirju. Scarlet se je epizoda še vedno zdela povsem skrivnostna, ker se ni mogla domisliti sploh nobenega razloga zakaj sta bila povabljena. Bilo je skrajno neverjetno, da bi Briaonve izjemne sposobnosti bile opažene pri nadzorniku gospodinjstva in lahko je samo predvidevala, da je bilo vabilo posledica tega, da je bil njen oče član kraljeve akademije.

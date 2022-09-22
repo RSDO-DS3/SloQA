@@ -1,3 +1,0 @@
-text: <w1> Lisice </w1> se ponoči splazijo noter in napadajo kokoši . Moral <w2> jih </w2> bom stražiti.
-idx:459
-label:False

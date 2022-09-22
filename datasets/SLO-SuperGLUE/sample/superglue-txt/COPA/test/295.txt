@@ -1,5 +1,0 @@
-choice1:Zvišal sem jakost.
-choice2:Spisal sem svojo pesem.
-idx:295
-premise:Glasba je bila pretiha, da bi se jo dalo slišati.
-question:effect

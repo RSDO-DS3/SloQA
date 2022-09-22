@@ -1,5 +1,0 @@
-choice1:Zadrgnil sem kavbojke.
-choice2:Spotaknil sem se na pločniku.
-idx:318
-premise:Strgale so se mi kavbojke.
-question:cause

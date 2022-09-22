@@ -1,3 +1,0 @@
-hypothesis:izčrpala sta bejzbol
-idx:92
-premise:A: To je ena razlika. V resnici ni bil zelo drugačen. B: Nisem, vidiš, sploh nisem vedel, da je bil film narejen po knjigi. Zanimivo. In prav dober film je bil. A: No, se ti zdi, da sva izčrpala bejzbol?

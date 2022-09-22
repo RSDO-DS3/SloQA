@@ -1,5 +1,0 @@
-choice1:Bil je poceni.
-choice2:Bil je top.
-idx:140
-premise:Fant je ošilil svinčnik.
-question:cause

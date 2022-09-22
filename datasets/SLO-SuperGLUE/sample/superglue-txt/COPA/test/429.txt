@@ -1,5 +1,0 @@
-﻿choice1:Naredila sem ji torto.
-choice2:Bil je njen rojstni dan.
-idx:429
-premise:Mami sem kupila darilo.
-question:cause

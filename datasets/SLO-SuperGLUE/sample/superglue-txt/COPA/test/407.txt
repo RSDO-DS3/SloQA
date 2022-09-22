@@ -1,5 +1,0 @@
-choice1:Pridružil se je bratovščini.
-choice2:Diplomiral je iz inženirstva.
-idx:407
-premise:Želel je spoznati ostale študente na kampusu kolidža.
-question:effect

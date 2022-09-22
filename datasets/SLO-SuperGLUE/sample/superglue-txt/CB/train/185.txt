@@ -1,4 +1,0 @@
-hypothesis:naèin, kot ona vzame novice, je pravi
-idx:185
-label:contradiction
-premise:B: Mislim, da, uh, mislim, veèino komentatorjev je, recimo velike postaje, pravilnih, je nekako primerno v tem èasu, ker so volitve, ampak, um, zdi se, da meèejo svoja mnenja v to, kako, veš, predstavijo novice. A: Ja. In tudi v volitvah, izberejo, koga bodo volili in koga ne, in potem, èe lahko kandidatu uspe, potem bodo novice, publicirale njegovo ime. B: Ja. A: Jaz mislim, da ta naèin, kot jaz vzamem novice, ni pravi naèin.  

@@ -1,5 +1,0 @@
-choice1:Danes sem se zbudil z bolečimi mišicami.
-choice2:Danes sem se zbudil z vnetim grlom.
-idx:320
-premise:Včeraj sem telovadil v fitnesu.
-question:effect

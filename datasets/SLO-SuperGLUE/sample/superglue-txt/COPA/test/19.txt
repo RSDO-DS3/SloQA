@@ -1,5 +1,0 @@
-choice1:Veriga je bila ovita okoli kolesa.
-choice2:Na verigi se je pretrgal člen.
-idx:19
-premise:Veriga je šla narazen.
-question:cause

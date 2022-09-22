@@ -1,2 +1,0 @@
-text:Ko sem prišel v hišo, mi je gospa Everett, hišna gospodinja, povedala, da je <w1> Hermione </w1> v <w2> njeni </w2> sobi, kjer nadzoruje sobarico pri pripravljanju prtljage.
-idx:45

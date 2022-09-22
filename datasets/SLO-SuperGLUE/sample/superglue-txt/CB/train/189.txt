@@ -1,4 +1,0 @@
-hypothesis:porotnike izobražujejo dovolj, da vedo, kaj se dogaja 
-idx:189
-label:contradiction
-premise:A: Edina stvar, o kateri se vèasih sprašujem, hm, v civilnih zadevah je, uh, ali, še posebej na primer, uh, morda kot zanesljivost izdelkov ali medicinska zloraba, kjer je, hm, neka vrsta zelo tehniène odloèitve, ki jo je treba sprejeti vèasih B: Ja. A: veste, ni samo stvar hm, veste, ali je ta fant pretental tega tipa, ampak gre samo za tolmaèenje pogodbe, ampak je stvar nekako v tem, hm, veste, vèasih vstopiti v zelo tehnièna vprašanja in se sprašujem, èe je sistem ustrezen pri izobraževanju porotnikov o èemer koli, hm, veste, je vprašanje v razpravi. B: Mislim, da jih ne izobražujejo dovolj, da bi zares vedeli, kaj se dogaja.

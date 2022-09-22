@@ -1,4 +1,0 @@
-hypothesis:naslednje leto ga bo moralo skrbeti glede tega 
-idx:121
-label:contradiction
-premise:A: in potem, ko so enkrat izvoljeni, nimajo moči ali oblasti ali pripravljenosti, da bi naredili vse te stvari, ki so jih obljubili, saj veš, pred tem. B: Res. A: Veš, mogoče samo sploh ni bilo možno že na začetku, saj veš, kot stvar brez novih davkov. Saj veš, torej, em, z gospodarstvom, ki gre v smer kamor gre in vse to, je bilo skoraj smešno da bi sploh poskušali to narediti. B: Ja.  Ja. No, mislim, da mu drugo leto ne bo treba skrbeti glede tega.

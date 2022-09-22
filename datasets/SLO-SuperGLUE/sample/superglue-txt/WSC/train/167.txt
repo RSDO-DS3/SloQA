@@ -1,3 +1,0 @@
-text:James je <w1> Roberta </w1> prosil za uslugo, vendar je <w2> zavrnil </w2> .
-idx:167
-label:True

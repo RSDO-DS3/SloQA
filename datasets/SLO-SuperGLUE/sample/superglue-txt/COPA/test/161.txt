@@ -1,5 +1,0 @@
-choice1:Razkril sem mu skrivnost.
-choice2:Objel sem ga.
-idx:161
-premise:Srečal sem starega prijatelja.
-question:effect

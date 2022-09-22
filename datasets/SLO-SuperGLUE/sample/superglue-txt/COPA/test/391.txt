@@ -1,5 +1,0 @@
-choice1:Šole so se zaprle.
-choice2:Ljudje so se skrili pod zemljo.
-idx:391
-premise:V mestu je zapadlo nekaj centimetrov snega.
-question:effect

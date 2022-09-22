@@ -1,3 +1,0 @@
-text:Emma žoge ni podala <w1> Janie </w1> , četudi je <w2> videla, </w2> da je bila ta odprta.
-idx:282
-label:False

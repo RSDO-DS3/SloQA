@@ -1,5 +1,0 @@
-﻿choice1:Voznik je pritisnil na zavoro.
-choice2:Voznik je potrobil.
-idx:457
-premise:Semafor se je spremenil v rumeno.
-question:effect

@@ -1,5 +1,0 @@
-choice1:Tajnica je odšla domov.
-choice2:Dvigalo ni delalo.
-idx:128
-premise:Odvetnica je šla do svoje pisarne po stopnicah.
-question:cause

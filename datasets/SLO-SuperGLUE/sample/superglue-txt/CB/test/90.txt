@@ -1,3 +1,0 @@
-hypothesis:delovna sila bi bila glavna tema
-idx:90
-premise:A: Res mislim, da je. B: Lahko je govoriti o tem. A: No, predstavljam si, da bi bila delovna sila glavna tema.

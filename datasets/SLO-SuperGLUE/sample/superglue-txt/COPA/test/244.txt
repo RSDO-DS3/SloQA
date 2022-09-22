@@ -1,5 +1,0 @@
-choice1:Pručka se je majala pod njim.
-choice2:Po pručki je zlil barvo.
-idx:244
-premise:Mož je na pručki izgubil ravnotežje.
-question:cause

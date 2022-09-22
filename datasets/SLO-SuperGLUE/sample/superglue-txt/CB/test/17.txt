@@ -1,3 +1,0 @@
-hypothesis:Christian ne odobrava kockanja
-idx:17
-premise:``Že imam denar, ki sem ga prihranil iz Gryevih dobičkov.'' Seb ni podkrepil svoje izjave. Ni pozabil, da Christian ne odobrava kockanja.

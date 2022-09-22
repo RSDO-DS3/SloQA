@@ -1,3 +1,0 @@
-﻿text:<w1> Madonna </w1> je odpustila svojo trenerko, ker ni prenesla <w2> njenega </w2> fanta.
-idx:252
-label:False

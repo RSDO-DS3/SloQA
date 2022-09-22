@@ -1,3 +1,0 @@
-hypothesis:v Nemèiji ali Italiji vsakogar usmrtijo
-idx:191
-premise:A: jaz bi, ne vem, sigurno Evropske države, nobena od njih nimajo smrtne kazni in nimajo nobenih problemov z kriminalom. B: Res. A: Ne, res, v Angliji ali v Franciji nikogar ne usmrtijo in ne verjamem, da bi to delali tudi v Nemèiji ali Italiji

@@ -1,4 +1,0 @@
-hypothesis:on in njegova žena imata prav toliko, kot so imeli njegovi starši
-idx:118
-label:contradiction
-premise:B: Ne vem, kako je uspelo mojim staršem. A: Ja. B: Mislim, bilo nas je pet in ne spomnim se, da bi kdaj hotel kaj posebnega. Hm, ampak ne vem kako je uspelo mojemu očetu. Delal je na tovorni liniji in preprosto ni zaslužil takega denarja s petimi otroki. Ampak šlo nam je dobro. Imeli smo hišo in dom in, ampak sedaj z ženo oba delava in ne verjamem, da imava prav toliko kot so imeli moji starši.

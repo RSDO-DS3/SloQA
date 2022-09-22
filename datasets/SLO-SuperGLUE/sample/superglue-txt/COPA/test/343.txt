@@ -1,5 +1,0 @@
-choice1:Delala je nadure.
-choice2:Pustila je službo.
-idx:343
-premise:Ženska ni imela dovolj denarja za najemnino.
-question:effect

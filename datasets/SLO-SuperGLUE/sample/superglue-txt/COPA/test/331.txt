@@ -1,5 +1,0 @@
-﻿choice1:Prepoznala je pacientove simptome.
-choice2:Pacientu je predpisala zdravila.
-idx:331
-premise:Zdravnica je pacientu postavila diagnozo.
-question:cause

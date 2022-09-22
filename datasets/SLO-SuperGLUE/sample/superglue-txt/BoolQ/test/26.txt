@@ -1,3 +1,0 @@
-idx:26
-passage:Trgovci -- Trgovci je ameriška neodvisna črno-bela komedija iz leta 1994, ki jo je napisal, režiral in koproduciral Kevin Smith. Film prikazuje dan v življenju dveh trgovcev in njunih znancev, v glavnih vlogah pa vidimo Briana O'Hallorana kot Danteja Hicksa in Jeffa Andersona kot Randala Gravesa. Trgovci je prvi film v Smithovem izmišljenem svetu View Askewniverse, predstavljenih pa je nekaj likov, ki se pozneje še pojavljajo, zlasti Jay in Tihi Bob, ki ga je odigral Smith sam.
-question:Ali je film Trgovci črno-bel?

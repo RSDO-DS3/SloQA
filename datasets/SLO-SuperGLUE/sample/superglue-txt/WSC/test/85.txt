@@ -1,2 +1,0 @@
-text:Četudi naj bi Dickens pomagal <w1> Collinsu </w1> oblikovati lik Mata Gricea, ta najverjetneje <w2> temelji </w2> na Leatherstockingu iz romanov Jamesa Fenimorja Cooperja.
-idx:85

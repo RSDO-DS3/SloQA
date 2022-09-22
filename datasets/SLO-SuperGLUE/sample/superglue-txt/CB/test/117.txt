@@ -1,3 +1,0 @@
-hypothesis:ponovno bo kupil standardni avto
-idx:117
-premise:B: Nikoli nisem imel česa večjega s svojo Mazdo, a bila je prav tako standardna in sklopka se je obrabila proti koncu, imel sem jo pet let in zadnji dve leti se je zdelo, da se res zlahka obrabi. Zdi se mi, da se je v dveh letih obrabila dvakrat, kar je veliko, ne bi  se smela obrabiti tako pogosto.  A: Na-a. B:  In potem sem kupil drug standardni avto, ko sem kupil Hondo, ampak mislim, da tega ne bom ponovno naredil.

@@ -1,5 +1,0 @@
-choice1:Njegov prijatelj ga je prekinil.
-choice2:Njegov prijatelj mu je prinesel kosilo.
-idx:129
-premise:Moškemu je šel njegov prijatelj na živce.
-question:cause

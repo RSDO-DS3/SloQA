@@ -1,5 +1,0 @@
-choice1:Blato se je prilepilo na njegove čevlje.
-choice2:Blato mu je priletelo v obraz.
-idx:390
-premise:Fant je stopil v blato.
-question:effect

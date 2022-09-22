@@ -1,5 +1,0 @@
-choice1:Sedel je v senci.
-choice2:Šel je na plažo.
-idx:72
-premise:Moški se je namazal s kremo za sončenje.
-question:cause

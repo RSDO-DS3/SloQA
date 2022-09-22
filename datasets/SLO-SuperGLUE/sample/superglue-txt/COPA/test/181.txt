@@ -1,5 +1,0 @@
-choice1:Oče je zamenjal dojenčkovo plenico.
-choice2:Oče je nežno zibal dojenčka.
-idx:181
-premise:Dojenček je zaspal.
-question:cause

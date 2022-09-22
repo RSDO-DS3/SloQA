@@ -1,4 +1,0 @@
-hypothesis:bilo bi preprosto ustvariti hibride v vseh pridelkih.
-idx:240
-label:contradiction
-premise:Robert Erwin, predsednik Biosourcea, je pristop rastlinske genetike oznaèil za "zanimiv" in "nov" ter "komplementarni in ne konkurenèni." "Tam je velik trg, ki je laèen hibridnih semen," je dejal rekel. G. Robinson iz Delta & Pine, pridelovalca semen v mestu Scott, Miss., je dejal, da uspeh Plant Genetic pri ustvarjanju gensko spremenjenih moških steril ne pomeni samodejno, da bi bilo preprosto ustvariti hibride v vseh pridelkih.

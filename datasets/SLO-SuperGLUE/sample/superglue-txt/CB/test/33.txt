@@ -1,3 +1,0 @@
-hypothesis:Gospod Evans je ukradel oporoko
-idx:33
-premise:Nick je zavil navzgor z očmi. ``Torej ni tako slabo.'' Želela si je, da bi mu lahko povedala, da gospod Evans le ni ukradel oporoke, vendar Nick nikoli ni verjel, da jo je, tako da ni imelo smisla.

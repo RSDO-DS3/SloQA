@@ -1,3 +1,0 @@
-hypothesis:Maggie je občutila potrebo po delovanju
-idx:20
-premise:``Neškodljiv je, precej se me boji.'' To je prineslo vidno sprostitev v obnašanju, ki je Maggie zelo presenetila. Ni vedela, da ima to v sebi, ampak občutila je potrebo po delovanju.

@@ -1,5 +1,0 @@
-choice1:Fotografirali so eksponate.
-choice2:Ogledali so si vse eksponate.
-idx:475
-premise:Skupina je zapustila muzej.
-question:cause

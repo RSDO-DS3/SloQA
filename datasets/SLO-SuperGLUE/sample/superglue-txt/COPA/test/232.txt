@@ -1,5 +1,0 @@
-choice1:Spustil sem termometer.
-choice2:Vreme je postalo toplejše.
-idx:232
-premise:Živo srebro v termometru se je dvignilo.
-question:cause

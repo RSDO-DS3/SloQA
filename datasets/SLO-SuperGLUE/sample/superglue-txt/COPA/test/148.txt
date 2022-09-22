@@ -1,5 +1,0 @@
-choice1:Njen šef jo je pohvalil.
-choice2:Njena sodelavka jo je nadomeščala.
-idx:148
-premise:Izostala je z dela in ostala doma.
-question:effect

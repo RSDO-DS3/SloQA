@@ -1,2 +1,0 @@
-text:<w1> Zdravnik </w1> je Paulu, sinu polkovnika Christiana, predpisal šest mesecev podeželskega zraka, enkrat ko bo dovolj <w2> ozdravel </w2> .
-idx:72

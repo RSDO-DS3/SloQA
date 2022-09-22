@@ -1,5 +1,0 @@
-choice1:Poškropil sem se s sprejem proti mrčesu.
-choice2:Stopil sem na žuželko.
-idx:297
-premise:Žuželka je bila pomečkana.
-question:cause

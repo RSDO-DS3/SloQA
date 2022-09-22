@@ -1,5 +1,0 @@
-choice1:Breskev je bila obtolčena.
-choice2:Iz nje se je pocedil sok.
-idx:41
-premise:Ugriznil sem v breskev.
-question:effect

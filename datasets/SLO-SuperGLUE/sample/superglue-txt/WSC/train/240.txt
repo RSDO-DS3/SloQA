@@ -1,3 +1,0 @@
-text:Pete zavida <w1> Martinu </w1> , zato ker <w2> je </w2> zelo uspešen.
-idx:240
-label:True

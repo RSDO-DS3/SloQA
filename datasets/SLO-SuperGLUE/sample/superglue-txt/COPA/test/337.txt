@@ -1,5 +1,0 @@
-choice1:Začel je več telovaditi.
-choice2:Začel se je bolj zgodaj prebujati.
-idx:337
-premise:Moški je nehal kaditi.
-question:effect

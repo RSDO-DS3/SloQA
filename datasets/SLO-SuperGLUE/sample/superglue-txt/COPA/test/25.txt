@@ -1,5 +1,0 @@
-choice1:Njena nasprotnica jo je obtožila prevare.
-choice2:Njeni nasprotnici se je smilila.
-idx:25
-premise:Igralka je zmagala v petih igrah zapored.
-question:effect

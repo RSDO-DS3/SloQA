@@ -1,5 +1,0 @@
-choice1:Spustila je krmilo.
-choice2:Zabila se je v ograjo.
-idx:79
-premise:Dekle je izgubilo nadzor nad kolesom.
-question:effect

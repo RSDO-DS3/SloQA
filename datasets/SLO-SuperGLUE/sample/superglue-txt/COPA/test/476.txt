@@ -1,5 +1,0 @@
-choice1:Prijatelj me je predstavil moškemu.
-choice2:Prijatelj se je postavil zame.
-idx:476
-premise:Moški se je začel prepirati z mano.
-question:effect

@@ -1,5 +1,0 @@
-choice1:Recikliral sem papir.
-choice2:Papir se je pomečkal.
-idx:285
-premise:Preganil sem papir.
-question:effect

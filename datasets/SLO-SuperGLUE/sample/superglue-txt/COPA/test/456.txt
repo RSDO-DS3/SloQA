@@ -1,5 +1,0 @@
-choice1:Moje vnetje se je pozdravilo.
-choice2:Moje vnetje se je razširilo.
-idx:456
-premise:Vzel sem antibiotike.
-question:effect

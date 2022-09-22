@@ -1,5 +1,0 @@
-choice1:Razrešil je uganko.
-choice2:Prosil je za namig.
-idx:472
-premise:Fant ni vedel, kako razvozlati uganko.
-question:effect

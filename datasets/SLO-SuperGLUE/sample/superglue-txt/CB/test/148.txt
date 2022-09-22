@@ -1,3 +1,0 @@
-hypothesis:ne bi bil sojen s strani porote v kateri so njegovi vrstniki
-idx:148
-premise:A: Prav, nočejo nikogar z določenimi izkušnjami ali znanjem o pravnem sistemu. B: Točno tako.  A-ha, točno tako. Hm, A: In nagibajo se, glede na to, da se lahko temu izogne vsak, ki reče, da tega noče delati, mislim, saj veš, skoraj vsak se lahko izogne porotništvu, em, torej, em, niso ravno moji vrstniki, ki, recimo, da bi jaz bil aretiran po krivici ali pa ne in bi bil postavljen pred poroto, zdi se mi da, em, da ne bi bil sojen s strani porote v kateri so moji vrstniki.

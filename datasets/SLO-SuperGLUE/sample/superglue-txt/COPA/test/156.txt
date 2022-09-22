@@ -1,5 +1,0 @@
-choice1:V trupu jo je prijel krč.
-choice2:Čutila je vnovičen naval energije.
-idx:156
-premise:Ženska je prenehala teči.
-question:cause

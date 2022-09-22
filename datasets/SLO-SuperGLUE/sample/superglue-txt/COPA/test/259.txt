@@ -1,5 +1,0 @@
-choice1:Prejela je vabilo.
-choice2:Kupila je darilo.
-idx:259
-premise:Dekle se je udeležilo sošolkine rojstnodnevne zabave.
-question:cause

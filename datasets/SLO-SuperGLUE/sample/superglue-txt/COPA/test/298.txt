@@ -1,5 +1,0 @@
-choice1:Zbudil sem se.
-choice2:Sprostil sem se.
-idx:298
-premise:Odprl sem oči.
-question:cause

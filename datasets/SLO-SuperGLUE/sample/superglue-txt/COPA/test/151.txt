@@ -1,5 +1,0 @@
-choice1:Preštel sem denar.
-choice2:Razgrnil sem zemljevid.
-idx:151
-premise:Izgubil sem se.
-question:effect

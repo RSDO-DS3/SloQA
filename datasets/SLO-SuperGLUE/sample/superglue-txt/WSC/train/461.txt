@@ -1,3 +1,0 @@
-﻿text:<w1> John </w1> je najel Billa, zato da bi lahko skrbel <w2> zanj </w2> .
-idx:461
-label:True

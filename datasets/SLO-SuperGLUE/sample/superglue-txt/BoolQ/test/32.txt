@@ -1,3 +1,0 @@
-idx:32
-passage:Kalijev klorid -- Kalijev klorid (KCl) je kovinska halogenidna sol, sestavljena iz kalija in klora. Nima vonja in je bele ali brezbarvne steklaste kristalinične oblike. Trdnina je v vodi visoko topna, njena raztopina pa je po okusu podobna soli. KCl se uporablja kot gnojilo, v medicini, na področju znanosti in za predelavo živil.
-question:Ali bi bil KCl pri sobni temperaturi v trdnem stanju?

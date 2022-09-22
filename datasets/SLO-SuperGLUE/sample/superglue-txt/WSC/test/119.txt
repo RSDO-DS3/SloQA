@@ -1,2 +1,0 @@
-text:<w1> Ljudje v mojem bralnem krožku </w1> so le s težavo razumeli Carpenterjeve pesmi, ker <w2> so </w2> nejasne.
-idx:119

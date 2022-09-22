@@ -1,5 +1,0 @@
-choice1:Milijonar je želel, da stavbo porušijo.
-choice2:Milijonar je h gradnji prispeval denar.
-idx:120
-premise:Stavba je bila posvečena milijonarju.
-question:cause

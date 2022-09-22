@@ -1,5 +1,0 @@
-choice1:Podpiral je njihova prizadevanja.
-choice2:Obtožil jih je, da so nori.
-idx:149
-premise:Mož je podpisal peticijo aktivistov.
-question:cause

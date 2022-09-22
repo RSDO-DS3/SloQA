@@ -1,5 +1,0 @@
-choice1:Jajce se je izleglo.
-choice2:Strl sem jajce.
-idx:213
-premise:Iz jajca se je izlegel piščanec.
-question:cause

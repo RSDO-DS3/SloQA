@@ -1,3 +1,0 @@
-hypothesis:Amerika je trenutno takšne vrste okolje, kjer je trud za vzpenjanje od spodaj navzgor nujno sprejet kot dober
-idx:127
-premise:A: To je res. B: In res se bodo trudili in zdi se mi, da Amerika trenutno ni takšne vrste okolje, kjer je trud za vzpenjanje od spodaj navzgor nujno sprejet kot dober.

@@ -1,3 +1,0 @@
-text:<w1> Dan </w1> je Billu moral preprečiti, da bi se poigraval z ranjeno ptico. Zelo krut <w2> je </w2> .
-idx:408
-label:False

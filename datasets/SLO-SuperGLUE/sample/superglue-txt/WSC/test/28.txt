@@ -1,2 +1,0 @@
-text:Prišel je zadnji dan. Jutri bo <w1> Nell </w1> odšla. Oče in mama sta domov prinesla <w2> njen </w2> nov kovček.
-idx:28

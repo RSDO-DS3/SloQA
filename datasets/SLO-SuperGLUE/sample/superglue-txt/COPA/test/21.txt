@@ -1,5 +1,0 @@
-choice1:Najela je vodjo kampanje.
-choice2:Pričala je na sodišču.
-idx:21
-premise:Odločila se je kandidirati za javni položaj.
-question:effect

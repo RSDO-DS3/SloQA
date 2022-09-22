@@ -1,4 +1,0 @@
-hypothesis:vsi honorarji, zbrani od g. Antarja, bodo zaseženi
-idx:249
-label:entailment
-premise:V skladu z zakonom za koruptivne organizacije (RICO) je vlada pristojna, da zamrzne ali zaseže premoženje obdolženca pred sojenjem. Po mnenju posameznikov, ki so seznanjeni z zadevo gospoda Antarja, so tožilci ta teden izdali opozorilo, potem ko je eden od odvetnikov gospoda Antarja vprašal, ali se lahko sodne stroške zaseže. V pismu so tožilci odvetnikom g. Antarja povedali, da lahko zaradi nedavnih sodb vrhovnega sodišèa prièakujejo, da bodo morebitni honorarji, zbrani od g. Antarja, zaseženi.

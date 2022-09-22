@@ -1,5 +1,0 @@
-choice1:Žoga se je odkotalila.
-choice2:Njuni glavi sta trčili.
-idx:138
-premise:Otroka sta se hkrati sklonila, da pobereta žogo.
-question:effect

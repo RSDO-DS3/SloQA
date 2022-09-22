@@ -1,3 +1,0 @@
-hypothesis:dokazali bodo, da so moški in ženske enakopravni
-idx:85
-premise:B: Vendar se ne spuščam v pravo gibanje za emancipacijo žensk. A: Ne, jaz tudi ne. Mislim, da ne bodo nikoli dokazali, da so moški in ženske enakopravni.

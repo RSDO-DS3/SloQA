@@ -1,5 +1,0 @@
-choice1:Razgrnil sem zavese.
-choice2:Odklenil sem vrata.
-idx:290
-premise:V sobo je posijala sončna svetloba.
-question:cause

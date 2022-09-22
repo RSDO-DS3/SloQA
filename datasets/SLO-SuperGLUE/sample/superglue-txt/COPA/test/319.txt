@@ -1,5 +1,0 @@
-﻿choice1:Imel je karies.
-choice2:Zobje so se mu poravnali.
-idx:319
-premise:Fant je nosil zobni aparat.
-question:effect

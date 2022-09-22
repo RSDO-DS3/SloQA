@@ -1,5 +1,0 @@
-choice1:Igrala je damo.
-choice2:Skakala je čez kolebnico.
-idx:5
-premise:Deklici je zmanjkalo energije.
-question:cause

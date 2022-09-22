@@ -1,4 +1,0 @@
-hypothesis:to je bilo resnično življenje
-idx:45
-label:entailment
-premise:Tam je bila skupina radovednih opazovalcev... Marie je čutila, kako so se njene noge pod njo umaknile, usedla se je na robu pločnika z nogami v jarku, se zvila, bilo ji je slabo in jemalo ji je sapo, kot bi jo nekdo udaril v trebuh. Dvignila je svojo glavo in znova pogledala. Takšne scene je tako pogosto gledala v detektivskih filmih in policijskih nadaljevankah na televiziji, tako da je stežka verjela, da je to resnično življenje.

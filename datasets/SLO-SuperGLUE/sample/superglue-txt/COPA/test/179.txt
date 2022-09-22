@@ -1,5 +1,0 @@
-choice1:V ogledalu je napenjal mišice.
-choice2:Palico je dvignil nad glavo.
-idx:179
-premise:Dvigovalec uteži je zastokal.
-question:cause

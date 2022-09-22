@@ -1,4 +1,0 @@
-hypothesis:odnos bi ostal negativen zelo dolgo
-idx:170
-label:contradiction
-premise:B: naredili so stvari za ljudi, saj veš, za njihove skupnosti, za njihove, em, družine, za njihove prijatelje, kar zdaj nisem prepričan, da res počnejo. A: Ja. Ja. No, mislim včasih skozi skupine in organizacije, em, oh, ko so postavili vprašanje sem mislim, dobro, to zveni čudovito. In potem, spraševal sem se, če so ljudje nepripravljeni, ampak mislim da celo če si začel z negativnim odnosom, se mi zdi da ne bi ostal negativen prav dolgo,

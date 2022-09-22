@@ -1,3 +1,0 @@
-hypothesis:moški je mrtev
-idx:223
-premise:Za zapušèeni zemlji je moški z zakopano glavo vanjo. Ludo je zamahnil svoj kij vanj z vso moèjo, za katero je komaj vedel, da si jo lasti. Je Ludo vedel, da je moški mrtev?

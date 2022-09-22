@@ -1,4 +1,0 @@
-hypothesis:lahko shrani svoje smeti
-idx:138
-label:contradiction
-premise:B: ampak če prepričajo majhne otroke, da začnejo hraniti zdaj, bo čez pet let, ko bodo zrasli, delovala malo bolje. A: Ja. Res je. B: Ker je, vsi moramo to sedaj storiti. Jaz samo, res sem bil presenečen, ko sem ugotovil, da je osemdeset odstotkov prostora na smetiščih polnih že zdaj. V petih letih naj bi bili že na maksimumu. A: A-ha. B: Mislim, da ne morem shraniti svojih smeti.

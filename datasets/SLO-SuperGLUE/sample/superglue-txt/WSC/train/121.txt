@@ -1,3 +1,0 @@
-text:<w1> Slika </w1> v Markovi dnevni sobi prikazuje hrast. <w2> Je </w2> na desni strani knjižne police.
-idx:121
-label:True

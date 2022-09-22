@@ -1,4 +1,0 @@
-hypothesis:finance so storitvena industrija
-idx:246
-label:entailment
-premise:Torej, kdo ve? Po generaciji ali dveh bo The New Crowd lahko dosegla resnièno uglednost, ki jo bo kasneje izpodrinila jata brezvestnih grabežljivcev. Ali pa bo Wall Street, ko bo dovolj pretrpel, spoznal, da so finance storitvena industrija, in spremenil svoj namen.

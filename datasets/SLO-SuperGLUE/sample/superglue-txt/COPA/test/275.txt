@@ -1,5 +1,0 @@
-﻿choice1:Usedel sem se v zadnjo vrsto.
-choice2:Pristopil sem k podiju.
-idx:275
-premise:Zamudil sem na predavanje.
-question:effect

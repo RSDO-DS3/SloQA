@@ -1,4 +1,0 @@
-hypothesis:ostal bi svež toliko èasa
-idx:227
-label:contradiction
-premise:B: Kaj želiš? Kje ga dobijo? A: No, ne vem, pomoje ga nimajo doma. B: Ne morem si predstavljati, da bi ostal svež toliko èasa

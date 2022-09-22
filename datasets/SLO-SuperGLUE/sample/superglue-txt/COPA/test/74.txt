@@ -1,5 +1,0 @@
-choice1:Tekma je imela podaljšek.
-choice2:Sodnik se je slabo odločil.
-idx:74
-premise:Navijači na tekmi so izrazili negodovanje.
-question:cause

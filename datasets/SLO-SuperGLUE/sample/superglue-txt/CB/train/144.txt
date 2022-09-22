@@ -1,4 +1,0 @@
-hypothesis:živi v Baltimoru
-idx:144
-label:entailment
-premise:A: Živim malo iz Baltimora. Manj kot miljo sem oddaljen od Baltimorske linije. B: Em. A: Hodim na kampus Univerze v Marylandu ki je samo, manj kot miljo od moje hiše. Torej sem pravzaprav v Baltimoru, ja, lahko bi rekli, da živim v Baltimoru.

@@ -1,5 +1,0 @@
-choice1:Odpustil je svojega odvetnika.
-choice2:Vložil je zahtevo za ločitev.
-idx:226
-premise:Mož je odkril, da ga žena vara.
-question:effect

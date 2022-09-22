@@ -1,3 +1,0 @@
-hypothesis:Mel Sembler predstavlja ZDA.
-idx:6
-premise:V odzivu na Scheuerjeve izjave v La Repubblici je premierjev urad zanikal analitikove obtožbe, ki "poleg tega, da so neresnične, v ničemer ne ustrezajo vsebini pogovora med ministrskim predsednikom Silviom Berlusconijem in ameriškimi ambasadorjem v Rimu, Melom Semblerjem."

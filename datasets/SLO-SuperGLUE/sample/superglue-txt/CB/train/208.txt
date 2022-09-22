@@ -1,5 +1,0 @@
-hypothesis:stvari se izboljšujejo
-idx:208
-label:contradiction
-premise:A: ampak, zanimivo je bilo, ne vem, ali jih izboljšujejo ali ne, težko je reèi. Mislim, da je veè delov iz plastike, zaradi èesar se stvari lažje lomijo, vendar mislim, da je tehnologija boljša. B: Mislim, da je tehnologija boljša, nisem preprièan. Mislim, da imate prav glede plastike in tega. A: O kakovosti. B: Mislim, da ni nujno, da se stvari izboljšujejo.
-

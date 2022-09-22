@@ -1,5 +1,0 @@
-﻿choice1:Cenil sem njegovo mnenje.
-choice2:Vedel sem, da ima prav.
-idx:389
-premise:Prijatelja sem prosil za nasvet.
-question:cause

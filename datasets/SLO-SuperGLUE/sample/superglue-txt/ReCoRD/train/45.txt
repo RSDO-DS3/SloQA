@@ -1,6 +1,0 @@
-passage.text:Avtor: <e.0>Hamish Mackay</e.0> <e.1>Gary Lineker</e.1> je obtožil klube v <q.0.a.0>Premier League</q.0.a.0> , da so pogoltni glede cen vstopnic in da ni nobene potrebe, da so tako drage. Kot je v nedeljo poročal <e.3>Sportsmail</e.3> , je več kot polovica najvišje uvrščenih <e.4>angleških</e.4> klubov podražila cene za prihajajočo sezono - čeprav jim bodo nove pogodbe s televizijo v naslednjih treh letih prinesle 5,5 milijard funtov. <e.5>Lineker</e.5> je tvitnil: »Nobene potrebe ni, da klubi v <q.0.a.1>Premier league</q.0.a.1> toliko zaračunavajo, glede na to koliko dobička imajo s televizijo. Navadna pogoltnost!« VIDEO spodaj si oglejte, kako zelo veseli navijači kluba <e.7>Coventry</e.7> množično zavzamejo igrišče @highlight Več kot polovica klubov v <q.0.a.2>Premier League</q.0.a.2> podražila sezonske karte @highlight To so naredili kljub pogodbam s TV, ki bodo prinesle 5,5 milijarde funtov @highlight <e.9>Federacija nogometnih podpornikov</e.9> (<e.10>FSF</e.10>) organizira protestni shod @highlight <e.11>Lineker</e.11> izjavil, da klubi nimajo nobene pravice zaračunavati takih cen
-qas.0.answers.0.text:Premier League
-qas.0.answers.1.text:Premier league
-qas.0.answers.2.text:Premier League
-qas.0.query:Podražitev: Navijači klubov v @placeholder znova soočeni z višjimi cenami
-idx:45

@@ -1,5 +1,0 @@
-﻿choice1:Uporabnik je kliknil na miško.
-choice2:Uporabnik je premaknil miško.
-idx:164
-premise:Kazalec na računalniškem zaslonu se je premaknil.
-question:cause

@@ -1,3 +1,0 @@
-﻿text:Med menoj in <w1> odrom </w1> je steber, zato <w2> ga </w2> ne vidim .
-idx:450
-label:True

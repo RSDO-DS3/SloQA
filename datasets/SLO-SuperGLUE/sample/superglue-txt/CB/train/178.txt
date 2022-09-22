@@ -1,4 +1,0 @@
-hypothesis:otroka ni bilo več
-idx:178
-label:entailment
-premise:A: Fant, to je res strašljivo, kajne. B: Oh, si lahko predstavljaš, ker se zgodi sredi noči, torej, saj veš, ti starši niso vedeli, da njihovega otroka ni več, dokler ni otrok trkal na vrata in vpil naj ga spustijo noter.

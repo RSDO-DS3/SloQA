@@ -1,4 +1,0 @@
-hypothesis:Američani so prikrajšani glede reportaž
-idx:175
-label:contradiction
-premise:A: Veliko časa sem porabil za branje o teh stvareh. Me precej zanima. Zdi se mi zelo razburljivo, glede na reportaže, ki jih imamo sedaj, dandanes. B: Ja in mislim, da imamo precej dobre reportaže. Mislim, da Američani niso prikrajšani glede, em, reportaž.

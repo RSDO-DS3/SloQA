@@ -1,5 +1,0 @@
-choice1:Bila je prezgodaj rojena.
-choice2:Rodila se je gluha.
-idx:309
-premise:Ženska se je sporazumevala z znakovnim jezikom.
-question:cause

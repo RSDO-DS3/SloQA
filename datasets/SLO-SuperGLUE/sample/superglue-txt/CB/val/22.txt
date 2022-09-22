@@ -1,4 +1,0 @@
-hypothesis:igre na sreèo so še vedno to, za kar se gre tu
-idx:22
-label:entailment
-premise:``Tu je še vedno prostor za butike'', pravi James Barrett, predstavnik MarCor resorta. Brez podnapisov, MarCor gradi Rio, hotel-kasino z brazilsko tematiko in le 430 sobami - vsi so apartmaji. Kljub proliferaciji distrakcij za turiste, Las Vegas ni pozabil, da so igre na sreèo še vedno to, za kar se gre tu 

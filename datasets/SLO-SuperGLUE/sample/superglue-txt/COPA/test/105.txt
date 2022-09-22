@@ -1,5 +1,0 @@
-choice1:Dvigalo je prispelo do izbranega nadstropja.
-choice2:Dvigalo je obtičalo med dvema nadstropjema.
-idx:105
-premise:Vrata dvigala so se odprla.
-question:cause

@@ -1,3 +1,0 @@
-idx:21
-passage: Kemična energija -- Kemična potencialna energija je oblika potencialne energije, ki je povezana s strukturno razporeditvijo atomov ali molekul. Takšna razporeditev je lahko posledica kemijskih vezi v molekuli ali drugod. Kemična energija kemične snovi se lahko pretvori v druge oblike energije s kemično reakcijo. Ko na primer kurimo gorivo, se kemična energija molekularnega kisika pretvori v toploto, enako pa se zgodi tudi pri prebavi hrane, ki se presnavlja v biološkem organizmu. Zelene rastline s procesom, imenovanim fotosinteza, pretvarjajo sončno energijo v kemično energijo (večinoma iz kisika), z elektrokemičnimi reakcijami pa je mogoče električno energijo pretvoriti v kemično in obratno.
-question:Ali je kemična energija vrsta potencialne energije?

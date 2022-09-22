@@ -1,3 +1,0 @@
-text:<w1> Sid </w1> je svojo teorijo razložil Marku, vendar ga ni <w2> razumel </w2> .
-idx:74
-label:False

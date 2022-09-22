@@ -1,5 +1,0 @@
-choice1:Ponesreči sem pogoltnil seme.
-choice2:Ponesreči sem si okrušil zob.
-idx:466
-premise:Ugriznil sem v kos lubenice.
-question:effect

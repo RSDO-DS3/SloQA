@@ -1,5 +1,0 @@
-choice1:Šla sta na univerzo.
-choice2:Poročila sta se.
-idx:294
-premise:Moški in ženska sta se zaljubila.
-question:effect

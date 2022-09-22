@@ -1,5 +1,0 @@
-choice1:Začel se je prvi prizor predstave.
-choice2:Igralci v predstavi so zapustili oder.
-idx:305
-premise:Zavesa na odru se je dvignila.
-question:effect

@@ -1,5 +1,0 @@
-choice1:Imel je strah pred nastopanjem.
-choice2:Zapomnil si je svoje vrstice.
-idx:150
-premise:Igralčevo srce je razbijalo pred nastopom.
-question:cause

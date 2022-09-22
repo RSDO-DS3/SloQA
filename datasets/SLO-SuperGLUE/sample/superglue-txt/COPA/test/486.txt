@@ -1,5 +1,0 @@
-choice1:Zmanjkalo je tople vode.
-choice2:Ni mogel najti brisače.
-idx:486
-premise:Mož je stopil ven iz tuša.
-question:cause

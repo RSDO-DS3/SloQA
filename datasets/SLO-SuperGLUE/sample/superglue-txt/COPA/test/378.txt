@@ -1,5 +1,0 @@
-choice1:Nameraval sem iti na stričev pogreb.
-choice2:Nameraval sem iti na prijateljevo poroko.
-idx:378
-premise:Veselil sem se konca tedna.
-question:cause

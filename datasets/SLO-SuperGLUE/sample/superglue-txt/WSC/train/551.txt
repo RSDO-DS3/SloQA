@@ -1,3 +1,0 @@
-text:<w1> Bill </w1> je računalniško konzolo podal Johnu, ker je bila <w2> njegova </w2> runda.
-idx:551
-label:False

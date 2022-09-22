@@ -1,5 +1,0 @@
-choice1:Potniki so se hihitali. 
-choice2:Potniki so kričali.
-idx:282
-premise:Vlakec smrti je zdrvel navzdol po strmini.
-question:effect

@@ -1,5 +1,0 @@
-choice1:Pričakovala sta, da bo okoli gledališča prometno.
-choice2:Dobila sta navodila za pot do gledališča.
-idx:147
-premise:Zgodaj sta odšla na predstavo.
-question:cause

@@ -1,3 +1,0 @@
-text:Bilo je poletno popoldne in <w1> pes </w1> je sedel sredi trate. Čez čas se je dvignil in umaknil na prostor pod drevesom, ker je <w2> bil </w2> hladnejši.
-idx:354
-label:False

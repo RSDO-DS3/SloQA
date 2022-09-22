@@ -1,5 +1,0 @@
-choice1:Njihovi starši so umrli.
-choice2:Njihovi starši so jih razvajali.
-idx:433
-premise:Otroke so poslali v sirotišnico.
-question:cause

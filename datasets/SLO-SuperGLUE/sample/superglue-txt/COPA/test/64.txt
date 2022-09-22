@@ -1,5 +1,0 @@
-choice1:Zamenjal sem matico.
-choice2:Obrnil sem ključ.
-idx:64
-premise:Matica se je privila.
-question:cause

@@ -1,5 +1,0 @@
-choice1:Iskal sem svetilko.
-choice2:Pobral sem lopato.
-idx:262
-premise:Elektrika v hiši se je izklopila.
-question:effect

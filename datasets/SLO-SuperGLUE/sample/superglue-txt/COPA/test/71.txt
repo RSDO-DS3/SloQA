@@ -1,5 +1,0 @@
-choice1:Prenočila je v hotelu.
-choice2:Pozabila je nastaviti budilko.
-idx:71
-premise:Ženska je predolgo spala.
-question:cause

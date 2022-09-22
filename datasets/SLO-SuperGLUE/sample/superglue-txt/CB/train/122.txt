@@ -1,4 +1,0 @@
-hypothesis:njen mož je nor na živali
-idx:122
-label:entailment
-premise:A: Oh, o, ja in vsakič ko vidiš kakšno zbito ob robu ceste, si rečeš je to moja mačka. B: A-ha. A: In meša se ti, ko misliš, da bi lahko bila tvoja. B: Res, no, nisem se zavedala, da je moj mož tako nor na živali, dokler nisem neke noči ene prinesla domov.

@@ -1,5 +1,0 @@
-choice1:Imela je obsežno garderobo.
-choice2:Zložila je svoje perilo.
-idx:415
-premise:Ženski je v garderobi zmanjkalo prostora.
-question:cause

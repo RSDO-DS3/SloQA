@@ -1,3 +1,0 @@
-﻿text:<w1> Jane </w1> je potrkala na Susanina vrata, vendar ni <w2> odprla </w2> .
-idx:88
-label:False

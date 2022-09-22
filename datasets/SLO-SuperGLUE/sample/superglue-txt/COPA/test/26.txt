@@ -1,5 +1,0 @@
-choice1:Študenta je ujel pri goljufanju.
-choice2:Študentovi odgovori so bili nepravilni.
-idx:26
-premise:Učitelj je strgal študentov izpit.
-question:cause

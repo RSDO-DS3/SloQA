@@ -1,5 +1,0 @@
-choice1:Hitro se je zacelila.
-choice2:Pustila je brazgotino.
-idx:142
-premise:Praska na moji koži je bila globoka.
-question:effect

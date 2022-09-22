@@ -1,5 +1,0 @@
-choice1:Postal sem sumničav.
-choice2:Poklical sem policijo.
-idx:189
-premise:Pred mojo hišo je bil parkiran neznan avto.
-question:effect

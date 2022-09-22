@@ -1,5 +1,0 @@
-choice1:Soseda me je povabila noter.
-choice2:Soseda je zapustila hišo.
-idx:157
-premise:Potrkal sem na sosedina vrata.
-question:effect

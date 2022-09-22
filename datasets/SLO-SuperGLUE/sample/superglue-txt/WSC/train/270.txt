@@ -1,3 +1,0 @@
-text:Mami <w1> Arthurja in Celeste </w1> sta ponju prišli v mesto. Zelo veseli sta, da sta nazaj, vendar ju vseeno <w2> oštevata </w2> , ker sta pobegnila stran.
-idx:270
-label:False

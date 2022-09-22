@@ -1,3 +1,0 @@
-hypothesis:to bo naredila še kdaj
-idx:65
-premise:A: Najverjetneje bi, B: Ker jih moraš opazovati vsak dan in jih zalivati A: Ja.  Aha. B: in ne verjamem, da bom to še kdaj naredila.

@@ -1,3 +1,0 @@
-hypothesis:denar bo zasedel mesto inteligence
-idx:176
-premise:A: In kaj misliš o Robinu Hoodu? B: No, delam za šolski okoliš in, em, to nas je zelo prizadelo. Hm, mora obstajati nek način, mislim, da izenačimo izobraževalne možnosti. Ampak, em, saj veš, Mislim, predvsem velika vlada rada misli, da je rešitev vsega to, da notri vržeš denar. In jaz ne, sej veš, to pač ni res. Saj veš, ne zdi se mi, da bo denar zasedel mesto inteligence ali, em, spretnosti reševanja problemov.

@@ -1,3 +1,0 @@
-text:<w1> Gasilci </w1> so prispeli za policaji, saj so <w2> prihajali </w2> od zelo daleč.
-idx:231
-label:True

@@ -1,5 +1,0 @@
-choice1:Izdelke so testirali, da bi preverili njihovo kakovost.
-choice2:Izdelki so bili rezultat otroškega dela.
-idx:44
-premise:Aktivisti so bojkotirali izdelke.
-question:cause

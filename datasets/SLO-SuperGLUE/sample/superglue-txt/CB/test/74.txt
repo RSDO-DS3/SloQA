@@ -1,3 +1,0 @@
-hypothesis:bilo je novo dognanje
-idx:74
-premise:A: In potem me je zanimalo, kaj imajo za povedati, ker je prišlo nekaj ljudi iz Evropskega parlamenta in različnih krajev. B: Aha. A: In v bistvu so se odločili, da bo tu čez nekaj let nastal resen problem s trdnimi odpadki. B: Ni se mi zdelo, da je to neko novo dognanje.

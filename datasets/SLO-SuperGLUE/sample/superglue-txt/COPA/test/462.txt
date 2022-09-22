@@ -1,5 +1,0 @@
-choice1:Čutil sem svoj srčni utrip.
-choice2:Moj srčni utrip se je povišal.
-idx:462
-premise:Roko sem položil na prsi.
-question:effect

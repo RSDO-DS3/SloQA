@@ -1,5 +1,0 @@
-choice1:Ujela je ribo.
-choice2:Videti je bilo onesnaženo.
-idx:162
-premise:Izogibala se je jezera.
-question:cause

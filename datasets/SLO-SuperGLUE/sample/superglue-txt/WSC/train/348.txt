@@ -1,3 +1,0 @@
-text:<w1> Sonce </w1> je celo dopoldne zastiral gost oblak, vendar pa se je k sreči do začetka piknika že <w2> pokazalo </w2> .
-idx:348
-label:True

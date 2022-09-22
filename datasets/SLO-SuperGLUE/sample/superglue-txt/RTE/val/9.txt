@@ -1,4 +1,0 @@
-hypothesis:Pleme Raisani živi v Pakistanu.
-idx:9
-label:entailment
-premise:Tradicionalno so za red in mir v območju prelaza odgovorni Brahujci iz plemena Raisani. Pleme še danes živi v provinci Balokistan v Pakistanu.

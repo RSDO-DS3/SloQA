@@ -1,4 +1,0 @@
-hypothesis:moški, ki ga je kampanija gospoda Dinkinsa plaèala za nastop na volitvah, je bil obsojen zaradi ugrabitve 
-idx:248
-label:entailment
-premise:Mestni odbor za financiranje kampanj je gospodu Dinkinsu zavrnil plaèilo 95.142 ameriških dolarjev, ker je njegova evidenca kampanje nepopolna. Kampanja je za težave pri poroèanju krivila raèunalniške napake. In, pravi gospod Dinkins, ni vedel, da je bil èlovek, ki ga je njegova kampanja plaèala za nastop na volitvah, obsojen zaradi ugrabitve.

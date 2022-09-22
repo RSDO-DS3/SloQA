@@ -1,5 +1,0 @@
-choice1:Njegov sin je imel pravne težave.
-choice2:Njegov sin je podedoval njegovo premoženje.
-idx:401
-premise:Bogataš je umrl od starosti.
-question:effect

@@ -1,5 +1,0 @@
-choice1:Dolgočasil je občinstvo.
-choice2:Užalil je občinstvo.
-idx:101
-premise:Govorec je imel politično nekorektne opombe.
-question:effect

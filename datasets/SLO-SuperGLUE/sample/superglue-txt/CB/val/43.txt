@@ -1,4 +1,0 @@
-hypothesis:Billov vajenec postaja super detektiv
-idx:43
-label:entailment
-premise:Ampak bilo je malo možnosti, da bi ugotovili kdo ga je ubil brez pomoči. Kelly se je odločila, da mora govoriti z Annie, kljub temu da je obstajalo tveganje, da bo povedala svojemu možu. Bill bi se razjezil, če bi vedel, da njegov vajenec postaja super detektiv.

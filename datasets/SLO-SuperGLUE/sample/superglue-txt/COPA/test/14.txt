@@ -1,5 +1,0 @@
-﻿choice1:Bil je izpostavljen bolezni.
-choice2:Opomogel si je od bolezni.
-idx:14
-premise:Mornar je bil v karanteni.
-question:cause

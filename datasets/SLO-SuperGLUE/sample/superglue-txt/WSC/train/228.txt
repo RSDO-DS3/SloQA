@@ -1,3 +1,0 @@
-text:Sam je k <w1> Adamu </w1> hodil na ure francoščine, ker je bilo znano, da jo tekoče <w2> govori </w2> .
-idx:228
-label:True

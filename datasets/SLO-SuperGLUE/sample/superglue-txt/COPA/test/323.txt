@@ -1,5 +1,0 @@
-choice1:Pošta je dostavila pismo.
-choice2:Pošta je pismo poslala po hitri pošti.
-idx:323
-premise:Pismo sem vrgel v poštni nabiralnik.
-question:effect

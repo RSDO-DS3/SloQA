@@ -1,5 +1,0 @@
-choice1:Spraševal sem se, če je zunaj.
-choice2:Odločil sem se ga obiskati.
-idx:369
-premise:Luči v prijateljem stanovanju so bile prižgane.
-question:effect

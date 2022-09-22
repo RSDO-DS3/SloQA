@@ -1,5 +1,0 @@
-﻿choice1:Bil sem zmeden.
-choice2:Strinjal sem se z njim.
-idx:397
-premise:Prikimal sem prijateljevi izjavi.
-question:cause

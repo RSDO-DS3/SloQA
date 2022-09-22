@@ -1,3 +1,0 @@
-﻿text:<w1> Thomson </w1> je obiskal Cooperjev grob leta 1765. Pred tem je <w2> potoval </w2> pet let.
-idx:111
-label:True

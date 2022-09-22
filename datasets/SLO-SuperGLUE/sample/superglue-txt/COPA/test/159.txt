@@ -1,5 +1,0 @@
-choice1:Učenec je pravilno odgovoril na vprašanje.
-choice2:Učenec se je obotavljal pri odgovoru na vprašanje.
-idx:159
-premise:Učitelj je pohvalil učenca.
-question:cause

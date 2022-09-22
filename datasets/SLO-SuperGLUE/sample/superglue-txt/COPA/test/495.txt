@@ -1,5 +1,0 @@
-choice1:Izpadel je iz tekme.
-choice2:Pospešil je ritem.
-idx:495
-premise:Tekač je začutil, da ga tekmec dohaja.
-question:effect

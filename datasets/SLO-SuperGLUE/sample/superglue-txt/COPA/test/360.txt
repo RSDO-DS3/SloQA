@@ -1,5 +1,0 @@
-choice1:Imel je nahrbtnik.
-choice2:Nosil je neonski telovnik.
-idx:360
-premise:Mož je izstopal iz množice.
-question:cause

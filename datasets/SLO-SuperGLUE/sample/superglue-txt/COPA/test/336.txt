@@ -1,5 +1,0 @@
-choice1:Bil sem prepričan, da je imel dobre namene.
-choice2:Bil sem prepričan, da je vedel, kaj je naredil.
-idx:336
-premise:Opravičil sem sodelavčevo napako.
-question:cause

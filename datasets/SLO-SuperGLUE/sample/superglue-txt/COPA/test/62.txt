@@ -1,5 +1,0 @@
-choice1:Slišal sem tiktakanje ure.
-choice2:Želel sem preveriti, koliko je ura.
-idx:62
-premise:Pogledal sem na uro.
-question:cause

@@ -1,5 +1,0 @@
-choice1:Splezal je ven iz bazena.
-choice2:Padel je v bazen.
-idx:287
-premise:Dečkove obleke so se premočile.
-question:cause

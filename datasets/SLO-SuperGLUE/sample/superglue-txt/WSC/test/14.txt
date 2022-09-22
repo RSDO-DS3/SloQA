@@ -1,2 +1,0 @@
-text:<w1> Henry </w1> je bil pogosto prisoten pri intervjujih, ki jih je imel njegov oče z detektivi, ki so želeli <w2> njegovo </w2> pomoč pri razreševanju zapletenih ugank in te priložnosti so mu ostale v spominu kot nepozabni dnevi.
-idx:14

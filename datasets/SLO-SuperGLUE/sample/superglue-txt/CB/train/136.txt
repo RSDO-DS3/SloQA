@@ -1,4 +1,0 @@
-hypothesis:ena krava proizvede toliko gnoja
-idx:136
-label:entailment
-premise:B: Ja, in zemlja bo filtrirala nekaj, ampak ne vsega. A: Ne, ne ko ugotoviš, nisem si mislil, da ena krava proizvede toliko gnoja

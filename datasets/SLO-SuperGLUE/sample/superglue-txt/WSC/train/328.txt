@@ -1,3 +1,0 @@
-text:<w1> Oče </w1> je spečega fanta nosil v <w2> svojih </w2> rokah.
-idx:328
-label:True

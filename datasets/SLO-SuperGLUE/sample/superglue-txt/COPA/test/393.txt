@@ -1,5 +1,0 @@
-choice1:Drevo je padlo na streho.
-choice2:Drevo je zasenčilo dvorišče.
-idx:393
-premise:Drevo je poškodovalo hišo.
-question:cause

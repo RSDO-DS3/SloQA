@@ -1,3 +1,0 @@
-text:Na <w1> Jacksona </w1> je močno vplival Arnold, čeprav je <w2> živel </w2> dve stoletji prej.
-idx:517
-label:False

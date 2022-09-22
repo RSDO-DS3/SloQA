@@ -1,5 +1,0 @@
-﻿choice1:Nadel sem si predpasnik.
-choice2:Zamenjal sem srajco.
-idx:47
-premise:Srajco sem polil z vinom.
-question:effect

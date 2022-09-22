@@ -1,3 +1,0 @@
-hypothesis:pomagalo bi pri njihovi zasebni situaciji
-idx:94
-premise:B: Ne bo pomagalo. Nikoli ni pomagalo pri moji zasebni situaciji. Ne verjamem, da bi pomagalo pri njihovi.

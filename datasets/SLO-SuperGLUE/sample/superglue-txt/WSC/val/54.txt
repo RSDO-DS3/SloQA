@@ -1,3 +1,0 @@
-text:<w1> Jane </w1> je dala Joan sladkarije, ker ni <w2> bila </w2> lačna.
-idx:54
-label:True

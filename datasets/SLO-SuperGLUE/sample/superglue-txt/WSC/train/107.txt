@@ -1,3 +1,0 @@
-text:<w1> Mary </w1> je dala spat svojo hčerko Anne, zato da je lahko <w2> delala </w2> .
-idx:107
-label:True

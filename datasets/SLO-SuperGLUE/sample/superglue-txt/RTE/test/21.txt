@@ -1,3 +1,0 @@
-hypothesis:Protivirusni program podjetja Kaspersky Labs lahko ogrozi varnost.
-idx:21
-premise:Podjetje za izdelavo protivirusnih programov, Kaspersky Labs, je XCP istočasno označilo za  vohunsko programsko opremo, saj se skriva ter lahko ogrozi varnost in upočasni delovanje računalnikov.

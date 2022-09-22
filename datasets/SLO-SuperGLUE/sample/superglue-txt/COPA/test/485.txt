@@ -1,5 +1,0 @@
-choice1:Vejica je zagorela.
-choice2:Ogenj je ugasnil.
-idx:485
-premise:Dekle je v ogenj vrglo vejico.
-question:effect

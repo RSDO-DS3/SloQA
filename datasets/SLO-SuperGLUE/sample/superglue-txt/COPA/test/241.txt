@@ -1,5 +1,0 @@
-choice1:Naredil se ji je mozolj.
-choice2:Sneli so ji zobni aparat.
-idx:241
-premise:Najstnico je bilo sram iti v šolo.
-question:cause

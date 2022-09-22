@@ -1,4 +1,0 @@
-hypothesis:Richard Breedenova nova miza je imela štiri linije in en telefon
-idx:247
-label:entailment
-premise:Richard Breeden ni opazil, da je njegova nova miza imela le štiri linije in en telefon. 

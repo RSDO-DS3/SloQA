@@ -1,5 +1,0 @@
-choice1:Spal sem cel dan.
-choice2:Učil sem se cel dan.
-idx:330
-premise:Počutil sem se izčrpano.
-question:cause

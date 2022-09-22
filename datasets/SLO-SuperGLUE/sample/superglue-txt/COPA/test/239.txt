@@ -1,5 +1,0 @@
-choice1:Žebelj se je ugreznil v les.
-choice2:Žebelj je zarjavel.
-idx:239
-premise:Žebelj sem zabil s kladivom.
-question:effect

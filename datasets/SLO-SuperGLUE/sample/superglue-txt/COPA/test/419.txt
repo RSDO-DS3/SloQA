@@ -1,5 +1,0 @@
-﻿choice1:Kovanec se je potopil na dno.
-choice2:Kovanec se je zlomil na pol.
-idx:419
-premise:Kovanec sem vrgel v vodnjak.
-question:effect

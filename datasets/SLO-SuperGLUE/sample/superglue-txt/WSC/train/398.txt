@@ -1,3 +1,0 @@
-text:<w1> Pes </w1> je preganjal mačka, ki je pobegnil na drevo. <w2> Čakal </w2> je ob drevesu.
-idx:398
-label:True

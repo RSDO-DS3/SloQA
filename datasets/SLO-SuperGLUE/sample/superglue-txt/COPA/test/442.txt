@@ -1,5 +1,0 @@
-choice1:Vzel je sirup proti kašlju.
-choice2:Vzel je aspirin.
-idx:442
-premise:Njegova glava je razbijala od bolečine.
-question:effect

@@ -1,5 +1,0 @@
-choice1:Vpoklicali so ga v vojsko.
-choice2:Bil je ranjen v bitki.
-idx:412
-premise:Vojni veteran je šepal.
-question:cause

@@ -1,5 +1,0 @@
-choice1:Stranišče je poplavilo.
-choice2:Pokvaril se je grelec za vodo.
-idx:107
-premise:Kopalnico je poplavilo.
-question:cause

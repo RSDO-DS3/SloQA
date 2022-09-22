@@ -1,3 +1,0 @@
-﻿hypothesis:Gospod Torvalds je partner Johna Halla.
-idx:23
-premise:Neprofitno organizacijo LMI sta ustanovila gospod Tornvalds in John Hall, da licencira uporabo imena Linux.

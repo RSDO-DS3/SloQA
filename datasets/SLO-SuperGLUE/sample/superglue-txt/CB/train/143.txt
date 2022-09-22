@@ -1,4 +1,0 @@
-hypothesis:uporabil je pisalni stroj, da je napisal poročilo
-idx:143
-label:contradiction
-premise:B: Ja. Je, em, imam modemski nočni računalnik, da se lahko prijavim v, em, omrežje v Georgia Tech in prek tega dostopam do svojega računa, kar zna biti uporabno. Ampak, em, ja, to in obdelava besed je medtem ko ponavadi, mislim, očitno skoraj vse pisanje poročil opravim na svojem računalniku, em, če so seminarske naloge ali celo kakšne manjše domače naloge. A: A-ha. B: Torej je, ne vem, izgleda res postal moj temelj. Sploh se ne morem spomniti, pravzaprav mislim, da še nikoli v življenju nisem uporabil pisalnega stroja, da bi napisal poročilo. Ker je moje družina, ko sem odraščal, imeli smo osnovni računalnik. TRS Eighty, ko so prišli na tržišče.

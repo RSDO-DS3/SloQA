@@ -1,5 +1,0 @@
-choice1:V košu za smeti je bil karton.
-choice2:Na košu za smeti ni bilo pokrova.
-idx:139
-premise:Rakun je izropal koš za smeti.
-question:cause

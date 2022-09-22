@@ -1,5 +1,0 @@
-choice1:Pozdravil je občinstvo.
-choice2:Govoril je v mikrofon.
-idx:418
-premise:Njegov glas se je jasno slišal po celi dvorani.
-question:cause

@@ -1,3 +1,0 @@
-hypothesis:ona bi lahko to storila
-idx:182
-premise:B: Mislim, da sem enkrat lovil postrvi. Nikoli nisem lovil z muhami. Ste vi kdaj? O: Uh, ne, nisem. Ne vem, èe bi to lahko storila.

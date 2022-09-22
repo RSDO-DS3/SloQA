@@ -1,5 +1,0 @@
-choice1:Zadela ga je strela.
-choice2:Ljudje so ga častili.
-idx:348
-premise:Znameniti spomenik je pogorel do tal.
-question:cause

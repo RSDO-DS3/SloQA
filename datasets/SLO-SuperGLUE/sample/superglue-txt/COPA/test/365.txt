@@ -1,5 +1,0 @@
-choice1:Sonce me je zaslepilo.
-choice2:Moja koža je porjavela na soncu.
-idx:365
-premise:Zazrl sem se v sonce.
-question:effect

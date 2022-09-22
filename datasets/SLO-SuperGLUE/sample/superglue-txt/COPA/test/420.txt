@@ -1,5 +1,0 @@
-choice1:Žoga se je zakotalila v luknjo.
-choice2:Žoga se je odbila nazaj k igralcu.
-idx:420
-premise:Igralec je žogo udaril proti luknji.
-question:effect

@@ -1,5 +1,0 @@
-choice1:Porezal se je na papirju.
-choice2:Razrezal je papirje.
-idx:238
-premise:Mož je brskal po papirjih.
-question:effect

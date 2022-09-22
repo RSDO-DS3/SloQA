@@ -1,5 +1,0 @@
-choice1:Fant je imel pretres možganov.
-choice2:Fant je bil premočen.
-idx:182
-premise:Dekle je v fanta zalučalo balon z vodo.
-question:effect

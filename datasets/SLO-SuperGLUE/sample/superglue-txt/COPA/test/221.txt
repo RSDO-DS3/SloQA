@@ -1,5 +1,0 @@
-choice1:Želel sem si zasebnost.
-choice2:Bil sem osamljen.
-idx:221
-premise:Poklical sem prijatelja, da bi poklepetala.
-question:cause

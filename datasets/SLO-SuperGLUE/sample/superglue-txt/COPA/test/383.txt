@@ -1,5 +1,0 @@
-choice1:Brisača je vpila tekočino.
-choice2:Na mestu, kjer se je polila tekočina, je ostal lepljiv madež.
-idx:383
-premise:S papirnato brisačo sem pobrisal polito tekočino.
-question:effect

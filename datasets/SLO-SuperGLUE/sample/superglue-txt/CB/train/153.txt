@@ -1,4 +1,0 @@
-hypothesis:rehabilitacija je učinkovita
-idx:153
-label:contradiction
-premise:B: Mislim, ne moreš zagotoviti, da ne bodo zbežali iz zapora in vse to ponovili. A: Res.  In vse to še enkrat ponovili. A-ha. B: In zdi se mi, da rehabilitacija ni učinkovita.

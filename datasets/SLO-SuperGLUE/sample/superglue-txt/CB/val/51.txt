@@ -1,4 +1,0 @@
-hypothesis:to je mačka
-idx:51
-label:entailment
-premise:B: in, saj veš, naravnost obožujejo majhne mucke. A: Ja. B: So naravnost očarani. A: Oh, ja. B: Ne ve še, da je to mačka.

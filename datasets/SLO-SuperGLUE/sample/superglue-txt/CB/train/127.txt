@@ -1,4 +1,0 @@
-hypothesis:moralo bi biti soglasno
-idx:127
-label:contradiction
-premise:A: Em, torej morate vedeti o tem veliko več, kot vem jaz. B: Hm, mislim, em, sistem ta trenutek, veš, saj veš, je dobro. Mislim, da bi moralo biti s poroto. Mislim, da sodnik ne bi smel, mislim, tam je samo kot neke vrste nadzornik. A: A-ha, a-ha. B: Em, niti ne mislim, da bi moralo biti soglasno. Hm,

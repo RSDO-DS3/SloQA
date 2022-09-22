@@ -1,5 +1,0 @@
-choice1:Bal se je učenja plavanja.
-choice2:Reševalec je bil na svojem mestu.
-idx:461
-premise:Deček se je oklepal roba bazena.
-question:cause

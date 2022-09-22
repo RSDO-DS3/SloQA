@@ -1,5 +1,0 @@
-﻿choice1:Odpustila je svoje zaposlene.
-choice2:Postala je bogata.
-idx:448
-premise:Njen posel je uspel.
-question:effect

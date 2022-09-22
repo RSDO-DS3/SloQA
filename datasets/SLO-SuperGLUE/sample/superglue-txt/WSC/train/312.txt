@@ -1,3 +1,0 @@
-text:Tom je šolsko torbo podal <w1> Rayu </w1> , potem ko je <w2> prišel </w2> na dno stopnic.
-idx:312
-label:True

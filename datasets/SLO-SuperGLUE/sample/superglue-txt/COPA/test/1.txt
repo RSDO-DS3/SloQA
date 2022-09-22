@@ -1,5 +1,0 @@
-choice1:Našel sem ostanek karte.
-choice2:Našel sem orožje.
-idx:1
-premise:Izpraznil sem žepe.
-question:effect

@@ -1,5 +1,0 @@
-choice1:Sin je zaključil srednjo šolo.
-choice2:Mama je rodila dvojčka.
-idx:263
-premise:Družina se je preselila v večjo hišo.
-question:cause

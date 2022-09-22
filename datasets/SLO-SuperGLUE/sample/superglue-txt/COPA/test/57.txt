@@ -1,5 +1,0 @@
-choice1:Odprl sem pipo.
-choice2:Vanj sem nalil čistilo za odtok.
-idx:57
-premise:Kopalniški umivalnik je bil zamašen.
-question:effect

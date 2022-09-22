@@ -1,5 +1,0 @@
-choice1:Naučila se je uporabljati računalnik.
-choice2:Naučila se je komunikacijskih veščin.
-idx:279
-premise:Dekle se je pridružilo debatnemu krožku.
-question:effect

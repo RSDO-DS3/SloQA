@@ -1,4 +1,0 @@
-hypothesis:Oba kandidata v Iowi izvajata velik napad.
-idx:177
-label:not_entailment
-premise:Oba kandidata v Iowi delata velike vzpodbude.

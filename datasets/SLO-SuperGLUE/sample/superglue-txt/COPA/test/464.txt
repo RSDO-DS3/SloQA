@@ -1,5 +1,0 @@
-choice1:Družina je sosede povabila na večerjo.
-choice2:Družina je z dvorišča pomahala sosedom.
-idx:464
-premise:Družina je želela spoznati svoje nove sosede.
-question:effect

@@ -1,5 +1,0 @@
-choice1:Odpovedovale so mu ledvice.
-choice2:Imel je pljučnico.
-idx:425
-premise:Moški je glasno dihal.
-question:cause

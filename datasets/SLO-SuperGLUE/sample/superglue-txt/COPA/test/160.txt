@@ -1,5 +1,0 @@
-choice1:Šla je na kmetijo.
-choice2:Šla je v trgovino.
-idx:160
-premise:Zmanjkalo ji je jajc.
-question:effect

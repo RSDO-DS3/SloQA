@@ -1,3 +1,0 @@
-text:<w1> Tom </w1> je Ralphu rekel: »Šah!« in vzel <w2> njegovega </w2> lovca.
-idx:377
-label:False

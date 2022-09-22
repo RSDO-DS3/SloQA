@@ -1,5 +1,0 @@
-choice1:Novim strankam so ponudili popust.
-choice2:Strankam so razdelili anketo.
-idx:345
-premise:Družba je želela ugotoviti, kako zadovoljne so stranke.
-question:effect

@@ -1,3 +1,0 @@
-hypothesis:General Dynamics izdeluje poslovna letala Gulfstream.
-idx:27
-premise:General Dynamics, proizvajalec kopenskih sistemov vojskovanja, bojnih ladij in poslovnih letal Gulfstream, je v tretjem četrtletju objavil neto dobiček v višini 374 milijonov dolarjev oziroma 1.84 dolarja na delnico, ki je posledica povečanega povpraševanja po komunikacijskih in obveščevalnih sistemih ter cvetočega trga poslovnih letal.

@@ -1,5 +1,0 @@
-﻿choice1:Poster sem nalepil nad vrata.
-choice2:Lepilni trak sem zalepil na hrbtno stran posterja.
-idx:271
-premise:Poster se je prilepil na steno.
-question:cause

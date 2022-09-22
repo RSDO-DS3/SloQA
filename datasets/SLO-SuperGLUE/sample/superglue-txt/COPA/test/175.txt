@@ -1,5 +1,0 @@
-﻿choice1:Ni mogla pisati.
-choice2:Uredila je osnutek.
-idx:175
-premise:Pisateljica je zamudila rok za oddajo osnutka.
-question:cause

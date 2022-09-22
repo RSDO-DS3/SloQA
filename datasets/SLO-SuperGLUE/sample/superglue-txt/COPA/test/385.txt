@@ -1,5 +1,0 @@
-choice1:Mož si je privezal pas.
-choice2:Mož je pogledal skozi okno.
-idx:385
-premise:Letalo je šlo skozi turbulenco. 
-question:effect

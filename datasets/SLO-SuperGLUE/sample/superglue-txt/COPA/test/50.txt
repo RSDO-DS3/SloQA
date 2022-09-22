@@ -1,5 +1,0 @@
-choice1:Pogrešal je starše.
-choice2:Bil je čas za prigrizek.
-idx:50
-premise:Fantič je pojokal svoji varuški.
-question:cause

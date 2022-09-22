@@ -1,3 +1,0 @@
-hypothesis:Sovjeti res želijo svet pognati v zrak
-idx:152
-premise:B: Torej, izvorno vprašanje, mislimo, da predstavljajo, saj veš, varnostno grožnjo? A: Ja. B: Hm, ja in ne. A: Ja, strinjam se tudi s tem odgovorom. Edini ja, h kateremu sem lahko šel je, če, hm, se skupina upornikov odloči, da izvede napad ali nenamerni zagon ali kaj podobnega, kar bi povzročilo jedrsko izmenjavo, a v resnici ne vidim, da bi se kaj takega lahko zgodilo. Em, ker so trenutno njihovi notranji konflikti bolj pomembni kot da posvečajo pozornost kakršnim koli zunanjim zadevam, na katere so bili včasih navajeni. B: Em, ne.  No, v resnici se mi ne zdi, da bi Sovjeti res želeli svet pognati v zrak.

@@ -1,5 +1,0 @@
-choice1:Zaklenil sem ključavnico.
-choice2:Ključavnica se je odprla.
-idx:75
-premise:V ključavnico sem vnesel svojo kombinacijo.
-question:effect

@@ -1,8 +1,0 @@
-passage.text:Tolpa <e.0>etiopskih</e.0> mladeničev s pokritimi obrazi koraka proti taborišču njihovih nasprotnikov v mestu <e.1>Calais</e.1> , oborožena je s palicami in kamenjem. Ko jih zagledajo, se <q.1.a.0>eritrejski</q.1.a.0> mladeniči hitro oborožijo, da bi branili svoje ozemlje. Vendar pa so čez nekaj minut na prizorišču posebne enote <e.3>francoske</e.3> policije. Potem ko izza svojih ščitov izstrelijo solzivec, jim uspe razgnati obe skupini. Včerajšnji pretep se je končal, skoraj še preden se je začel, vendar bo do njega zagotovo spet prišlo tudi danes. In jutri. Video spodaj ... Jeza: Policija je posredovala, ko so migranti v mestu <e.4>Calais</e.4> zanetili nemir; v taborišču je uporabila solzivec, migranti pa so v odgovor čez ograjo metali palice in kamenje @highlight Na sliki je <e.5>francoska</e.5> policija, ki je ustavila spopade med rivalskima skupinama @highlight Zaradi nenehnega nasilja je policija na robu zmogljivosti @highlight Tolpe se borijo za najboljši dostop do trajektnega pristanišča v mestu <q.2.a.0>VB</q.2.a.0>
-qas.0.answers.0.text:VB
-qas.0.query:K nemirom naj bi prispevali tudi prepiri s tihotapci ljudi, ki za prehod v @placeholder zaračunajo tudi do tisoč funtov.
-qas.1.answers.0.text:eritrejski
-qas.1.query:Včeraj je moški iz Etiopije, ki ni želel biti imenovan, izjavil, da @placeholder tihotapci ljudi zaračunajo dostop do območij, s katerih se je najlažje pretihotapiti na tovornjake. 
-qas.2.answers.0.text:VB
-qas.2.query:Le nekaj ur po pretepu so na prometni cesti do smrti povozili 16-letno dekle, ki se je poskusilo vkrcati na tovornjak na poti v @placeholder.
-idx:15

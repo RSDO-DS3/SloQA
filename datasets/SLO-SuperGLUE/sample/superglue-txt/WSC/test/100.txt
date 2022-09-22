@@ -1,2 +1,0 @@
-text:Po precej dolgem <w1> pogovoru </w1> je Nancy gospodinjo prepričala, da ni neposrednega razloga za preplah. Ni omenila pripetljaja z avtobusne postaje Hamilton, ker je vedela, da bi samo še <w2> povečal </w2> nelagodje gospe Gruen.
-idx:100

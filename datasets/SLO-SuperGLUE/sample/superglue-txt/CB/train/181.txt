@@ -1,4 +1,0 @@
-hypothesis:ena rešitev za financiranje šol je najboljša 
-idx:181
-label:contradiction
-premise:B: toda, uh, vsekakor lahko vidim, uh, kje imamo otroke in smo že v tej starosti, da bo to nedvomno skrb. O: Ja, že ste govorili prej, o financiranju šole. Mislim, da bo obstajala samo ena rešitev za financiranje šol, za katero mislim, da ne bo nujno najboljša pot

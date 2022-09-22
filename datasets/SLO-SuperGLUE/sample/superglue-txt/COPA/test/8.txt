@@ -1,5 +1,0 @@
-choice1:Občinstvo je spremljalo glasbo s ploskanjem.
-choice2:Občinstvo je vljudno poslušalo v tišini.
-idx:8
-premise:Skupina je zaigrala svojo uspešnico.
-question:effect

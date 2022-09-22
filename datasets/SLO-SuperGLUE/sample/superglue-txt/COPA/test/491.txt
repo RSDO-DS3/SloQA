@@ -1,5 +1,0 @@
-choice1:Za mizo sem se pogovarjal s kolegom.
-choice2:Slučajno sem slišal pogovor na hodniku.
-idx:491
-premise:Vrata moje pisarne so bila odprta.
-question:effect

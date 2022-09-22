@@ -1,4 +1,0 @@
-hypothesis:všeè ji je moderni rock and roll
-idx:229
-label:contradiction
-premise: B: No, tako jaz gledam na rock and roll vèasih, tudi. Res ni, vedno isti zvok, in še ena stvar, ki je ne maram je to, da imajo navado igrati instrumente tako glasno, da ne moreš niè razumeti, kaj pojejo. A: ja. B: ne moreš razumeti kaj govorijo na nekaterih od teh pesmi. A: Ja. In ne morem reèi, da mi je všeè moderni rock and roll,

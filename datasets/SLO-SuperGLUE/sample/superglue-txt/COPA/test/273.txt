@@ -1,5 +1,0 @@
-choice1:Njegova roka se je tresla.
-choice2:Polizal je žlico.
-idx:273
-premise:Moškemu je padla žlica.
-question:cause

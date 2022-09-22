@@ -1,5 +1,0 @@
-choice1:Zaradi nesreče je postala paralizirana.
-choice2:V bolnico je prišla na nosilih.
-idx:131
-premise:Žensko so posadili v invalidski voziček.
-question:cause  

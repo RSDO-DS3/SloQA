@@ -1,5 +1,0 @@
-choice1:Pesek se mi je lepil na stopala.
-choice2:Ob obalo so butali valovi.
-idx:315
-premise:Peš sem se sprehajal po plaži.
-question:effect

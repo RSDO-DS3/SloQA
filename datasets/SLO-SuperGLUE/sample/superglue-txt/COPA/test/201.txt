@@ -1,5 +1,0 @@
-﻿choice1:Mleko je imelo skisan okus.
-choice2:Moja usta so bila suha.
-idx:201
-premise:Izpljunil sem mleko.
-question:cause
