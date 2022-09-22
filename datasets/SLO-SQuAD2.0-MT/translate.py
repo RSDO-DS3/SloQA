@@ -43,7 +43,7 @@ def handle_translation(translation):
 
 # utility >> translate_squad2 << handles the translation process
 def translate_squad2(df, split):
-    prefix = 'slo-squad2-mt-'
+    prefix = 'squad2-slo-mt-'
     # translation variables
     google_mt = GoogleTranslate()
     language = 'Slovene'
