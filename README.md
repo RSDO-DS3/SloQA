@@ -8,8 +8,8 @@ V tem repozitoriju se nahaja rezultat aktivnosti A3.4 Orodje za avtomatsko odgov
 
 - `app/` contains the web API for question answering
 - `datasets/` contains the created datasets for question answering in the Slovenian language
-- `demo/` contains a Jupyter Notebook for quick demonstrations of the question answering models
 - `models/` contains the fine-tuned models for question answering in the Slovenian language
+- `train_eval/` contains the scripts for fine-tuning and evaluation
 
 ## Datasets
 
@@ -19,12 +19,9 @@ The datasets are organized as follows:
 datasets/
 └── SLO-SQuAD2.0-MT (machine translated SQuAD2.0)
 |    └── data 
-|    |    ├── slo-squad2-mt-train (train set)
-|    |    ├── slo-squad2-mt-val (val set)
-|    |    ├── errors-train.csv (set of erroneous questions from the train set)
-|    |    ├── errors-val.csv (set of erroneous questions from the val set)
-|    ├── translate.py (script for machine translation)
-|    └── train-qa.py (script for model fine-tuning)
+|    |    ├── squad2-slo-mt-dev.json (val set)
+|    |    ├── squad2-slo-mt-train.json (train set)
+|    └── translate.py (script for machine translation)
 |
 └── SLO-SuperGLUE
      ├── BoolQ
@@ -32,25 +29,45 @@ datasets/
      └── ReCoRD
 ```
 
-## Question answering demo (Jupyter Notebook)
-
-For quick demonstrations, a Jupyter Notebook is available to demonstrate the use of models for question answering in the Slovenian language. The demo contains two text paragraphs with a few questions to try out.
-
 ## Supported QA models
 
 The built models are the following:
 
-- BERT-base
-- BERT-tiny
-- RoBERTa-base
-- XLM-RoBERTa-base
-- SloBERTa
+- bert-base-cased-squad2-SLO
+- bert-base-multilingual-cased-squad2-SLO
+- electra-base-squad2-SLO
+- roberta-base-squad2-SLO
+- sloberta-squad2-SLO
+- xlm-roberta-base-squad2-SLO
 
-Inspect `train-qa.py` for insight about training your own model.
+Inspect `train_eval` folder for insight about training your own model.
+
+### Model evaluation
+
+| Model                                      | EM      | F1      |
+|:-------                                    |:-------:|:-------:|
+|bert-base-cased-squad2-SLO                  |55.12    |60.52    |
+|bert-base-multilingual-cased-squad2-SLO     |61.37    |68.10    |
+|electra-base-squad2-SLO                     |53.69    |60.85    |
+|roberta-base-squad2-SLO                     |58.23    |64.62    |
+|sloberta-squad2-SLO                         |67.10    |73.56    |
+|xlm-roberta-base-squad2-SLO                 |62.52    |69.51    |
+
+
+*Results were obtained by running the evaluation script on the `squad2-slo-mt-dev.json` file. Example for evaluating `bert-base-cased-squad2-SLO`:*
+
+```
+python fine_tune_HF.py \
+     --do_eval \
+     --model_name_or_path results/bert-base-cased-squad2-SLO \
+     --validation_file squad2-slo-mt-dev.json \
+     --output_dir results/bert-base-cased-squad2-SLO \
+     --version_2_with_negative
+```
 
 ## Deploy web API with docker
 
-To deploy the web API with docker, first copy the contents of folder `models` to `app/models`. Modify `app/api/main.py` with the names of the models you want to serve.
+To deploy the web API with docker, first extract the models in .ZIP format to the `models` folder. Then copy the contents of folder `models` to `app/models`. The web API will serve all models in the folder by default, but you can modify `app/api/main.py` with the names of the specific models you want to serve.
 
 To build the docker image run:
 
@@ -77,11 +94,20 @@ The web API is supported by FastAPI/uvicorn.
  - String `question`    Text containing the question.
  - String `context`     Text containing the context (usually a paragraph of text)
  - String `model_name`  The name of the model. Currently supported options are:
-    - `bert-slo-squad_v2`
-    - `bert-tiny-slo-squad_v2`
-    - `roberta-base-slo-squad_v2`
-    - `xlm-roberta-base-slo-squad_v2`
-    - `sloberta-slo-squad_v2`
+     - `bert-base-cased-squad2-SLO`
+     - `bert-base-multilingual-cased-squad2-SLO`
+     - `electra-base-squad2-SLO`
+     - `roberta-base-squad2-SLO`
+     - `sloberta-squad2-SLO`
+     - `xlm-roberta-base-squad2-SLO`
+
+*The info on parameters of the question answering endpoint can be retrieved using a GET endpoint at `http://localhost:8008/params`.*
+
+## Live demo
+
+The WebAPI can be tested live at http://164.8.252.73:8008/docs
+
+
 
 ---
 
