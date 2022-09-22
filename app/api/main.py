@@ -2,18 +2,21 @@
 
 from fastapi import FastAPI
 from transformers import pipeline, AutoModelForQuestionAnswering, AutoTokenizer
-
+import os
 ########## PRELOADING MODELS ##########
 
 print('Preloading models...')
 
-model_names = [
-    'bert-slo-squad_v2',
-    'bert-tiny-slo-squad_v2',
-    'roberta-base-slo-squad_v2',
-    'xlm-roberta-base-slo-squad_v2',
-    'sloberta-slo-squad_v2'
-]
+model_folder = '../models/'
+
+# read models folder for models to serve
+model_names = [name for name in os.listdir(model_folder) if os.path.isdir(os.path.join(model_folder, name))]
+
+# or manually define the models to serve
+#model_names = [
+#   'sloberta-squad2-SLO',
+#   'xlm-roberta-base-squad2-SLO'
+#]
 
 models = {}
 tokenizers = {}
@@ -35,6 +38,15 @@ app = FastAPI()
 @app.get("/")
 async def status():
     return {"status": "active"}
+
+@app.get("/params")
+async def params():
+    names = ", ".join(model_names)
+    return {
+        "question": "string: string with text representing the question",
+        "context": "string: string with text representing the context",
+        "model_name": "string: string representing the model name; can be one of: " + names
+    }
 
 @app.get("/qa/")
 async def qa(question: str, context: str, model_name: str):
