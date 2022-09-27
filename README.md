@@ -8,7 +8,6 @@ V tem repozitoriju se nahaja rezultat aktivnosti A3.4 Orodje za avtomatsko odgov
 
 - `app/` contains the web API for question answering
 - `datasets/` contains the created datasets for question answering in the Slovenian language
-- `models/` contains the fine-tuned models for question answering in the Slovenian language
 - `train_eval/` contains the scripts for fine-tuning and evaluation
 
 ## Datasets
@@ -31,7 +30,7 @@ datasets/
 
 ## Supported QA models
 
-The built models are the following:
+The built models ([download link](https://univerzamb-my.sharepoint.com/personal/mladen_borovic_um_si/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmladen%5Fborovic%5Fum%5Fsi%2FDocuments%2FResearch%2FRSDO%2FR3%2E4%20QA%2Fmodels&ga=1)) are the following:
 
 - bert-base-cased-squad2-SLO
 - bert-base-multilingual-cased-squad2-SLO
