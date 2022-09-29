@@ -3,13 +3,21 @@
 from fastapi import FastAPI
 from transformers import pipeline, AutoModelForQuestionAnswering, AutoTokenizer
 import os
+from pydantic import BaseModel
+
+########## INPUT OBJECT ##########
+class InputJSON(BaseModel):
+    question: str
+    context: str
+    model_name: str
+
 ########## PRELOADING MODELS ##########
 
 print('Preloading models...')
 
 model_folder = '../models/'
 
-# read models folder for models to serve
+# read "models" folder for models to serve
 model_names = [name for name in os.listdir(model_folder) if os.path.isdir(os.path.join(model_folder, name))]
 
 # or manually define the models to serve
@@ -39,25 +47,20 @@ app = FastAPI()
 async def status():
     return {"status": "active"}
 
-@app.get("/params")
-async def params():
-    names = ", ".join(model_names)
-    return {
-        "question": "string: string with text representing the question",
-        "context": "string: string with text representing the context",
-        "model_name": "string: string representing the model name; can be one of: " + names
-    }
+@app.post("/qa/")
+async def qa(input: InputJSON):
+    question = input.question
+    context = input.context
+    model_name = input.model_name
 
-@app.get("/qa/")
-async def qa(question: str, context: str, model_name: str):
     if model_name not in models:
-        return {"status": "error", "message": "Model not found"}
+        return {"status": "error", "message": "Model not available"}
     
     model = models[model_name]
     tokenizer = tokenizers[model_name]
 
     qa_pipeline = pipeline('question-answering', model=model.to('cpu'), tokenizer=tokenizer)
 
-    result = qa_pipeline(question, context)
+    result = qa_pipeline(question=question, context=context, top_k=3)
 
     return result
