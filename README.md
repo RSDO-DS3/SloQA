@@ -23,14 +23,38 @@ datasets/
 |    └── translate.py (script for machine translation)
 |
 └── SLO-SuperGLUE
-     ├── BoolQ
-     ├── MultiRC
-     └── ReCoRD
+     ├── data
+     |    ├── boolq
+     |    |     ├── ext-SND
+     |    |     |     ├── BoolQ-SLO-ext-SND.jsonl (all data of the BoolQ extension in one file)
+     |    |     |     ├── test.jsonl (test split of the BoolQ extension)
+     |    |     |     ├── train.jsonl (train split of the BoolQ extension)
+     |    |     |     └── val.jsonl (val split of the BoolQ extension)
+     |    ├── multirc
+     |    |     ├── ext-SND
+     |    |     |     ├── MultiRC-SLO-ext-SND.jsonl (all data of the MultiRC extension in one file)
+     |    |     |     ├── test.jsonl (test split of the MultiRC extension)
+     |    |     |     ├── train.jsonl (train split of the MultiRC extension)
+     |    |     |     └── val.jsonl (val split of the MultiRC extension)
+     |    ├── record
+     |    |     ├── ext-SND
+     |    |     |     ├── ReCoRD-SLO-ext-SND.jsonl (all data of the ReCoRD extension in one file)
+     |    |     |     ├── dev.jsonl (dev split of the ReCoRD extension)
+     |    |     |     ├── test.jsonl (test split of the ReCoRD extension)
+     |    |     |     ├── train.jsonl (train split of the ReCoRD extension)
+     |    |     |     └── val.jsonl (val split of the ReCoRD extension)
+     |    |     ├── dev.jsonl (dev split of the machine translated ReCoRD)
+     |    |     └── train.jsonl (train split of the machine translated ReCoRD)
+     └── tools
+          ├── Readme.md (instructions for environment setup)
+          ├── requirements.txt (dependency file for pip)
+          ├── run_superglue.py (script for running a SuperGLUE task)
+          └── translate_record.py (script for translation of ReCoRD)
 ```
 
 ## Supported QA models
 
-Currently supported models ([download link](https://univerzamb-my.sharepoint.com/personal/mladen_borovic_um_si/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmladen%5Fborovic%5Fum%5Fsi%2FDocuments%2FResearch%2FRSDO%2FR3%2E4%20QA%2Fmodels&ga=1)) are the following:
+Currently supported models ([download link](https://nas.cjvt.si/index.php/s/8RWoks7jinNasiR), [mirror download link](https://univerzamb-my.sharepoint.com/personal/mladen_borovic_um_si/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmladen%5Fborovic%5Fum%5Fsi%2FDocuments%2FResearch%2FRSDO%2FR3%2E4%20QA%2Fmodels&ga=1)) are the following:
 
 - bert-base-cased-squad2-SLO
 - bert-base-multilingual-cased-squad2-SLO
