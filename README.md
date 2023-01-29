@@ -12,7 +12,7 @@ V tem repozitoriju se nahaja rezultat aktivnosti A3.4 Orodje za avtomatsko odgov
 
 ## Datasets
 
-Data for SuperGLUE tasks is available on the [CLARIN.SI repository](http://hdl.handle.net/11356/1704).
+Datasets are available on the CLARIN.SI repository: [SLO-SuperGLUE](http://hdl.handle.net/11356/1704), [SLO-SQuAD2.0-MT](http://hdl.handle.net/11356/1756).
 
 The datasets are organized as follows:
 
