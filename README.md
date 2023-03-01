@@ -56,7 +56,9 @@ datasets/
 
 ## Supported QA models
 
-Currently supported models ([download link](https://nas.cjvt.si/index.php/s/8RWoks7jinNasiR), [mirror download link](https://univerzamb-my.sharepoint.com/personal/mladen_borovic_um_si/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmladen%5Fborovic%5Fum%5Fsi%2FDocuments%2FResearch%2FRSDO%2FR3%2E4%20QA%2Fmodels&ga=1)) are the following:
+Currently supported models are available on the CLARIN.SI repository: [download link](https://www.clarin.si/repository/xmlui/handle/11356/1778)
+
+The currently supported models are the following:
 
 - bert-base-cased-squad2-SLO
 - bert-base-multilingual-cased-squad2-SLO
